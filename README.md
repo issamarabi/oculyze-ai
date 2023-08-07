@@ -17,9 +17,7 @@ An advanced toolkit for HCI research that integrates usability testing, eye-trac
 
 ## Installation
 ```bash
-git clone https://github.com/your_username/oculyze-ai.git
-cd oculyze-ai
-pip install -r requirements.txt
+git clone https://github.com/Asensio55/oculyze-ai.git
 ```
 
 ## Usage
@@ -37,9 +35,6 @@ Details about how the data is collected, the metrics considered, preprocessing s
 
 ## Feedback & Analysis with GPT-4
 Explanation on how LLMs are integrated and how they provide insights based on the collected data.
-
-## Contribution Guidelines
-We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute and the process for submitting pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
