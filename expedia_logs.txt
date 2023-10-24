@@ -1,0 +1,400 @@
+Hovered on DIV with text "Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations
+Search for travel
+Stays
+Flight"
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT, changed value to "new york city"
+Hovered on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on DIV
+Hovered on BUTTON with text "Oct 27 - Oct 31"
+Clicked on BUTTON with text "Oct 27 - Oct 31"
+Hovered on SPAN with text "Fri, Oct 27"
+Hovered on DIV with text "30"
+Hovered on DIV with text "Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations
+Search for travel
+Stays
+Flight"
+Clicked on DIV with text "Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations
+Search for travel
+Stays
+Flight"
+Clicked on BUTTON with text "2 travelers, 1 room"
+Hovered on BUTTON with text "2 travelers, 1 room"
+Clicked on BUTTON with text "Done"
+Hovered on H3 with text "Your recent searches"
+Hovered on A with text "Flights"
+Clicked on A with text "Flights"
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT, changed value to "toronto"
+Clicked on BUTTON
+Hovered on INPUT
+User was inactive for 17 seconds
+Input Changed on INPUT, changed value to "new york"
+Clicked on BUTTON
+Hovered on DIV with text "Save 10% or more on thousands of hotels with Member Prices. Also, members save up to 30% when you ad"
+Clicked on BUTTON with text "Nov 7 - Nov 8"
+Hovered on DIV with text "1"
+Hovered on BUTTON with text "Done"
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "Search"
+Clicked on SPAN with text "Roundtrip"
+Hovered on SPAN with text "Roundtrip"
+Clicked on BUTTON with text "Search"Clicked on SPAN with text "Flights"
+Page Loaded: https://www.expedia.com/
+Hovered on SPAN with text "Flights"
+Clicked on BUTTON
+Hovered on INPUT
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "Toronto, ON, Canada (YYZ-Pearson Intl.)"
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT, changed value to "new york city"
+Clicked on BUTTON
+Hovered on DIV with text "Save 10% or more on thousands of hotels with Member Prices. Also, members save up to 30% when you ad"
+Clicked on BUTTON with text "Nov 7 - Nov 8"
+Hovered on DIV with text "1"
+Hovered on DIV with text "30"
+Hovered on BUTTON with text "Done"
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "Search"
+Clicked on BUTTON with text "1 traveler"
+Hovered on BUTTON with text "1 traveler"
+Clicked on BUTTON with text "Done"
+Hovered on SPAN with text "Roundtrip"
+Hovered on BUTTON with text "Search"
+Clicked on BUTTON with text "Search"Page Loaded: https://www.expedia.com/Flights-Search?flight-type=on&mode=search&trip=roundtrip&leg1=from:Toronto,%20ON,%20Canada%20(YYZ-Pearson%20Intl.),to:New%20York,%20NY,%20United%20States%20of%20America%20(JFK-John%20F.%20Kennedy%20Intl.),departure:11/1/2023TANYT&leg2=from:New%20York,%20NY,%20United%20States%20of%20America%20(JFK-John%20F.%20Kennedy%20Intl.),to:Toronto,%20ON,%20Canada%20(YYZ-Pearson%20Intl.),departure:11/30/2023TANYT&options=cabinclass:economy&fromDate=11/1/2023&toDate=11/30/2023&d1=2023-11-1&d2=2023-11-30&passengers=adults:1,infantinlap:N
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (19)
+$269
+2+ Stops (2)
+$1,814
+Airlines
+Airlines
+"
+Hovered on SPAN with text "Nonstop (14)"
+Clicked on SPAN with text "Nonstop (14)"
+Clicked on INPUT
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (19)
+$269
+2+ Stops (2)
+$1,814
+Airlines
+Airlines
+"
+Input Changed on INPUT, changed value to "0"
+Hovered on SPAN with text "1 Stop (19)"
+Clicked on SPAN with text "1 Stop (19)"
+Clicked on INPUT
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (19)
+$269
+2+ Stops (2)
+$1,814
+Airlines
+Airlines
+"
+Input Changed on INPUT, changed value to "1"
+Hovered on SELECT
+Clicked on OPTION with text "Price (Lowest)"
+Hovered on SELECT
+Input Changed on SELECT, changed value to "PRICE_INCREASING"
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 7:06am from Toronto, arr"
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 10:30am from Toronto, ar"
+Clicked on BUTTON with text "Select and show fare information for American Airlines flight, departing at 10:30am from Toronto, ar"
+Hovered on DIV with text "Non-refundable"
+Hovered on DIV with text "No change fees"
+Hovered on BUTTON with text "Select"
+Hovered on DIV with text "Cabin: Economy"
+Clicked on BUTTON with text "Select"
+Hovered on BUTTON with text "Select"
+Hovered on LI
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (12)
+$263
+2+ Stops (4)
+$1,714
+Airlines
+Airlines
+"
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 7:50pm from New York, ar"
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 7:58am from New York, ar"
+Clicked on BUTTON with text "Select and show fare information for American Airlines flight, departing at 7:58am from New York, ar"
+Hovered on DIV with text "7:58am through 9:50am (Nonstop)
+7:58am - 9:50am (Nonstop)
+American Airlines
+Above average CO₂
+Above "
+Hovered on SPAN with text "Baggage fees reflect the airline's standard fees based on the selected fare class. Fees may vary bas"
+Hovered on BUTTON with text "Select"
+Clicked on BUTTON with text "Select"
+Hovered on IMG
+Clicked on IMGHovered on DIV
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (19)
+$269
+2+ Stops (2)
+$1,814
+Airlines
+Airlines
+"
+Hovered on INPUT
+Clicked on INPUT
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (19)
+$269
+2+ Stops (2)
+$1,814
+Airlines
+Airlines
+"
+Input Changed on INPUT, changed value to "1"
+Hovered on INPUT
+Clicked on INPUT
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (19)
+$269
+2+ Stops (2)
+$1,814
+Airlines
+Airlines
+"
+Input Changed on INPUT, changed value to "0"
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (19)
+$269
+2+ Stops (2)
+$1,814
+Airlines
+Airlines
+"
+User was inactive for 16 seconds
+Hovered on SELECT
+Clicked on OPTION with text "Price (Lowest)"
+Hovered on SELECT
+Input Changed on SELECT, changed value to "PRICE_INCREASING"
+Clicked on BUTTON with text "Select and show fare information for American Airlines flight, departing at 10:30am from Toronto, ar"
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 10:30am from Toronto, ar"
+Hovered on LI with text "Flexibility
+Non-refundable
+No change fees"
+Hovered on BUTTON with text "Select"
+Hovered on P with text "Add to this flight"
+Clicked on P with text "Add to this flight"
+Clicked on INPUT
+Input Changed on INPUT
+Hovered on BUTTON with text "Select"
+Clicked on BUTTON with text "Select"
+Hovered on UL
+Hovered on LI
+Hovered on BUTTON with text "Select and show fare information for Delta flight, departing at 11:54am from New York, arriving at 1"
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 7:58am from New York, ar"
+Clicked on BUTTON with text "Select and show fare information for American Airlines flight, departing at 7:58am from New York, ar"
+Hovered on DIV with text "Price Drop Protection added
+$7 roundtrip per traveler
+Remove"
+Hovered on BUTTON with text "Select"
+Clicked on BUTTON with text "Select"
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+Nonstop (14)
+$254
+1 Stop (12)
+$263
+2+ Stops (4)
+$1,714
+Airlines
+Airlines
+"
+Hovered on IMG
+Clicked on IMGHovered on DIV with text "Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations
+Search for travel
+Stays
+Flight"
+User was inactive for 113 seconds
+Hovered on DIV with text "Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations
+Search for travel
+Stays
+Flight"Page Loaded: https://www.expedia.com/
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT, changed value to "new york city"
+Clicked on BUTTON
+Clicked on BUTTON with text "Oct 27 - Oct 31"
+Hovered on BUTTON with text "Done"
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "2 travelers, 1 room"
+Hovered on BUTTON with text "2 travelers, 1 room"
+Hovered on DIV
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "Search"
+Clicked on BUTTON with text "Search"Hovered on H3 with text "Your recent searches"
+Page Loaded: https://www.expedia.com/
+Hovered on DIV with text "Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations
+Search for travel
+Stays
+Flight"
+Hovered on DIV with text "Expedia Travel: Search Hotels, Cheap Flights, Car Rentals & Vacations
+Search for travel
+Stays
+Flight"
+Clicked on BUTTON
+Hovered on INPUT
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "Manhattan, New York, New York, United States of America"
+Clicked on BUTTON with text "Oct 27 - Oct 31"
+Hovered on SPAN with text "November 2023"
+Hovered on DIV with text "30"
+Hovered on BUTTON with text "Done"
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "2 travelers, 1 room"
+Clicked on BUTTON with text "2 travelers, 1 room"
+Clicked on SPAN
+Hovered on BUTTON with text "Done"
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "Search"
+Clicked on BUTTON with text "Search"Page Loaded: https://vac.vap.expedia.com/3.55.0/index.htmlHovered on MESO-DISPLAY-AD
+Page Loaded: https://www.expedia.com/Hotel-Search?adults=1&d1=2023-11-01&d2=2023-11-30&destination=Manhattan%2C%20New%20York%2C%20New%20York%2C%20United%20States%20of%20America&endDate=2023-11-02&latLong=40.783062%2C-73.971252&regionId=129440&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2023-11-01&theme=&useRewards=false&userIntent=
+Hovered on P with text "Breakfast included"
+Clicked on P with text "Breakfast included"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "FREE_BREAKFAST"
+Hovered on P with text "Wifi Included"
+Clicked on P with text "Wifi Included"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "WIFI"
+Hovered on DIV with text "Going to
+Manhattan, New York, New York, United States of America
+Going to
+Going to
+Dates
+Nov 1 - Nov"
+Clicked on BUTTON with text "Nov 1 - Nov 2"
+Clicked on BUTTON with text "Nov 1 - Nov 2"
+Hovered on BUTTON with text "Nov 1 - Nov 2"
+Hovered on DIV with text "1"
+Hovered on SPAN with text "November 2023"
+Hovered on DIV with text "30"
+Hovered on BUTTON with text "Done"
+Clicked on BODY with text "Skip to main content
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Beginn"
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "1 traveler, 1 room"
+Hovered on A with text "More information about Element New York Times Square West, opens in a new tab"
+Clicked on A with text "More information about Element New York Times Square West, opens in a new tab"
+Hovered on DIV with text "Going to
+Manhattan, New York, New York, United States of America
+Going to
+Going to
+Dates
+Nov 1 - Nov"
+Clicked on IMGPage Loaded: https://vac.vap.expedia.com/3.55.0/index.htmlHovered on SPAN with text "Cars"
+Clicked on SPAN with text "Cars"
+Page Loaded: https://www.expedia.com/
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT, changed value to "jfk"
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on INPUT
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "New York, NY, United States of America (JFK-John F. Kennedy Intl.)"
+Hovered on DIV with text "Rental cars
+Airport transportation
+Pick-up
+New York, NY, United States of America (JFK-John F. Kenne"
+Hovered on DIV with text "Pick-up
+New York, NY, United States of America (JFK-John F. Kennedy Intl.)
+Pick-up
+Pick-up
+Drop-off
+"
+Hovered on DIV with text "Rental cars
+Airport transportation"
+Clicked on BUTTON with text "Nov 7 - Nov 8"
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on DIV
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON with text "Done"
+Clicked on BUTTON with text "Done"
+Hovered on SELECT
+Clicked on SELECT
+Hovered on SELECT
+Clicked on OPTION with text "10:30am"
+Hovered on SELECT
+Clicked on SELECT
+Clicked on OPTION with text "10:30am"
+Hovered on BUTTON with text "Search"
+Clicked on BUTTON with text "Search"Page Loaded: https://www.expedia.com/Hotel-Search?adults=1&d1=2023-11-01&d2=2023-11-30&destination=New%20York%20%28and%20vicinity%29%2C%20New%20York%2C%20United%20States%20of%20America&endDate=2023-11-02&latLong=40.75668%2C-73.98647&regionId=178293&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2023-11-01&theme=&useRewards=false&userIntent=
+Hovered on IMG
+Clicked on IMGUser was inactive for 356 seconds
+Hovered on DIV with text "Going to
+United States of America
+Going to
+Going to
+Dates
+Nov 7 - Nov 9
+Travelers
+2 travelers, 1 roo"
+Clicked on IMG

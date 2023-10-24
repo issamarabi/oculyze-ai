@@ -1,0 +1,291 @@
+Page Loaded: https://www.ca.kayak.com/?ispredir=true
+Page Loaded: https://www.ca.kayak.com/?ispredir=true
+Hovered on SECTION with text "Ce que KAYAK vous propose :
+Grande sélection, super offres
+Recherchez sur des centaines de sites pou"
+User was inactive for 399 seconds
+Clicked on DIV with text "Explore"Page Loaded: https://www.ca.kayak.com/?ispredir=truePage Loaded: https://www.ca.kayak.com/explore/
+Hovered on DIV with text "Explorez le monde
+depuis Toronto
+Halifax
+dès C$ 82
+Canada
+jeu. 22 août - mar. 27 août
+Saskatoon
+dès "
+Hovered on DIV with text "Connexion
+ 
+C$"
+Hovered on DIV with text "C$ 295
+C$ 389
+C$ 251
+C$ 271
+C$ 285
+C$ 388
+C$ 110
+C$ 291
+C$ 232
+C$ 156
+C$ 274
+C$ 112
+C$ 271
+C$ 352
+C$"
+Rapid scrolling detected
+Hovered on DIV with text "Les prix s’entendent pour (1) un vol aller-retour, (2) en classe économique, (3) trouvé au cours des"
+Hovered on DIV with text "Entreprise
+À propos
+Offres d’emploi
+Mobile
+Notre fonctionnement"
+Hovered on DIV with text "Entreprise
+À propos
+Offres d’emploi
+Mobile
+Notre fonctionnement
+Contact
+Aide/FAQ
+Presse
+Affiliation
+"
+Clicked on DIV with text " 
+Canada"
+Hovered on DIV with text " 
+Canada"
+Hovered on SPAN with text "Brasil"
+Clicked on SPAN with text "EN"Page Loaded: https://www.ca.kayak.com/explore/Page Loaded: https://www.ca.kayak.com/explore/
+Hovered on DIV with text "Toronto (YTO)
+Anywhere
+Anytime, Any Duration"
+Hovered on DIV with text "Explore destinations
+from Toronto"Page Loaded: https://www.ca.kayak.com/explore/Page Loaded: https://www.ca.kayak.com/
+Page Loaded: https://www.ca.kayak.com/
+Hovered on DIV
+Hovered on SECTION with text "Simplify your holiday travel plans.
+We can’t tell your family to make the final call on where to spe"
+User was inactive for 324 seconds
+Hovered on INPUT
+Input Changed on INPUT, changed value to "Toronto"
+Hovered on SECTION with text "What KAYAK brings to the table.
+Big names, great deals
+Search 100s of travel sites to compare prices"
+Clicked on INPUT
+Clicked on INPUT
+Hovered on INPUT
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "false"
+Hovered on SPAN with text "Toronto Island"
+Hovered on SPAN with text "Kitchener-Waterloo"
+Hovered on INPUT
+Input Changed on INPUT, changed value to "new y0ork "
+Hovered on SPAN with text "New York, United States"
+Clicked on INPUT
+Clicked on SPAN with text "Fri 10/11"
+Hovered on SPAN with text "Fri 10/11"
+Input Changed on INPUT, changed value to "true"
+Clicked on DIV with text "1"
+Clicked on DIV with text "30"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "false"
+Clicked on BODY with text "Skip to main content
+Sign in
+ 
+C$
+Sign in
+Flights
+Stays
+Cars
+Flight+Hotel
+Explore
+Flight Tracker
+Bes"
+Hovered on DIV with text "Carry-on bag
+Checked bag
+Baggage per passenger"
+Clicked on DIV with text "Return
+1 adult
+Economy
+2 bags"
+Hovered on DIV with text "Return
+1 adult
+Economy
+2 bags"Page Loaded: https://www.ca.kayak.com/Page Loaded: https://www.ca.kayak.com/book/flight?code=gdBCNUYV18.jsIZYjH_NnTBDARZyLA7ng.28982.90381423a6feb3838f1728639f3f213e&h=aed4efd2ec75&sub=E0859cdff70b&numOfBags=1&baggageFee=64.00&bagCurrency=CAD&carryOn=1&carryOnFee=0.00&carryOnCurrency=CAD&pageOrigin=F..RP.FE.M1
+Page Loaded: https://www.ca.kayak.com/book/flight?code=gdBCNUYV18.jsIZYjH_NnTBDARZyLA7ng.28982.90381423a6feb3838f1728639f3f213e&h=aed4efd2ec75&sub=E0859cdff70b&numOfBags=1&baggageFee=64.00&bagCurrency=CAD&carryOn=1&carryOnFee=0.00&carryOnCurrency=CAD&pageOrigin=F..RP.FE.M1
+Hovered on DIV with text "Bags must be added
+on aircanada.com/ca/en/aco/home.html
+Ticket price
+C$ 334
+Estimated carry-on bag f"Page Loaded: https://www.ca.kayak.com/book/flight?code=gdBCNUYV18.jsIZYjH_NnTBDARZyLA7ng.28982.b68715ad1e5ee7c0b73d807befc1924c&h=9ceb6a5cad6a&sub=E0859cdff70b&numOfBags=1&baggageFee=64.00&bagCurrency=CAD&carryOn=1&carryOnFee=0.00&carryOnCurrency=CAD&pageOrigin=F..RP.FE.M1
+Hovered on DIV with text "Bags must be added
+on aircanada.com/ca/en/aco/home.html
+Ticket price
+C$ 334
+Estimated carry-on bag f"Page Loaded: https://www.ca.kayak.com/flights/YYZ-NYC/2023-11-01/2023-11-30/1students?fs=cfc=1;bfc=1
+Hovered on DIV with text "Sign in
+ 
+C$"
+Hovered on DIV with text "Go to flights filters
+Edit search form
+Go to flights results section
+{0}% complete.
+Edit search form"
+Hovered on INPUT
+Hovered on DIV with text "Go to flights filters
+Edit search form
+Go to flights results section
+{0}% complete.
+Edit search form"
+Clicked on DIV with text "View Deal"
+Hovered on DIV with text "View Deal"
+Hovered on OL with text "10:45 am – 12:25 pm
+YYZPearson Intl
+-
+EWRNewark
+direct
+1h 40m
+2:05 pm – 3:49 pm
+LGALaGuardia
+-
+YYZPe"
+Clicked on DIV with text "Cheapest
+C$ 398 • 1h 42m"
+Hovered on DIV with text "Return"
+Hovered on A with text "View Deal"
+Hovered on DIV with text "Discounted Fare"
+Clicked on DIV with text "View Deal"
+Hovered on DIV with text "View Deal"Page Loaded: https://www.ca.kayak.com/flights
+User was inactive for 49 seconds
+Hovered on DIV with text "Stays"Page Loaded: https://www.ca.kayak.com/flights
+Hovered on DIV with text "Stays"
+Clicked on DIV with text "Stays"Page Loaded: https://www.ca.kayak.com/book/hotel?code=gdCEIFxzTj.qumWFano8BP274JKcE0diPaeNWhRPjM7r__yfHjaxxI.47525.3310347.MTY5ODgxMTIwMDAwMF4xNzAxMzIwNDAwMDAwXjFeMV4=&h=a34ffd0138a2&pageOrigin=H..RP.FE.M9Page Loaded: https://www.ca.kayak.com/hotels/Manhattan,New-York,United-States-c15830-n218452/2023-11-01/2023-11-30/1adults
+Hovered on IFRAME
+Clicked on DIV with text "Go to map
+Price Alerts
+Track prices
+Recommended filters
+Neighbourhood: Manhattan
+Hotel class
+0+
+2
+3
+"
+Clicked on DIV with text "Freebies
+Free breakfast
+only
+91
+Free parking
+84
+Free cancellation
+191
+Free internet
+251
+Free airport"
+Hovered on DIV with text "Free breakfast"
+Hovered on DIV with text "Free internet"
+Hovered on DIV with text "Compare vs. KAYAK
+COMPARE
+COMPARE
+COMPARE ALL"
+Hovered on DIV with text "C$ 23,195"
+Clicked on DIV with text "Price (low to high)"
+Hovered on DIV with text "C$ 11,282
+Booking.com
+Free breakfast
+Free internet"
+Hovered on DIV with text "C$ 11,282"
+Hovered on DIV with text "C$ 18,887"Page Loaded: https://www.ca.kayak.com/hotels/Manhattan,New-York,United-States-c15830-n218452/2023-11-01/2023-11-30/1adultsPage Loaded: https://www.ca.kayak.com/hotels/Manhattan,New-York,United-States-c15830-n218452/2023-11-01/2023-11-30/1adults?sort=price_a&fs=freebies=freebreakfast,freeinternetClicked on INPUT
+Hovered on INPUT
+Hovered on DIV with text "New York, United States
+City
+New York, United StatesJFK
+John F Kennedy Intl
+New York City Center, Ne"
+Hovered on DIV with text "Manhattan, New York, United States
+Borough
+Manhattan, Kansas, United States
+Town
+Manhattan Beach, Ca"
+Input Changed on INPUT, changed value to "manhattan"
+Clicked on DIV with text "1"
+Clicked on SPAN with text "Thu 30/11"
+Clicked on DIV with text "30"
+Clicked on DIV with text "1 room, 2 guests"
+Hovered on BUTTON
+User was inactive for 61 seconds
+Hovered on SECTION with text "Simplify your holiday travel plans.
+We can’t tell your family to make the final call on where to spe"
+Clicked on A with text "Cars"Page Loaded: https://www.ca.kayak.com/book/car?code=gdBmJrh_Sh.QXOmvWUgHvk9LSh4YnON3G3uRuAw5MlG.8634.849008c6743db7d7d366fb44e08451d5&h=632102f4eb38&sub=31e0317babf8da83822862e7436d99aa&pageOrigin=C..RP.FE.M1
+Page Loaded: https://www.ca.kayak.com/book/car?code=gdBmJrh_Sh.QXOmvWUgHvk9LSh4YnON3G3uRuAw5MlG.8634.849008c6743db7d7d366fb44e08451d5&h=632102f4eb38&sub=31e0317babf8da83822862e7436d99aa&pageOrigin=C..RP.FE.M1Page Loaded: https://www.wisecars.com/en-ca/results/?pick_loc_id=7119&drop_loc_id=7119&pick_date=2023-11-01&pick_time=12:00&drop_date=2023-11-30&drop_time=12:00&rc=ca&age=21&source=wisecars_kayak&car_id=136353726&prid=1-57950-56503-N-N-N-N-0&unique_id=136353726_40413_15&experimentId=AGvkOvdSeWEXAA&correlationId=c3415177-7614-4dfb-8c1d-c317b9397183&hmac=684a25466f42fd4840b5ad8e7276c393&supplier_code=CCAR&kayakclickid=1PsLInE1ipVFTtGv_gRtuw&currency=CADPage Loaded: https://www.ca.kayak.com/cars/JFK-a15830/2023-11-01/2023-11-30/age-21
+Hovered on INPUT
+Clicked on DIV
+Clicked on INPUT
+Hovered on DIV
+Input Changed on INPUT, changed value to "false"
+Hovered on DIV with text "Sign in
+Flights
+Stays
+Cars
+Flight+Hotel
+Explore
+Flight Tracker
+Best Time to Travel
+NEW
+Feedback
+Trip"
+Hovered on DIV with text "Hyundai Accent"
+Hovered on DIV with text "View Deal"
+Hovered on DIV with text "Drive first class, pay economy. Save now with SIXT.
+Don't miss these deals.
+New York Car Rentals | 1"
+Hovered on DIV with text "Sign in
+Flights
+Stays
+Cars
+Flight+Hotel
+Explore
+Flight Tracker
+Best Time to Travel
+NEW
+Feedback
+Trip"Page Loaded: https://www.ca.kayak.com/cars/JFK-a15830/2023-11-01/2023-11-30/age-21Clicked on INPUT
+Hovered on INPUT
+Clicked on SPAN with text "Other"
+Clicked on INPUT
+Clicked on INPUT
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on INPUT
+Rapid succession of clicks detected
+Hovered on INPUT
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on INPUT
+Rapid succession of clicks detected
+Hovered on DIV with text "Same drop-off
+Driver's age: 21"
+Input Changed on INPUT, changed value to "21"
+Hovered on SECTION with text "Receive our newsletter.
+Sign up for email updates with travel recommendations and Private Deals.
+Let"
+Clicked on DIV with text "Same drop-off
+Driver's age: 21"
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "John F Kennedy Intl, New York, United States"
+Clicked on DIV with text "Wed 1/11"
+Hovered on DIV with text "Wed 1/11"
+Clicked on DIV with text "1"
+Clicked on DIV with text "30"Page Loaded: https://www.ca.kayak.com/cars
