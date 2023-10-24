@@ -97,6 +97,31 @@ def summarize_insights(transcripts):
 
     return response['choices'][0]['message']['content']
 
+def process_log(log):
+    response = openai.Completion.create(
+        model="gpt-4",
+        temperature=0,
+        messages=[
+            {
+                "role": "system",
+                "content": """Analyze the following website interaction logs on a travel booking website to identify potential usability issues and user behavior patterns. Consider the user's navigation flow, interaction with various elements, points of hesitation or confusion, and any rapid or repetitive actions that might indicate frustration.
+
+                            Based on these logs:
+                            1. Identify patterns of user behavior.
+                            2. Highlight deviations from typical behavior indicating usability issues.
+                            3. Pinpoint areas of potential confusion or trouble spots.
+                            4. Provide actionable insights or recommendations for improving website usability.
+                            """
+            },
+            {
+                "role": "user",
+                "content": log
+            },
+        ],
+    )
+
+    return response['choices'][0]['message']['content']
+
 
 
 
