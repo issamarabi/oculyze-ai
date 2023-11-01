@@ -1,16 +1,17 @@
 import os
 import openai
 import whisper
+from typing import List, Dict
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
-def transcribe_audio(audio_files):
-    model = whisper.load_model("medium")
+def transcribe_audio(audio_files: List[str]) -> List[str]:
+    model = whisper.load_model("base")
     transcriptions = [model.transcribe(audio_file) for audio_file in audio_files]
     return transcriptions
 
 
-def think_aloud_minutes(transcription):
+def think_aloud_minutes(transcription: str) -> dict:
     usability_issues = issues_extraction(transcription)
     actionable_insights = action_extraction(usability_issues, transcription)
     return {
@@ -19,7 +20,7 @@ def think_aloud_minutes(transcription):
     }
 
 
-def issues_extraction(transcription):
+def issues_extraction(transcription: str) -> str:
     response = openai.ChatCompletion.create(
         model="gpt-4",
         temperature=0,
@@ -37,7 +38,7 @@ def issues_extraction(transcription):
     return response['choices'][0]['message']['content']
 
 
-def action_extraction(issues, transcription):
+def action_extraction(issues: str, transcription: str) -> str:
     response = openai.ChatCompletion.create(
         model="gpt-4",
         temperature=0,
@@ -58,29 +59,22 @@ def action_extraction(issues, transcription):
     return response['choices'][0]['message']['content']
 
 
-def format_transcripts(transcripts):
+def format_transcript(transcript: Dict[str, str], idx: int=1) -> str:
     """
-    Converts a list of transcripts into a readable string format for LLM processing.
+    Converts a single transcript into a readable string format for LLM processing.
     """
-    formatted_transcripts = []
-    for idx, transcript in enumerate(transcripts):
-        formatted_transcript = f"Study {idx+1}:\n"
-        formatted_transcript += f"Usability Issues: {transcript['usability_issues']}\n"
-        formatted_transcript += f"Actionable Insights: {transcript['actionable_insights']}\n\n"
-        formatted_transcripts.append(formatted_transcript)
+    formatted_transcript = f"Study {idx+1}:\n"
+    formatted_transcript += f"Usability Issues: {transcript['usability_issues']}\n"
+    formatted_transcript += f"Actionable Insights: {transcript['actionable_insights']}\n\n"
+    return formatted_transcript
 
-    return "\n".join(formatted_transcripts)
-
-def summarize_insights(transcripts):
+def summarize_insights(minute: str) -> str:
     """
     transcripts: list of transcripts (combined output of multiple calls to think_aloud_minutes())
     """
-    
-    # Format transcripts for LLM
-    all_transcripts = format_transcripts(transcripts)
 
     # Generate a summary based on all transcripts
-    response = openai.Completion.create(
+    response = openai.ChatCompletion.create(
         model="gpt-4",
         temperature=0,
         messages=[
@@ -90,15 +84,16 @@ def summarize_insights(transcripts):
             },
             {
                 "role": "user",
-                "content": all_transcripts
+                "content": minute
             },
         ],
     )
 
     return response['choices'][0]['message']['content']
 
+
 def process_log(log):
-    response = openai.Completion.create(
+    response = openai.ChatCompletion.create(
         model="gpt-4",
         temperature=0,
         messages=[
