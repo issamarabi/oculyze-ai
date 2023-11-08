@@ -1,0 +1,328 @@
+Page Loaded: https://www.expedia.ca/
+Hovered on SECTION with text "More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in"
+Hovered on DIV with text "Skip to main content
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Beginn"
+User was inactive for 11 seconds
+Hovered on A with text "Learn more"
+Hovered on A with text "Learn more"
+Page Loaded: https://www.expedia.ca/
+Hovered on DIV with text "Explore more in 2023. Soon you’ll be able to sign in and book with one account across Expedia, Hotel"
+Hovered on DIV with text "Explore more in 2023. Soon you’ll be able to sign in and book with one account across Expedia, Hotel"
+Page Loaded: https://www.expedia.ca/
+User was inactive for 33 seconds
+Hovered on DIV with text "Explore more in 2023. Soon you’ll be able to sign in and book with one account across Expedia, Hotel"
+Page Loaded: https://www.expedia.ca/
+User was inactive for 15 seconds
+Hovered on DIV with text "Explore more in 2023. Soon you’ll be able to sign in and book with one account across Expedia, Hotel"
+Page Loaded: https://www.expedia.ca/
+User was inactive for 12 seconds
+Hovered on DIV with text "Explore more in 2023. Soon you’ll be able to sign in and book with one account across Expedia, Hotel"
+Page Loaded: https://www.expedia.ca/
+User was inactive for 31 seconds
+Hovered on UL with text "Learn more"
+Page Loaded: https://www.expedia.ca/
+User was inactive for 20 seconds
+Hovered on DIV with text "Members save on winter vacations
+Plan early for winter vacations and avoid peak prices. Plus, you ca"
+Clicked on BUTTON
+Hovered on INPUT
+Page Loaded: https://www.expedia.ca/
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "New York, NY, United States of America (LGA-LaGuardia)"
+Clicked on BUTTON with text "Nov 7 - Nov 11"
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Rapid succession of clicks detected
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "2 travellers, 1 room"
+Clicked on BUTTON with text "Search"
+Clicked on BODY with text "Skip to main content
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Beginn"
+Page Loaded: https://www.expedia.ca/Hotel-Search?destination=New%20York,%20NY,%20United%20States%20of%20America%20(LGA-LaGuardia)&regionId=4278092&latLong=40.77429,-73.872035&flexibility=0_DAY&d1=2024-02-01&startDate=2024-02-01&d2=2024-02-15&endDate=2024-02-15&adults=1&rooms=1
+Hovered on A with text "Opens New York Marriott Marquis in new tab"
+Hovered on DIV with text "Save an average of 15% on thousands of hotels when you're signed in"
+Clicked on BUTTON with text "1 traveller, 1 room"
+Hovered on BUTTON with text "1 traveller, 1 room"
+Clicked on BUTTON with text "Done"
+Hovered on DIV
+Hovered on DIV with text "1,076 properties"
+Clicked on A with text "Flights"
+Clicked on BUTTON
+Page Loaded: https://www.expedia.ca/
+Hovered on INPUT
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "Toronto, ON, Canada (YYZ-Pearson Intl.)"
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT
+Clicked on DIV with text "New York (LGA - LaGuardia)
+New York, United States of America"
+Clicked on BUTTON
+Clicked on BUTTON with text "Nov 15 - Nov 16"
+Clicked on DIV with text "Roundtrip
+One-way
+Multi-city
+Economy"
+Clicked on BUTTON with text "Nov 15 - Nov 16"
+Clicked on DIV with text "your current months are November, 2023 and December, 2023.
+November 2023
+S
+Sunday
+	M
+Monday
+	T
+Tuesd"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on DIV with text "1"
+Hovered on DIV with text "15"
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "Search"
+Hovered on DIV with text "Sponsored by Brand USA (Miles)
+ Experience the diverse USA
+From vast deserts to blissful beaches and"
+Page Loaded: https://www.expedia.ca/Flights-Search?flight-type=on&mode=search&trip=roundtrip&leg1=from:Toronto,%20ON,%20Canada%20(YYZ-Pearson%20Intl.),to:New%20York,%20NY,%20United%20States%20of%20America%20(LGA-LaGuardia),departure:01/02/2024TANYT&leg2=from:New%20York,%20NY,%20United%20States%20of%20America%20(LGA-LaGuardia),to:Toronto,%20ON,%20Canada%20(YYZ-Pearson%20Intl.),departure:15/02/2024TANYT&options=cabinclass:economy&fromDate=01/02/2024&toDate=15/02/2024&d1=2024-2-1&d2=2024-2-15&passengers=adults:1,infantinlap:N
+Hovered on DIV with text "Prices displayed include taxes and may change based on availability. You can review any additional f"
+Hovered on DIV with text "Prices displayed include taxes and may change based on availability. You can review any additional f"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on SELECT
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 10:55 AM from Toronto, a"
+Rapid scrolling detected
+Rapid scrolling detected
+Rapid scrolling detected
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 6:30 AM from Toronto, ar"
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 10:55 AM from Toronto, a"
+Clicked on BUTTON with text "Select and show fare information for American Airlines flight, departing at 10:55 AM from Toronto, a"
+Clicked on BUTTON with text "Select"
+Hovered on LI
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 5:00 PM from New York, a"
+Rapid scrolling detected
+Rapid scrolling detected
+Rapid scrolling detected
+Clicked on BUTTON with text "Select and show fare information for American Airlines flight, departing at 5:00 PM from New York, a"
+Hovered on BUTTON with text "Select and show fare information for American Airlines flight, departing at 5:00 PM from New York, a"
+Clicked on DIV with text "CA $327.79 roundtrip for 1 traveller
+CA $328
+CA $327.79 roundtrip for 1 traveller
+Main Cabin
+Cabin: "
+Clicked on BUTTON with text "Select"
+Hovered on DIV with text "Cancellation not allowed "
+Clicked on BUTTON
+Hovered on INPUT
+Page Loaded: https://www.expedia.ca/
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "New York (and vicinity), New York, United States of America"
+Clicked on BUTTON with text "Nov 7 - Nov 11"
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on DIV with text "Going to
+New York (and vicinity), New York, United States of America
+Going to
+Going to
+Dates
+Feb 1 -"
+Clicked on BUTTON with text "Feb 1 - Feb 2"
+Clicked on TD with text "1"
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on TD with text "1"
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.expedia.ca/New-York-Hotels-Home2-Suites-By-Hilton-New-York-Times-Square.h91827909.Hotel-Information?chkin=2024-02-01&chkout=2024-02-15&x_pwa=1&rfrr=HSR&pwa_ts=1698848585521&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jYS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQGUaETbv4E76DxaY8d-S57YPuGScfGCC3l85hWysUHXYoZa-4H5MPfTu8WunwaWjzUjTzAj3bgD2bx__gRB_KkRkkGDf8scp100ENqbjhukNzamHrTdj62cVtijAj94l4X3zPWq9C5jpxI-FXAJz9a_I4zoPrnUwNfVMwd9j0qXSXKm_OGxtuVaOtvyS3eq8IkllALkprlSZ_Iq-b1DowshUHQ_pq-C4Q3jv4EQE6leNA4hFf0PqG5MOrMt91E1RO08CPaHJP2jiff8VB2QYddHpNuzS6jHZTXj5bUxMcdX5-7GGDpruGrUY62MTtJJzE0Xat8-cv5A2a9TdOuGLSNTi0BzIR-BV61oQ0qzsXwVN0G1wwKV8v_QVEjNjmBu2sNn4W86HqaDE_ttcd5tuqkGTaFPOYcaQwBOS8CXC3S-QtVmuDJfCSNd3GcwRcGBUazZ0sJqYS3EFRh8qww0AAVZUd-JN6MFgLs-Zxy1q5SkYATVkfcz8pPDhOaZRyXnlPb3eBEInpWnCxML3H5_mvUiAKuorBod3HfPPIEeJbsnscdMYl9ISfXjUSt2ueB6c3P0hTwsdvpnG3_VPUqrc3ZqDV09BYdIQcLxJobVyN6836W7JY5sHXVxsDcplhdWs0jhrGyGKnOXKg_xKnuLqPb1T9c2ZVp0aHu4SkTub7e2eU6I2sgxjGO0vVOAqlSw1kYg15fZwYaori-rUpS6ujiP7_uS9gXflzAClbCZA4_UKYjFXpizziGz6EKujgHvWfyYuLpR1gPAaZBfsqA8pC0oocGimyEFiQdmD0MQlK9sWMpfN-1HxI_VuwKtvFVkScEyCmsk3Z_0qPSxudkF388EKaSivPd7FkkJQ3RaZjFV49YgeiKedY39jgvx2VUFak6HoKI2nqw4wflSJ0zQhW7rjoChsMXVVGUNDCpN_j67QkcPHeEPODuXuoNMIiq6KbpVSItJukq_aBQZ4HBIUKjh3f1iD2yA0JGAMxXZQPu3jMrMijurk8Xq_vPnRs1jfDD_w5tCH-d9wAskxFalnG8uXhygruIgL-cN4aTPljgLgPEoJATFPm8glOjM6k9qIG5LRzEICNGeF4L1L-OWeGNV_NEKQ7ITN3wNS7LT4ZLGqAZOWPR6hodXqG3WLqJRcY6wx6K57qkfdVZ7vzwlLQvvyU18nRPxLc8u8SQMpmYDMKp67BLLwu10CoBx295KjqpgBmMwyZ5C3-xq-ogqHeO2dqge134JKQlx2l2gckn4xizJZ9isiK_v0UPkRfCPbKobfCvk1YOm5IaJtL-3Dx2cOUwzvI4rm9j-i0QDbjnHLeQSElNiS1sQVsi1RbyNJ5jRQMgQ_wHkBUqMK-tNwSgFZy29PgNYMWJIjhJwROK25HJS1tznae4rxFMLxt7GzrPXtywkP-mzs8vi8tndX05dEnEA1-Bo7mEpvvWsYatpIPieSK4CXjYUtGOAG9-4rirH-Q_rqfdKzxMcyJLzr74ECb-RQmlNohWbDqCzWcSUjVd1eCowiZwIX10PZIOJEVC72BgVt82xXeVsD4KkYeM1EbL-rJezY7v7ZxROIG2aKNuRfViG6CkKCl80KaB0XalpWTij0rhiedAJzDaj73dYoOgWp0e9ZRtO1xuiaFaBxZloOWhOvdx-dKJrD-M9BuKO8DF6NOSAwAFCO1C7Rcyo7qjU7cSqBm6myqLQ4zT98g7TbMLLU_4EIjDp6L7mw8OHjwzPz0s6g0XGfP9wQJbV7xhrlA-idt6_nIGnT1tUFVbWoMJYwv3dP9klBsJOqK2gP4K57n9zSOpIOpgJzGuFPdEdbXlNLt7m6_EsqKDor_vC6A4UokLLFRCdlCs5E4vIYTkIm4z1LZwLWAjgJHF-5LPZkZtF9OuNprgdhM6oJxwxsodxpKs9HP0vtQlmOpI-FmS054GD0R8r93FmL1CdY7cWFHRe2rT6Pdo_t-flFGjN8yWxyFqoTUI4AA0I651yTyUpa-t5uCpWshLRjjkRMnqDhNCkh4RaY9WHJG7-dRRyr9r8yEbPlm_cL0fmd6x3maPVTK2YZnh5EY1L9hx57RrTaNkXkVIYV2fGCQc1QdhhPycFW-9Yu5nSHOnaWrby90ap9gX9fF-SUd9G6WqQ%3D%3D&rank=2&testVersionOverride=Buttercup%2C39483.0.0%2C47230.154757.1%2C49619.150273.0%2C48676.154917.1%2C48304.0.0%2C50206.153476.0%2C50028.155516.0%2C50782.0.0%2C50813.156505.0%2C46969.152461.2%2C47890.143201.1%2C45513.0.0%2C45514.138523.1&slots=&position=2&beaconIssued=&star=40&star=30&star=20&star=10&amenities=WIFI&price=0&price=300&mealPlan=FREE_BREAKFAST&sort=RECOMMENDED&top_dp=215&top_cur=CAD&userIntent=&selectedRoomType=323589335&selectedRatePlan=392284633&searchId=89ca0d06-0d3a-4f46-a204-6ce2b918dce9
+Hovered on BUTTON with text "Reception"
+Page Loaded: https://www.expedia.ca/New-York-Hotels-Embassy-Suites-By-Hilton-New-York-Manhattan-Times-Square.h17171021.Hotel-Information?chkin=2024-02-01&chkout=2024-02-15&x_pwa=1&rfrr=HSR&pwa_ts=1698848618475&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jYS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=178293&destination=New+York+%28and+vicinity%29%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.75668%2C-73.98647&trackingData=AAAAAQAAAAEAAAAQpOteg3f5tVx3pygH6paa6aj-L4ZdwFrsMOU7XJR3pKxgkHtUWRTrpTDvlbW5bzDEDr9WWsCykO2oTHjQ080TSEnGDvtE9mZRxv_WlBUH-E7aa97qqJWzVqJczLNFto3zvOqRjDsE-8U-lTxUUr081EfZXgFtSZ6Od9IzS_KrCu3g9oIDWIxfY31OxWWXCIqPbgxCVL9FDK_QIfFmFzW00AATjw7NLW2Lz8U7rGVhSez23Irj3Aazi0wigTyc8gOMGIvnZTQTS3XCP9_NG6uEo1AurB3-kpUtKCmXCaUFWyo2Awzo900tdibzqNaZdNMpaAoSFLtrR9KdjJKOjnTcQJ3-RfNLpQD5-kyc5USyglIgW-Cwu-64HAAG0mcJjDVIO9f6lVhj3fDgowcWRDcXoqYTme7KBmD98xALxrgpp0wpiMPXqtUc7mt7QW27Gfkc3NFYT7cd07ZSilyduzy1baeH209xnHqSHV6uVNOVjF09iERDmb1OcxdOVpNM1G-AlDiyOpfsH-7AUg3xNlyy-4vl-PxkBstdneRkGfnLTBL2vqbJAlsfHIPT6cWaLdhMY46tU2obZbpNugk2aB80Y4Xes156dNc3gECtyi4CMN9uV0jSqLI-brNzRhwH8xho77hDe5_gcvXboWQHAdBom4X7h7j9BYn2MPf4KWDBsf6fH6nFOQiow1zH_Oz2XOxfEgr_k6zhSCtJI_omkuOaY1HmRGouAWp6h1BixQnWk_rSsxe9p-4KlUnBZrlOsktFfOaDaxk7ax4hHAcm6x3YVXH87NDEC5QjXR8Hai3qOQVOSoE-3JcnCcJjYyyDLc0ipABE8MYMtNiiXDYEjvFKoLXj6o9YAqpBtlytFZMZ5KC2YTrVsfv-EgBXizwkcXpUTymsmX_TN3Fko1iV3jebgSlw-SSMWQRSUczwEgc2MWtt9p-vj3-SrtIeIkPzod3mkoQ4sL0xM843OxYXF9DOSIol9Serv7-q7-8LepvYT9ceUcTxxvivxq6wO5KW-fuKPzH0uab36gj4rLnw9VCrZsQen0uWPZsMhKCix-sYbXihWttZerYQcbNT6PcbRrrp98WMmSM0lGraVDbSUJoBCkOE1E15QUTwJ_AxW66xogk17ZYctpz2Mqvf3kDbvmNf_2BZttg8it5mqFGBPjU-MuxeFRkasbTw13MVERDxCBNWbksX2Yb2n2EA3OhaA5s11D5s5LdZxhsPDS4Ww604MNB0cs9TzQ2QoHFIgeIiBHhqgwAlqAyqPGlTSQQfvi02Bt8vJVOy2YMQ8Ph9mvL-xbypO8i4pXwIWll8Wuqlr8Q9BbVEcW5ynIW7yRLhXJoyH6Xrfh1VAvBpiQsI16133c6IIEXNA8-5Glj5FRbPKpmj7jA-HcEgt3kgzvn8r8B4YR0Vlc5cCPXScryswUb-CdAJCytwjpbN3OVgZWwE0MJyMHqaOOrRO7b4O0gEsdyMa4A3KxsVMXUUzNFQ8axp9LNI8FwWDwwcw_ZamG7QgPj0NS6OYZgrxN1abblLoPlRA5BVjsYLAmvhb81WZItAaDnIyo_1iqneoNHx29XNN4Rvd9GYEVQoYefTHO2e9DWeM-9XRPs91L-TpQcSnyafh1sPsjDZft-4jGFQz9ye404QTTQPY1yD3BESURWtNieu42sMNunjTENgLeIZf1pcsYZo22Nr0yxVsKlAu53-uncl6gzg1nOEYYdO54wtfdGwUsulsRShY6xRxfR3JVzhbMIXnKnDFBvd_G6GbvfgotVD_6cYhFhA7wz95KC6U9K4tCibmwYWNuzOsAThurt_Qh8jrMkXkvz3z-PN6R6e1Y2G7dZY81hGfcFm4z8EMkPc_C8CGBtRP846aZqrOd_KkfHlc4Bk1RyuzhC7J00ZNyPHuwbx5sFj8vc-TYM5h9nigZB4EEkAJiFsMtQg9vNbibnYw1Ug-72-1ATwNE_zi9Xwqn03Re9rC3wpl7P-E_crmNgP9U_BiJhyp19FSIZAl2P_0DTv0nPtw5lLEo24EqZgUk7jzCqXx1-sn_eMjnP-EU5WYp0ziISg8DMaIUs4yZEzlJkJih8Z_eUrxsj-qZXOr0eEhYdGYlOfeM3oJtAS&rank=2&testVersionOverride=Buttercup%2C39483.0.0%2C47230.154757.1%2C49619.150273.0%2C48676.154917.1%2C48304.0.0%2C50206.153476.0%2C50028.155516.0%2C50782.0.0%2C50813.156505.0%2C46969.152461.2%2C47890.143201.1%2C45513.0.0%2C45514.138523.1&slots=&position=2&beaconIssued=&star=40&star=50&amenities=WIFI&price=0&price=300&mealPlan=FREE_BREAKFAST&sort=RECOMMENDED&top_dp=233&top_cur=CAD&userIntent=&selectedRoomType=201835124&selectedRatePlan=298096424&searchId=809255ec-1f7c-4d16-ba4e-ff6e2c8baa45
+Hovered on DIV
+Rapid scrolling detected
+Clicked on BUTTON with text "Reserve Studio, 1 King Bed with Sofa bed, Non Smoking
+Reserve"
+Clicked on SPAN with text "Pay at property"
+Page Loaded: https://www.expedia.ca/Hotel-Search?destination=New%20York%20(and%20vicinity),%20New%20York,%20United%20States%20of%20America&regionId=178293&latLong=40.75668,-73.98647&flexibility=0_DAY&d1=2024-02-01&startDate=2024-02-01&d2=2024-02-15&endDate=2024-02-15&adults=2&rooms=1
+Clicked on INPUT
+Clicked on DIV with text "Filter by
+Popular filters
+
+Kitchen
+
+Queens
+
+Hotel
+
+Aparthotel
+
+Apartment
+
+Price per night
+CA $600+
+G"
+Hovered on INPUT
+Clicked on INPUT
+Input Changed on INPUT, changed value to "300"
+Clicked on DIV with text "Going to
+New York (and vicinity), New York, United States of America
+Going to
+Going to
+Dates
+Feb 1 -"
+Hovered on DIV with text "Going to
+New York (and vicinity), New York, United States of America
+Going to
+Going to
+Dates
+Feb 1 -"
+Hovered on P with text "Queens"
+Clicked on BUTTON
+Clicked on DIV with text "Going to
+New York (and vicinity), New York, United States of America
+Going to
+Going to
+Dates
+Feb 1 -"
+Hovered on BUTTON with text "Pool"
+Clicked on INPUT
+Clicked on DIV with text "Queens"
+Clicked on SPAN with text "3"
+Clicked on INPUT
+Clicked on LABEL with text "2"
+Clicked on INPUT
+Clicked on DIV with text "Going to
+New York (and vicinity), New York, United States of America
+Going to
+Going to
+Dates
+Feb 1 -"
+Clicked on LABEL with text "1"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "10"
+Clicked on P with text "Breakfast included"
+Clicked on INPUT
+Hovered on DIV
+Input Changed on INPUT, changed value to "FREE_BREAKFAST"
+Clicked on BUTTON with text "See less"
+Clicked on INPUT
+Hovered on DIV with text "Queens"
+Input Changed on INPUT, changed value to "WIFI"
+Hovered on DIV
+Hovered on BUTTON with text "View from room"
+Hovered on BUTTON with text "Reception"
+Clicked on BUTTON with text "Reception"
+User was inactive for 12 seconds
+Clicked on INPUT
+Clicked on INPUT
+Clicked on INPUT
+Input Changed on INPUT, changed value to "30"
+Clicked on LABEL with text "5"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "50"
+Hovered on A with text "Opens Embassy Suites by Hilton New York Manhattan Times Square in new tab"
+Hovered on BUTTON with text "Exterior"
+Clicked on BUTTON with text "Exterior"
+Clicked on SPAN with text "Cars"
+Page Loaded: https://www.expedia.ca/
+Clicked on DIV with text "Pick-up
+Pick-up
+Pick-up
+Pick-up
+Same as pick-up
+Same as pick-up
+Same as pick-up
+Same as pick-up
+Date"
+Clicked on BUTTON
+Hovered on BUTTON
+Hovered on DIV
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "New York, NY, United States of America (JFK-John F. Kennedy Intl.)"
+Clicked on BUTTON
+Hovered on BUTTON
+Hovered on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "New York, NY, United States of America (JFK-John F. Kennedy Intl.)"
+Clicked on BUTTON with text "Nov. 15 - Nov. 16"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.expedia.ca/carsearch?locn=New%20York%2C%20NY%2C%20United%20States%20of%20America%20(JFK-John%20F.%20Kennedy%20Intl.)&pickupIATACode=JFK&olat=40.644166&olon=-73.782548&dpln=4933194&loc2=New%20York%2C%20NY%2C%20United%20States%20of%20America%20(JFK-John%20F.%20Kennedy%20Intl.)&returnIATACode=JFK&dlat=40.644166&dlon=-73.782548&drid1=4933194&d1=2024-2-1&d2=2024-2-15&date1=01/02/2024&date2=15/02/2024&time1=1030AM&time2=1030AM&
+Hovered on DIV
+Clicked on DIV with text "Automatic
+CA $941"
+Clicked on SPAN with text "Unlimited mileage"
+Clicked on INPUT
+Input Changed on INPUT
+Clicked on BUTTON with text "Show more"
+Hovered on DIV with text "SUV
+CA $998"
+Hovered on INPUT
+Clicked on INPUT
+Hovered on DIV with text "Filter by
+Exclusive offers
+From
+Exclusive offers
+Great Deal
+CA $941
+Great Deal shows you the lowest "
+Input Changed on INPUT
+Hovered on DIV with text "Rental car company
+Ace
+CA $1,262
+Alamo
+CA $1,323
+Avis
+CA $1,303
+Budget
+CA $1,266
+Dollar Rent A Car
+C"
+Hovered on OL with text "Standard from Thrifty Car Rental at CA $976 total
+Great Deal
+Standard
+Chevrolet Cruze or similar
+5
+5"
+Hovered on DIV with text "Standard
+Volkswagen Jetta or similar
+5
+5person
+Automatic
+Unlimited mileage
+Shuttle to counter and ca"
+Clicked on DIV with text "Learn more about our Great Deals
+14 Cars • Total includes taxes and fees
+Sort by"
+Hovered on DIV with text "Learn more about our Great Deals
+14 Cars • Total includes taxes and fees
+Sort by"
+Hovered on DIV with text "Learn more about our Great Deals
+14 Cars • Total includes taxes and fees
+Sort by"
+Clicked on BUTTON with text "Reserve"
+Hovered on BUTTON with text "Reserve"

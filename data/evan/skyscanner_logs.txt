@@ -1,0 +1,233 @@
+Page Loaded: https://www.skyscanner.ca/car-rental
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "New york"
+Clicked on SECTION with text "New YorkNew York, United StatesCity"
+Clicked on INPUT
+Hovered on SELECT
+Input Changed on SELECT with text "November 2023December 2023January 2024February 2024March 2024April 2024May 2024June 2024July 2024Aug", changed value to "2024-02"
+Clicked on INPUT
+Clicked on A
+Clicked on BUTTON with text "Search "
+Page Loaded: https://www.skyscanner.ca/carhire_deeplink/2.0/hlcr/carhi/car/CA,en-US,CAD/3206_63622/3206_63622/2024-02-01T10:00:00/2024-02-15T10:00:00/30/cars?channel=website&client_id=skyscanner_website&sipp=MDAR&vendor=drivo+rent+a+car&pickuproutenodeid=12712&dropoffroutenodeid=12712&pickup_name=New+York+John+F.+Kennedy&ticket_currency_id=CAD&ticket_price=599.91&request_id=75fab315-5530-4027-b7b5-74c38baa7812&booking_panel_option_guid=ba341722-e7d7-4610-be6f-ded03284bb81&deeplink_data=eyJmaWVsZHMiOnsic2lnbmF0dXJlIjoiYTlkNTU2ZDE1ZDNhYTA2YzVlZDk2YzgwYTM3ODZkNjkifSwidXJsIjoiaHR0cHM6Ly93d3cuaG9saWRheWNhcnMuY29tL2xpdmUvP2N1cnJlbmN5PUNBRCZzb3VyY2U9Y2FycyZtb2R1bGU9MTEmbGFuZ3VhZ2U9RU4mYWNjb3VudGlkPTExNzMmcGlja3VwZGF0ZXRpbWU9MjAyNC0wMi0wMVQxMDowMDowMCZyZXR1cm5kYXRldGltZT0yMDI0LTAyLTE1VDEwOjAwOjAwJmNvdW50cnljb2RlPUNBJnN1cHBsaWVyaWQ9MzkxMiZibXA9MzIwNiZibWQ9MzIwNiZ1dG1fc291cmNlPXNreXNjYW5uZXImdXRtX21lZGl1bT1tZXRhc2VhcmNoJnV0bV9jYW1wYWlnbj1hY19zcy5iY19jYS50cF9zci5pZF84NDA2JnV0bV9jb250ZW50PXNlYXJjaHJlc3VsdHNfY2EmY2FtcGFpZ25pZD04NDA2JnJlcXVlc3RpZD02M2VkYTIxZi02NzNkLTRkZTktYThlNS03YWFjY2FiOTkwNjAmcmF0ZXJlZmVyZW5jZT1NfjE3X1N-MzkxMl9PfjYzNjIyfDYzNjIyX0N-TURBUl9JfkNEV3xERVB8RkF8RkN8VEZ8VFB8VFBMfFVNUHxUQ0hfR35NREFSfGluY2x1c2l2ZStmYStmY19YfjB8MC4wMHwwLjAwX1B-Q0FEfDU5OS45MXwwfDU5OS45MV9SfjEwMDA1Mjk1fDEwMDAwMDAwX0F-MCZyYXRlaWQ9NWY1NDZiYTQtNDUyZC00YzYzLTk3MTktY2MxOTEzNDFhZjA5JmNhcmNsYXNzaWQ9TURBUiZtaWQ9MTcmcGFnZT1yZXN1bHRzI2RlZXBsaW5rLzYzZWRhMjFmLTY3M2QtNGRlOS1hOGU1LTdhYWNjYWI5OTA2MC81ZjU0NmJhNC00NTJkLTRjNjMtOTcxOS1jYzE5MTM0MWFmMDkvMTdfTURBUl8zOTEyLzQ0MDBfbG9nb19scmcuZ2lmIn0%3D&utid=ef747ff8-17ad-47e3-9ce5-fa2a1b70f770&utid_state=1
+Page Loaded: https://www.google.com/afs/ads?psid=7171091727&pcsa=true&channel=3028470329&client=pub-6496241184674058&q=Car%20Hire%20&r=m&sct=ID%3D036f5beacb1ce8db%3AT%3D1698771538%3ART%3D1698771538%3AS%3DALNI_MaYNXPcuKLxC-LQNL7M5EaM_yuAyA&sc_status=6&hl=EN&ie=utf-8&oe=utf-8&type=0&fexp=21404&format=n5&ad=n5&nocache=5121698850105520&num=0&output=uds_ads_only&v=3&bsl=10&pac=0&u_his=3&u_tz=-240&dt=1698850105520&u_w=1920&u_h=1080&biw=1920&bih=955&psw=1920&psh=710&frm=0&cl=575837768&uio=-&cont=mpu-afs&jsid=csa&jsv=575837768&rurl=https%3A%2F%2Fwww.skyscanner.ca%2Fcarhire%2Fresults%2F27537542%2F27537542%2F2024-02-01T10%3A00%2F2024-02-15T10%3A00%2F30&referer=https%3A%2F%2Fwww.skyscanner.ca%2Fcar-rental
+User was inactive for 23 seconds
+Hovered on DIV with text "Sponsored
+cheap-auto-rentals.com
+http://www.cheap-auto-rentals.com/quote/dailycardeals
+Car Rentals F"
+Page Loaded: https://www.skyscanner.ca/carhire/results/27537542/27537542/2024-02-01T10:00/2024-02-15T10:00/30
+Hovered on DIV with text "New York
+2/1/24, 10:00 AM - 2/15/24, 10:00 AM
+Open search form
+
+Searching QEEQ.COM"
+Clicked on SPAN with text "Unlimited mileage"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "on"
+Hovered on IMG
+Clicked on IMG
+Clicked on DIV with text "Small
+from C$600"
+Hovered on SPAN with text "Fair fuel policy"
+Hovered on BUTTON with text "View deals"
+Clicked on DIV with text "9687
+
+C$600 total
+
+Unlimited mileage
+Full to full
+What’s included?
+Reserve"
+Clicked on BUTTON with text "Reserve"
+Hovered on BUTTON with text "Reserve"
+Page Loaded: https://www.skyscanner.ca/transport/flights/ytoa/lhr/231108/231114/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1
+Hovered on DIV with text "Continue with email
+Google
+Facebook
+Apple"
+Hovered on DIV
+Hovered on BUTTON
+Hovered on BUTTON with text "See Deals "
+Hovered on DIV (ID: pagewrap) with text "Skyscanner
+Skip to results
+Help
+English (US)
+Canada
+C$ CAD
+Log in
+Flights
+Hotels
+Car Rental
+Toronto
+"
+User was inactive for 17 seconds
+Hovered on IFRAME (ID: google_ads_iframe_/24268069/skyscanner.ca/flights_funnel/day_view/skyscraper_0)
+Hovered on DIV (ID: pagewrap) with text "Skyscanner
+Skip to results
+Help
+English (US)
+Canada
+C$ CAD
+Log in
+Flights
+Hotels
+Car Rental
+Toronto
+"
+User was inactive for 18 seconds
+Hovered on DIV (ID: identity) with text "Skyscanner"
+User was inactive for 29 seconds
+Hovered on DIV with text "Flight option 2: Total cost C$902.
+Outbound flight with Air Canada.
+Departing from Toronto Pearson I"
+Hovered on DIV with text "Skyscanner
+Skip to results
+Help
+English (US)
+Canada
+C$ CAD
+Log in"
+Page Loaded: https://www.skyscanner.ca/transport/flights/ytoa/lhr/231108/231114/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1
+Hovered on IFRAME (ID: 200_278_express_html_inpage_0.if)
+Hovered on IFRAME (ID: 200_278_express_html_inpage_0.if)
+Hovered on IFRAME (ID: 200_278_express_html_inpage_0.if)
+Hovered on IFRAME (ID: 200_278_express_html_inpage_0.if)
+Hovered on IFRAME
+Page Loaded: https://www.skyscanner.ca/transport/flights/ytoa/lhr/231108/231114/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1
+Hovered on DIV with text "Skyscanner
+Skip to results
+Help
+English (US)
+Canada
+C$ CAD
+Log in
+Flights
+Hotels
+Car Rental
+Toronto
+"
+Hovered on SPAN with text "C$902"
+Hovered on DIV with text "Skyscanner
+Skip to results
+Help
+English (US)
+Canada
+C$ CAD
+Log in
+Flights
+Hotels
+Car Rental
+Toronto
+"
+Hovered on DIV with text "Skyscanner
+Skip to results
+Help
+English (US)
+Canada
+C$ CAD
+Log in
+Flights
+Hotels
+Car Rental
+Toronto
+"
+Hovered on DIV with text "Skyscanner
+Skip to results
+Help
+English (US)
+Canada
+C$ CAD
+Log in
+Flights
+Hotels
+Car Rental
+Toronto
+"
+Hovered on DIV with text "Skyscanner
+Skip to results
+Help
+English (US)
+Canada
+C$ CAD
+Log in
+Flights
+Hotels
+Car Rental
+Toronto
+"
+Page Loaded: https://www.skyscanner.ca/transport/flights/ytoa/lhr/231108/231114/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1
+Hovered on IFRAME
+Hovered on IFRAME
+Hovered on IFRAME
+Page Loaded: https://www.skyscanner.ca/transport_deeplink/4.0/CA/en-US/CAD/fnet/2/18390.11442.2024-02-01,11442.18390.2024-02-15/air/trava/flights?itinerary=flight|-31954|2135|18390|2024-02-01T14:00|11442|2024-02-01T15:30|90|-|-|-,flight|-31954|2132|11442|2024-02-15T14:10|18390|2024-02-15T15:50|100|-|-|-&carriers=-31954&operators=-31954,-31954&passengers=1&channel=website&cabin_class=economy&fps_session_id=1f0f7d0a-03da-4327-bae6-524f7113f53c&ticket_price=300.00&is_npt=false&is_multipart=false&client_id=skyscanner_website&request_id=be345fe8-aa3a-4812-b1f9-ffcd4cef87ac&q_ids=H4sIAAAAAAAA_-NS4GJJy0stEWLmWOEmxczRo6vQsO_1WjaNhhVb17EZMSkwAgCXw3x9IgAAAA|68203464699584965|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2023-11-01T14:39:43&pqid=true&booking_panel_option_guid=4991eef6-22f7-4208-babe-5d80e81f0ef2&index=0&isbp=1&posidx=0&qid=18390-2402011400--31954-0-11442-2402011530%7C11442-2402151410--31954-0-18390-2402151550&sort=BEST&stops=0&tabs=CombinedDayView&pre_redirect_id=b08de4ac-87fe-4dff-bf46-18db64d4a151&redirect_id=152c78e7-14bd-479d-9dd6-3bed2ec1cce0&is_acorn_referral=true
+Hovered on DIV with text "Thank you, almost there…
+
+You've found your ticket
+
+We're taking you to FlightNetwork
+
+Now complete "
+Hovered on H2 with text "Ticket details"
+Page Loaded: https://www.skyscanner.ca/transport/flights/ytoa/nyca/240201/240215/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1
+Hovered on SPAN with text "Departure times"
+Hovered on BUTTON with text "See Deals "
+Rapid scrolling detected
+Hovered on BUTTON with text "See Deals "
+Clicked on BUTTON with text "See Deals "
+Hovered on DIV with text "FlightNetwork 
+4424
+Total price
+C$300
+Select "
+Hovered on SPAN with text "Read before making your reservation"
+Clicked on A with text "Select "
+Hovered on DIV with text "Rate your experience with FlightNetwork
+Terrible
+Bad
+OK
+Good
+Excellent"
+Page Loaded: https://www.skyscanner.ca/transport/flights/ytoa/nyca/240201/240215/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1
+Page Loaded: https://www.skyscanner.ca/hotels
+Clicked on INPUT
+Hovered on INPUT
+Hovered on INPUT
+Clicked on DIV with text "New YorkUnited Statescity"
+Input Changed on INPUT, changed value to "New York"
+Hovered on SELECT
+Input Changed on SELECT, changed value to "2024-02"
+Hovered on BUTTON with text "1"
+Clicked on SPAN with text "Search hotels"
+Page Loaded: https://www.skyscanner.ca/hotels
+Clicked on INPUT
+Hovered on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "New York"
+Hovered on SELECT
+Input Changed on SELECT with text "November 2023December 2023January 2024February 2024March 2024April 2024May 2024June 2024July 2024Aug", changed value to "2024-02"
+Hovered on SPAN with text "15"
+Clicked on BUTTON with text "Search hotels "
+Page Loaded: https://www.skyscanner.ca/hotel_deeplink/4.0/CA/en-US/CAD/h_bc/46996073/2024-02-01/2024-02-15/hotel/hotel/hotels?guests=2&rooms=1&legacy_provider_id=13&request_id=8b7f3f41-ef0e-45a2-817b-51302066aaa0&q_datetime_utc=2023-11-01T14%3A47%3A03&redirect_delay=1000&appName=web&appVersion=2.0&client_id=skyscanner_website&tm_city_code=NYCA&tm_country_code=US&tm_place_name=New+York&tm_stars=4&ticket_price=2596.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICJkMzI3MjYxOTQwNzVhYTRiYjFlZDA2YWI1NzFiM2UzNyIsICJibG9ja19pZCI6ICIyNzg2NjYwMV85MjUxNTY1MF8wXzFfMCJ9fQ%3D%3D&max_price=8265.0&channel=website
+Page Loaded: https://www.skyscanner.ca/hotels/search?entity_id=27537542&checkin=2024-02-01&checkout=2024-02-15&adults=2&rooms=1&impression_id=164eb6c2-806f-49b9-89ea-6e6c628ff46f
+Hovered on INPUT
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "300"
+Hovered on INPUT
+Clicked on INPUT
+Input Changed on INPUT, changed value to "on"
+Clicked on SPAN with text "Non-Refundable"
+Clicked on INPUT
+Clicked on INPUT
+Clicked on LABEL with text "Breakfast included
+44"
+Clicked on INPUT
+Clicked on SPAN with text "Guest rating"
+Input Changed on INPUT, changed value to "on"
+Clicked on LABEL with text "4.5+Excellent
+12"
+Clicked on INPUT
+Clicked on INPUT
+Input Changed on INPUT, changed value to "on"
+Hovered on A with text "Go to site"

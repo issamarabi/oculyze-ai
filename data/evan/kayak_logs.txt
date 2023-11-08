@@ -1,0 +1,203 @@
+Page Loaded: https://www.ca.kayak.com/?ispredir=true
+Hovered on DIV
+User was inactive for 10 seconds
+Hovered on DIV with text "Search hundreds of sites
+Quickly compare deals from millions of hotels"
+Hovered on DIV
+Hovered on H5 with text "Book with flexibility"
+Hovered on INPUT
+Hovered on SECTION with text "Simplify your holiday travel plans.
+We can’t tell your family to make the final call on where to spe"
+User was inactive for 49 seconds
+Hovered on DIV with text "Sign in
+ 
+C$"
+User was inactive for 149 seconds
+Hovered on DIV
+Hovered on DIV with text "Sign in
+ 
+C$"
+Page Loaded: https://www.ca.kayak.com/
+Hovered on DIV with text "Search hundreds of sites
+Quickly compare deals from millions of hotels"
+Page Loaded: https://www.ca.kayak.com/
+Page Loaded: https://www.ca.kayak.com/
+Hovered on DIV with text "Sign in
+ 
+C$"
+Clicked on A with text "Flights"
+Page Loaded: https://www.ca.kayak.com/
+Page Loaded: https://www.ca.kayak.com/
+Hovered on DIV with text "What KAYAK brings to the table."
+Hovered on MAIN with text "Compare hotels from 100s of sites.
+Mon 20/11
+Tue 21/11
+1 room, 1 guest
+What KAYAK brings to the tabl"
+Clicked on DIV with text "Flights"
+Page Loaded: https://www.ca.kayak.com/
+Page Loaded: https://www.ca.kayak.com/flights
+Clicked on SPAN with text "Mon 20/11"
+Hovered on SPAN with text "Mon 20/11"
+Clicked on DIV with text "November 2023
+S
+M
+T
+W
+T
+F
+S
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+"
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on DIV with text "1"
+Clicked on DIV with text "1"
+Clicked on DIV with text "15"
+Clicked on BUTTON
+Page Loaded: https://www.ca.kayak.com/book/flight?code=gVDCEgA5J9.18wgSzIaLAlgpzrTH2pViLaYAeeTFjgE.21658.41bc6f55ab04b3a7f19896082384f905&h=a05368ad5333&sub=E05ffb623c4b&pageOrigin=F..RP.FE.M4
+Page Loaded: https://www.ca.kayak.com/flights
+Page Loaded: https://www.ca.kayak.com/flights/YTO-NYC/2024-02-01/2024-02-15
+Hovered on DIV with text "Asaptickets.com"
+Hovered on INPUT
+Hovered on LABEL with text "YTZ: Toronto Island"
+Hovered on DIV with text "YTZ: Toronto Island"
+Hovered on DIV with text "YYZ: Pearson Intl"
+Hovered on DIV with text "Depart/return same"
+Clicked on DIV with text "View Deal"
+Hovered on DIV with text "View Deal"
+Hovered on DIV with text "What KAYAK brings to the table."
+Hovered on DIV with text "Sign in
+Flights
+Stays
+Cars
+Flight+Hotel
+Explore
+Flight Tracker
+Best Time to Travel
+NEW
+Feedback
+Trip"
+Hovered on SECTION with text "Simplify your holiday travel plans.
+We can’t tell your family to make the final call on where to spe"
+Hovered on DIV with text "Sign in
+ 
+C$"
+Hovered on DIV with text "What KAYAK brings to the table."
+Page Loaded: https://www.ca.kayak.com/
+Clicked on A with text "Stays"
+Page Loaded: https://www.ca.kayak.com/
+Page Loaded: https://www.ca.kayak.com/book/hotel?code=gVAELU8lUZ.qumWFano8BP274JKcE0diPaeNWhRPjM7r__yfHjaxxI.22552.31635.MTcwNjc2MzYwMDAwMF4xNzA3OTczMjAwMDAwXjFeMV4=&h=4a812d522926&pageOrigin=H..RP.FE.M4
+Page Loaded: https://www.ca.kayak.com/book/hotel?code=gVAELU8lUZ.qumWFano8BP274JKcE0diPaeNWhRPjM7r__yfHjaxxI.22552.31635.MTcwNjc2MzYwMDAwMF4xNzA3OTczMjAwMDAwXjFeMV4=&h=4a812d522926&pageOrigin=H..RP.FE.M4
+Page Loaded: https://www.ca.kayak.com/stays
+Clicked on INPUT
+Hovered on INPUT
+Clicked on INPUT
+Clicked on INPUT
+Clicked on DIV with text "Compare hotels from 100s of sites."
+Clicked on DIV with text "Compare hotels from 100s of sites."
+Hovered on DIV with text "Compare hotels from 100s of sites."
+Page Loaded: https://www.ca.kayak.com/hotels/New-York,United-States-c15830/2024-02-01/2024-02-15/1adults
+Hovered on DIV with text "Find that perfect trip feeling and explore our extraordinary hotel brands."
+Hovered on DIV
+Clicked on DIV with text "C$ 580
+C$ 3,656"
+Hovered on DIV with text "4"
+Clicked on DIV with text "4"
+Hovered on DIV with text "4"
+Hovered on DIV with text "Reset"
+Hovered on DIV with text "4"
+Hovered on DIV with text "Hotel class
+Reset"
+Hovered on DIV
+Hovered on DIV with text "4"
+Hovered on DIV with text "0+"
+Clicked on DIV with text "0+"
+Hovered on DIV with text "4"
+Clicked on DIV with text "8+"
+Hovered on DIV with text "Review Score
+Reset"
+Hovered on DIV with text "4"
+Clicked on DIV with text "4"
+Clicked on DIV with text "0+"
+Hovered on DIV with text "C$ 3,538"
+Hovered on A with text "Even Hotel New York - Midtown East"
+Clicked on DIV with text "Go to map
+Price Alerts
+Track prices
+Recommended filters
+Neighbourhoods: Manhattan
+Hotel class
+Reset
+"
+Hovered on DIV
+Clicked on DIV
+Hovered on DIV with text "11"
+Hovered on SPAN with text "View Deal"
+Page Loaded: https://www.ca.kayak.com/hotels/New-York,United-States-c15830/2024-02-01/2024-02-15/1adults
+Page Loaded: https://www.ca.kayak.com/
+Page Loaded: https://www.ca.kayak.com/book/car?code=gVAmLkm34o.-jy9vMRy0Ag2R9cffWP1ewR2f09f7zGF.3151.04f19bd02ebb122d2d6789520b38d59a&h=79086ff30210&sub=5297e99ca196f558e34dcc794d4dfd48&pageOrigin=C..RM.FE.M0
+Page Loaded: https://www.ca.kayak.com/book/car?code=gVAmLkm34o.-jy9vMRy0Ag2R9cffWP1ewR2f09f7zGF.3151.04f19bd02ebb122d2d6789520b38d59a&h=79086ff30210&sub=5297e99ca196f558e34dcc794d4dfd48&pageOrigin=C..RM.FE.M0
+Page Loaded: https://www.ca.kayak.com/cars/New-York,New-York,United-States-c15830/2024-02-01/2024-02-15;map
+Hovered on DIV with text "More"
+Hovered on DIV with text "Electric cars
+None"
+Hovered on IMG
+Hovered on DIV with text "Medium"
+Clicked on DIV with text "Car type
+Reset
+Small
+Medium
+Large
+SUV
+More
+Total price
+C$ 612
+C$ 10,356
+Filter options
+Rental agency"
+Hovered on DIV with text "More"
+Hovered on SPAN
+Clicked on SPAN
+Hovered on DIV
+Hovered on DIV with text "Track prices"
+Hovered on DIV with text "C$ 612
+C$ 1,147"
+Hovered on DIV with text "Electric cars"
+Hovered on DIV with text "Payment type"
+Hovered on DIV with text "LGA: LaGuardia"
+Clicked on DIV with text "Rental agency
+All brands"
+Hovered on DIV with text "Policies"
+Clicked on INPUT
+Clicked on DIV with text "Filter options
+Reset"
+Hovered on IMG
+Hovered on DIV with text "View Deal"
