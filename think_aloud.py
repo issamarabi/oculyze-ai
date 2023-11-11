@@ -13,10 +13,10 @@ def transcribe_audio(audio_files: List[str]) -> List[str]:
 
 def think_aloud_minutes(transcription: str) -> dict:
     usability_issues = issues_extraction(transcription)
-    actionable_insights = action_extraction(usability_issues, transcription)
+    # actionable_insights = action_extraction(usability_issues, transcription)
     return {
         'usability_issues': usability_issues,
-        'actionable_insights': actionable_insights,  
+        # 'actionable_insights': actionable_insights,  
     }
 
 
@@ -27,7 +27,7 @@ def issues_extraction(transcription: str) -> str:
         messages=[
             {
                 "role": "system",
-                "content": "As an AI with expertise in HCI, your task is to identify the main usability issues of a website from the following transcription from a usability test of a website. Based on the transcription provided, please identify and list the usability issues that users experienced while navigating or interacting with the website. Focus on points where users felt confused, frustrated, or encountered problems. Your goal is to provide a clear list of issues that can help designers understand areas that need improvement."
+                "content": "As an AI with expertise in HCI, your task is to identify the main usability issues of a website from the following transcription from a usability test of a website. Based on the transcription provided, please identify and list the usability issues that users experienced while navigating or interacting with the website. Focus on points where users felt confused, frustrated, or encountered problems. Your goal is to provide a clear list of issues that can help designers understand areas that need improvement. For each issue, referece precisely where in the transcription it was mentioned or inferred."
             },
             {
                 "role": "user",
@@ -65,7 +65,7 @@ def format_transcript(transcript: Dict[str, str], idx: int=1) -> str:
     """
     formatted_transcript = f"Study {idx+1}:\n"
     formatted_transcript += f"Usability Issues: {transcript['usability_issues']}\n"
-    formatted_transcript += f"Actionable Insights: {transcript['actionable_insights']}\n\n"
+    # formatted_transcript += f"Actionable Insights: {transcript['actionable_insights']}\n\n"
     return formatted_transcript
 
 def summarize_insights(minute: str) -> str:
@@ -80,7 +80,7 @@ def summarize_insights(minute: str) -> str:
         messages=[
             {
                 "role": "system",
-                "content": "You are given a collection of usability studies for a website. Each study contains a list of usability issues identified from a think-aloud session and actionable insights recommended for addressing those issues. Based on this data, please provide a summarized list of key insights and common themes observed across all studies."
+                "content": "You are given a collection of usability studies for a website. Each study contains a list of usability issues identified from a think-aloud session and actionable insights recommended for addressing those issues. Based on this data, please provide a summarized list of key insights and common themes observed across all studies.  For each issue, referece precisely where in the transcription it was mentioned or inferred."
             },
             {
                 "role": "user",
@@ -105,7 +105,8 @@ def process_log(log):
                             1. Identify patterns of user behavior.
                             2. Highlight deviations from typical behavior indicating usability issues.
                             3. Pinpoint areas of potential confusion or trouble spots.
-                            4. Provide actionable insights or recommendations for improving website usability.
+
+                             For each issue, referece precisely what part of the logs points to it.
                             """
             },
             {
