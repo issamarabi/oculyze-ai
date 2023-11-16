@@ -8,9 +8,18 @@ def index():
 
 @app.route('/upload', methods=['POST'])
 def upload_files():
-    uploaded_files = request.files.getlist("file[]")
-    # For now, just redirect to a placeholder result page
+    form_data = request.form
+    uploaded_files = request.files
+    
+    for key in uploaded_files:
+        file = uploaded_files[key]
+        if file.filename != '':
+            file.save(os.path.join('uploads', file.filename))  # Save file to 'uploads' folder
+
+    # Process the uploaded files and form data as needed
+
     return redirect(url_for('results'))
+
 
 @app.route('/results')
 def results():

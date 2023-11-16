@@ -1,21 +1,9 @@
 import os
 import pandas as pd
 import openai
-import pandas as pd
 import numpy as np
 from scipy.spatial.distance import euclidean
-
-# Load your CSV data into a pandas DataFrame
-df = pd.read_csv('your_gaze_data.csv')
-
-# Example usage:
-split_recordings_to_tsv('your_input_file.tsv')
-
-
 openai.api_key = os.getenv("OPENAI_API_KEY")
-
-
-import pandas as pd
 
 def split_recordings_to_tsv(input_tsv_file):
     # Read the TSV file
@@ -126,6 +114,50 @@ def mean_pupil_size(df):
     
     return overall_mean
 
+def task_analysis(input_tsv_file):
+    # Read the TSV file
+    df = pd.read_csv(input_tsv_file, sep='\t')
+    
+    # Calculate metrics
+    metrics = {
+        'time_to_first_fixation': time_to_first_fixation(df),
+        'fixation_duration': fixation_duration(df),
+        'number_of_fixations': number_of_fixations(df),
+        'saccade_to_fixation_ratio': saccade_to_fixation_ratio(df),
+        'number_of_saccades': number_of_saccades(df),
+        'saccade_amplitude': saccade_amplitude(df),
+        'scan_path_length': scan_path_length(df),
+        'spatial_density_of_scan_path': spatial_density_of_scan_path(df),
+        'total_fixation_time': total_fixation_time(df),
+        'ratio_of_eye_path_to_task_length': ratio_of_eye_path_to_task_length(df),
+        'mean_pupil_size': mean_pupil_size(df),
+    }
+    
+    # Print metrics
+    for metric_name, metric_value in metrics.items():
+        print(f'{metric_name}: {metric_value}')
+
+    return metrics
+
+def website_analysis(input_tsv_files):
+    # Read the TSV files
+    dfs = [pd.read_csv(input_tsv_file, sep='\t') for input_tsv_file in input_tsv_files]
+    
+    # Calculate metrics
+    metrics = {
+        'time_to_first_fixation': [time_to_first_fixation(df) for df in dfs],
+        'fixation_duration': [fixation_duration(df) for df in dfs],
+        'number_of_fixations': [number_of_fixations(df) for df in dfs],
+        'saccade_to_fixation_ratio': [saccade_to_fixation_ratio(df) for df in dfs],
+        'number_of_saccades': [number_of_saccades(df) for df in dfs],
+        'saccade_amplitude': [saccade_amplitude(df) for df in dfs],
+        'scan_path_length': [scan_path_length(df) for df in dfs],
+        'spatial_density_of_scan_path': [spatial_density_of_scan_path(df) for df in dfs],
+        'total_fixation_time': [total_fixation_time(df) for df in dfs],
+        'ratio_of_eye_path_to_task_length': [ratio_of_eye_path_to_task_length(df) for df in dfs],
+        'mean_pupil_size': [mean_pupil_size(df) for df in dfs],
+    }
+    
 
 
 

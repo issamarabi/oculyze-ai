@@ -3,14 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Upload Files</title>
+    <title>UX Study Input</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
 </head>
 <body>
-    <h1>Upload your files</h1>
-    <form action="{{ url_for('upload_files') }}" method="post" enctype="multipart/form-data">
-        <input type="file" name="file[]" multiple><br><br>
-        <input type="submit" value="Upload">
+    <h1>UX Study Input</h1>
+    <form id="studyInputForm" method="post" enctype="multipart/form-data">
+
+    <label for="websites">Number of Websites:</label>
+    <input type="number" id="websites" name="websites" min="1" required><br><br>
+
+    <label for="tasksPerWebsite">Number of Tasks per Website:</label>
+    <input type="number" id="tasksPerWebsite" name="tasksPerWebsite" min="1" required><br><br>
+
+    <label for="participants">Number of Participants:</label>
+    <input type="number" id="participants" name="participants" min="1" required><br><br>
+
+
+        <div id="taskInputs"></div>
+
+        <div id="participantInputs"></div>
+
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
