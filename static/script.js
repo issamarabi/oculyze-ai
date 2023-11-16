@@ -1,49 +1,45 @@
 window.onload = function() {
     const form = document.getElementById('studyInputForm');
-    const participantsInput = document.getElementById('participants');
-    const websitesInput = document.getElementById('websites');
-    const tasksPerWebsiteInput = document.getElementById('tasksPerWebsite');
-    const websiteAndTaskInputs = document.getElementById('websiteAndTaskInputs');
-    const participantInputs = document.getElementById('participantInputs');
+    
+    form.onchange = function(e) {
+        const participants = document.getElementById('participants').value;
+        const websites = document.getElementById('websites').value;
+        const tasksPerWebsite = document.getElementById('tasksPerWebsite').value;
 
-    function updateWebsiteAndTaskInputs() {
-        const websites = websitesInput.value;
-        const tasksPerWebsite = tasksPerWebsiteInput.value;
+        let dynamicInputs = document.getElementById('dynamicInputs');
+        dynamicInputs.innerHTML = '';  // Clear any existing content
 
-        websiteAndTaskInputs.innerHTML = '';
+        let websiteInputs = document.getElementById('websiteInputs');
+        websiteInputs.innerHTML = '';  // Clear any existing content
 
-        for (let j = 1; j <= websites; j++) {
-            websiteAndTaskInputs.innerHTML += `<h3>Website ${j}</h3>`;
-            websiteAndTaskInputs.innerHTML += `<input type='text' name='websiteName_${j}' placeholder='Website Name' required>`;
-            websiteAndTaskInputs.innerHTML += `<input type='file' name='screenshot_${j}' accept='image/*'><br>`;
+        let taskInputs = document.getElementById('taskInputs');
+        taskInputs.innerHTML = '';  // Clear any existing content
 
-            for (let k = 1; k <= tasksPerWebsite; k++) {
-                websiteAndTaskInputs.innerHTML += `<h4>Task ${k}</h4>`;
-                websiteAndTaskInputs.innerHTML += `<input type='text' name='taskDesc_${j}_${k}' placeholder='Task Description' required><br>`;
-            }
+        for (let i = 1; i <= websites; i++) {
+            websiteInputs.innerHTML += `<h3>Website ${i}</h3>`;
+            websiteInputs.innerHTML += `<input type='text' name='websiteName_${i}' placeholder='Website Name' required>`;
         }
-    }
 
-    function updateParticipantInputs() {
-        const participants = participantsInput.value;
-        const websites = websitesInput.value;
-        const tasksPerWebsite = tasksPerWebsiteInput.value;
-
-        participantInputs.innerHTML = '';
+        for (let i = 1; i <= tasksPerWebsite; i++) {
+            taskInputs.innerHTML += `<h4> Task ${i}</h4>`;
+            taskInputs.innerHTML += `<input type='text' name='taskDesc_${i}' placeholder='Task Description' required>`;
+        }
 
         for (let i = 1; i <= participants; i++) {
-            participantInputs.innerHTML += `<h3>Participant ${i}</h3>`;
+            dynamicInputs.innerHTML += `<h2>Participant ${i}</h2>`;
             for (let j = 1; j <= websites; j++) {
+                dynamicInputs.innerHTML += `<h3>Website ${j}</h3>`;
+                dynamicInputs.innerHTML += `<label>Think Aloud for Website ${j}:</label>`;
+                dynamicInputs.innerHTML += `<input type='file' name='thinkAloud_${i}_${j}' accept='audio/*'><br>`;
+
                 for (let k = 1; k <= tasksPerWebsite; k++) {
-                    participantInputs.innerHTML += `<input type='file' name='thinkAloud_${i}_${j}_${k}' accept='audio/*' placeholder='Think Aloud for Website ${j}, Task ${k}'>`;
-                    participantInputs.innerHTML += `<input type='file' name='eyeClickData_${i}_${j}_${k}' accept='.tsv' placeholder='Eye+Click Data for Website ${j}, Task ${k}'>`;
-                    participantInputs.innerHTML += `<input type='file' name='browserLog_${i}_${j}_${k}' accept='.txt' placeholder='Browser Log for Website ${j}, Task ${k}'><br>`;
+                    dynamicInputs.innerHTML += `<h4>Task ${k}</h4>`;
+                    dynamicInputs.innerHTML += `<label>Eye + Click Tracking Data for Task ${k}:</label>`;
+                    dynamicInputs.innerHTML += `<input type='file' name='eyeClickData_${i}_${j}_${k}' accept='.tsv'><br>`;
+                    dynamicInputs.innerHTML += `<label>Browser Log for Task ${k}:</label>`;
+                    dynamicInputs.innerHTML += `<input type='file' name='browserLog_${i}_${j}_${k}' accept='.txt'><br>`;
                 }
             }
         }
-    }
-
-    websitesInput.onchange = updateWebsiteAndTaskInputs;
-    tasksPerWebsiteInput.onchange = updateWebsiteAndTaskInputs;
-    participantsInput.onchange = updateParticipantInputs;
+    };
 };

@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request, redirect, url_for
-import os
 
 app = Flask(__name__)
 
@@ -20,6 +19,7 @@ def upload_files():
     # Process the uploaded files and form data as needed
 
     return redirect(url_for('results'))
+
 
 @app.route('/results')
 def results():
