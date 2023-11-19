@@ -1,0 +1,507 @@
+Page Loaded: https://www.expedia.ca/Flight-Information?journeyContinuationId=AQrGBArxA3Y1LXNvcy1kNzgyMDY5YzAzYzI0NjIwODI1NzNmMDA0ODhjMDIwNy00LTYtMS1zdC12NS1zb3MtZDc4MjA2OWMwM2MyNDYyMDgyNTczZjAwNDg4YzAyMDctMS0yLTF-Mi5TfkFRb0NDQVFTQndpQ2FCQUJHQVFvQWxnQ2NBQndBSG9EWW1aemVnTmlabk1-QVFwR0NpSUkwNklCRWdReE1ERXpHSmpPQVNEcmlRRW8tS3JHQWpDbXJzWUNPRTVBQUZnQkNpQUkwNklCRWdNek1EVVk2NGtCSUpKcUtNYXZ4Z0l3emJYR0FqaE9RQUZZQVJJS0NBRVFBUmdCS2dKVFVSZ0JJZ1FJQVJBQktBSW9CQ2dHTUFFLkFRcURBUW9vQ05XQ0FSSUNNamdZa21vZ3NuRW9fSXZIQWpEMmtzY0NPRXRBQUZnQmFnaEZRMDlDUVZOSlF3b3FDTldDQVJJRU1UQXdNeGl5Y1NDRGFTaWZsc2NDTUxxWHh3STRTMEFCV0FGcUNFVkRUMEpCVTBsRENpc0kxWUlCRWdReE9EYzBHSU5wSUpqT0FTajhsOGNDTUxhWnh3STRTMEFCV0FGcUNFVkRUMEpCVTBsREVnb0lBUkFCR0FFcUFsVkJHQUVpQkFnQkVBRW9BaWdES0FRd0FREWZmZmZmWqBAGhIIARIOCgdQVDJINDBNEgNMSFIaIAgCEg0KBlBUN0g1TRIDU0ZPEg0KBlBUMUg2TRIDREVOIgEBKgUSAwoBMSoHCAESAwoBMRI_ChYKCjIwMjQtMDMtMDESA1lUTxoDU0lOChYKCjIwMjQtMDMtMTASA1NJThoDWVRPEgcSBUNPQUNIGgIQASACGgsIARIHGgM6AQEiACABMgsI____________AToA
+Hovered on DIV with text "Ticket prices changed from CA $2,093.20 to CA $2,630.76. You can continue, or we can help you find o"
+Hovered on H3 with text "Heads up! The result for your search is now coming back with a different price."
+Hovered on DIV with text "Heads up! The result for your search is now coming back with a different price.
+Ticket prices change"
+Clicked on OL with text "Heads up! The result for your search is now coming back with a different price.
+Ticket prices change"
+Clicked on OL with text "Heads up! The result for your search is now coming back with a different price.
+Ticket prices change"
+Hovered on OL with text "Heads up! The result for your search is now coming back with a different price.
+Ticket prices change"
+Clicked on DIV with text "Skip to Main Content.
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Revie"
+Clicked on DIV with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Hovered on DIV with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Hovered on DIV with text "Skip to Main Content.
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Revie"
+Hovered on DIV with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Hovered on DIV with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Hovered on SECTION with text "More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in"
+User was inactive for 12 seconds
+Clicked on DIV with text "Skip to Main Content.
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Revie"
+Hovered on DIV with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Clicked on DIV with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Hovered on DIV with text "Ticket prices changed from CA $2,093.20 to CA $2,630.76. You can continue, or we can help you find o"
+Hovered on LI with text "Heads up! The result for your search is now coming back with a different price.
+Ticket prices change"
+Clicked on DIV with text "Skip to Main Content.
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Revie"
+Clicked on DIV with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Hovered on DIV with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Hovered on MAIN with text "Review trip
+Singapore Airlines·YTO
+SIN
+Change flight
+United·SIN
+YTO
+Change flight
+Current: Review yo"
+Clicked on BUTTON with text "Continue to checkout
+Check out"
+Page Loaded: https://www.expedia.ca/Hotel-Search?adults=1&d1=2024-03-01&d2=2024-03-10&destination=Marina%20Bay%2C%20Singapore%2C%20Singapore&endDate=2024-03-10&flexibility=0_DAY&latLong=1.2803415274578787%2C103.86120359526387&regionId=6047873&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2024-03-01&theme=&useRewards=false&userIntent=
+Hovered on H3 with text "Filter by"
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "FREE_BREAKFAST"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Clicked on LABEL with text "4"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "40"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Clicked on DIV with text "Wifi Included"
+Clicked on INPUT
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Input Changed on INPUT, changed value to "WIFI"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Clicked on BUTTON with text "See less"
+Clicked on P with text "Gym"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "GYM"
+Hovered on DIV with text "Save an average of 15% on thousands of hotels when you're signed in
+Sign in"
+Hovered on SELECT
+Hovered on SELECT
+Clicked on SELECT
+Hovered on SELECT
+Clicked on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Rapid scrolling detected
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Clicked on INPUT
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "CA $250"
+Hovered on BUTTON with text "Marina Bay, Singapore, Singapore"
+Hovered on DIV with text "What we are paid impacts our sort order
+Opens in a new window"
+Clicked on INPUT
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Input Changed on INPUT, changed value to "50"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Clicked on INPUT
+Clicked on INPUT
+Hovered on INPUT
+Clicked on INPUT
+Clicked on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "No matches
+Try removing filters.
+Gym
+Wifi Included
+5 stars
+4 stars
+Breakfast included
+Less than CA $"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+User was inactive for 20 seconds
+Hovered on SECTION with text "More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Gym
+Wifi Included
+5 stars
+4 stars
+Breakfast included
+Remove all filters"
+Clicked on SELECT
+Clicked on OPTION with text "Price: low to high"
+Hovered on DIV
+Input Changed on SELECT, changed value to "PRICE_LOW_TO_HIGH"
+Hovered on A with text "Opens in a new tab"
+Clicked on A with text "Opens in a new tab"
+User was inactive for 49 seconds
+Hovered on IMG
+User was inactive for 31 seconds
+Hovered on IMG
+Hovered on IMG
+User was inactive for 15 seconds
+Hovered on IMG
+Hovered on IMG
+Clicked on SPAN with text "Cars"
+Page Loaded: https://www.expedia.ca/
+Clicked on BUTTON with text "Nov. 23 - Nov. 24"
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON
+Hovered on SECTION with text "Pick-up
+Search by city, airport, or address"
+Hovered on BUTTON
+Input Changed on INPUT, changed value to "singapore airport"
+Hovered on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON with text "Search"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.expedia.ca/carsearch?locn=Singapore%2C%20Singapore%20(SIN-Changi)&pickupIATACode=SIN&olat=1.355172&olon=103.988954&dpln=5130579&loc2=&returnIATACode=&dlat=&dlon=&drid1=&d1=2024-3-1&d2=2024-3-10&date1=01/03/2024&date2=10/03/2024&time1=1030AM&time2=1030AM&
+Hovered on DIV
+Clicked on INPUT
+Hovered on DIV with text "Singapore, Singapore (SIN-Changi) , Mar 1, 10:30 - Mar 10, 10:30
+Change Search
+Pick-up and Drop-off
+"
+Input Changed on INPUT
+Clicked on DIV with text "Specifications
+From
+Specifications
+Automatic
+CA $1,434
+Unlimited mileage
+CA $1,434"
+Clicked on DIV with text "Unlimited mileage
+CA $1,434"
+Clicked on INPUT
+Input Changed on INPUT
+Hovered on INPUT
+Hovered on DIV with text "Singapore, Singapore (SIN-Changi) , Mar 1, 10:30 - Mar 10, 10:30
+Change Search
+Pick-up and Drop-off
+"
+Hovered on DIV
+Clicked on H3 with text "Midsize SUV"
+Clicked on SPAN with text "CA $1,434"
+Clicked on SPAN with text "CA $1,434"
+Clicked on SPAN with text "CA $1,434"
+Clicked on SPAN with text "CA $1,434"
+Rapid succession of clicks detected
+Clicked on DIV
+Rapid succession of clicks detected
+Hovered on MESO-DISPLAY-AD
+Hovered on DIV with text "Pay at pick-up"
+Hovered on DIV with text "See how we pick our recommended cars
+Total includes taxes and fees
+2 CarsAre you looking for more ca"
+Clicked on BUTTON with text "Reserve"
+Hovered on BUTTON with text "Reserve"
+Page Loaded: https://www.expedia.ca/Flights-Search?flight-type=on&mode=search&trip=roundtrip&leg1=from:Toronto%20(and%20vicinity),%20Ontario,%20Canada,to:Singapore,%20Singapore%20(SIN-All%20Airports),departure:01/03/2024TANYT&leg2=from:Singapore,%20Singapore%20(SIN-All%20Airports),to:Toronto%20(and%20vicinity),%20Ontario,%20Canada,departure:10/03/2024TANYT&options=cabinclass:economy&fromDate=01/03/2024&toDate=10/03/2024&d1=2024-3-1&d2=2024-3-10&passengers=adults:1,infantinlap:N
+Hovered on BUTTON with text "Flying to:
+Singapore (SIN-Changi)"
+Hovered on DIV with text "Change your search
+Roundtrip
+1 traveller
+Economy
+Flying from
+Flying from:
+Toronto (YTO-All Airports)"
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (36)
+CA $1,838
+2+ stops (26)
+CA $1,846
+Airlines
+Airlines
+From
+Air "
+Hovered on SECTION with text "More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in"
+Clicked on DIV with text "1 stop (36)"
+Clicked on INPUT
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (36)
+CA $1,838
+2+ stops (26)
+CA $1,846
+Airlines
+Airlines
+From
+Air "
+Input Changed on INPUT, changed value to "1"
+Hovered on DIV with text "1 stop
+Clear all filters"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on OPTION with text "Duration (Shortest)"
+Hovered on LI
+Input Changed on SELECT, changed value to "DURATION_INCREASING"
+Hovered on BUTTON with text "Select and show fare information for Air India flight, departing at 11:55 AM from Toronto, arriving "
+Hovered on BUTTON with text "Select and show fare information for Air India flight, departing at 11:55 AM from Toronto, arriving "
+Hovered on MAIN with text "Select your departure to Singapore
+Current: Choose departing flight
+Choose departing flight
+Choose r"
+Hovered on DIV with text "Prices displayed include taxes and may change based on availability. You can review any additional f"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on OPTION with text "Price (Lowest)"
+Input Changed on SELECT, changed value to "PRICE_INCREASING"
+Hovered on DIV with text "Prices displayed include taxes and may change based on availability. You can review any additional f"
+Hovered on BUTTON with text "Select and show fare information for Turkish Airlines flight, departing at 9:40 PM from Toronto, arr"
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 6:20 PM from Toronto, a"
+Hovered on LI with text "Air India flight departing at 11:55 AM from CA $1,909
+11:55 AM - 7:00 AM+2
+Toronto (YYZ) - Singapore"
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 6:20 PM from Toronto, a"
+Clicked on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 6:20 PM from Toronto, a"
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 6:20 PM from Toronto, a"
+Hovered on DIV with text "CA $207"
+Clicked on DIV with text "Select"
+Clicked on BUTTON with text "Select"
+Hovered on DIV with text "Prices displayed include taxes and may change based on availability. You can review any additional f"
+Hovered on BUTTON with text "Select and show fare information for United flight, departing at 10:20 PM from Singapore, arriving a"
+Clicked on BUTTON with text "Select and show fare information for United flight, departing at 10:20 PM from Singapore, arriving a"
+Hovered on H3 with text "Bags"
+Clicked on BUTTON with text "Select"
+Clicked on A with text "No thanks"
+Hovered on BUTTON with text "Select and show fare information for United flight, departing at 10:20 PM from Singapore, arriving a"
+User was inactive for 35 seconds
+Hovered on BUTTON with text "Select and show fare information for United flight, departing at 10:20 PM from Singapore, arriving a"
+Hovered on MAIN with text "Select your return to Toronto
+Singapore Airlines·YTO
+SIN
+Change flight
+Current: Choose returning fli"
+Page Loaded: https://www.expedia.ca/
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT, changed value to "marina bay"
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on DIV with text "Explore more in 2023. Soon you’ll be able to sign in and book with one account across Expedia, Hotel"
+Clicked on BUTTON with text "Nov 18 - Nov 22"
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Rapid succession of clicks detected
+Clicked on BUTTON
+Rapid succession of clicks detected
+Clicked on BUTTON
+Rapid succession of clicks detected
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "2 travellers, 1 room"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.expedia.ca/Singapore-Hotels-Parc-Sovereign-Hotel-Tyrwhitt.h8427217.Hotel-Information?chkin=2024-03-01&chkout=2024-03-10&x_pwa=1&rfrr=HSR&pwa_ts=1699559287425&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jYS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a1&regionId=6047873&destination=Marina+Bay%2C+Singapore%2C+Singapore&destType=MARKET&neighborhoodId=553248633981715547&latLong=1.280342%2C103.861204&star=40&star=50&amenities=WIFI&amenities=GYM&mealPlan=FREE_BREAKFAST&sort=PRICE_LOW_TO_HIGH&top_dp=251&top_cur=CAD&userIntent=&selectedRoomType=321531140&selectedRatePlan=389001927&searchId=f2d20ce4-be5a-42f0-870f-f419eecbef48
+Clicked on BUTTON with text "Reserve a room"
+Hovered on SECTION with text "See all properties
+Save
+Mercure Singapore Tyrwhitt
+Photo gallery for Mercure Singapore Tyrwhitt
+Outd"
+Clicked on DIV with text "Reserve a room"
+Clicked on BUTTON with text "Reserve a room"
+Hovered on DIV with text "Stay flexible with fully refundable options
+We recommend booking a fully refundable stay in case you"
+Hovered on BUTTON with text "Select and customize"
+Clicked on BUTTON with text "Select and customize"
+Clicked on SPAN with text "Reserve"

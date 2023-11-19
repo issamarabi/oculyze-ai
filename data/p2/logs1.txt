@@ -1,0 +1,83 @@
+Page Loaded: https://www.booking.com/searchresults.html?ss=Singapore%2C+Singapore&ssne=Marina+Bay&ssne_untouched=Marina+Bay&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Ap-GyqoGwAIB0gIkMzc3OWQ5OWMtZTBmMy00YzY4LTlhZTYtYzViMmZmNmUyNTU12AIF4AIB&aid=304142&lang=en-us&sb=1&src_elem=sb&src=index&dest_id=-73635&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=3&search_selected=true&search_pageview_id=9d238e0f343f017a&ac_meta=GhA5ZDIzOGUwZjM0M2YwMTdhIAAoATICZW46BHNpbmdAAEoAUAA%3D&checkin=2024-03-01&checkout=2024-03-10&group_adults=1&no_rooms=1&group_children=0&sb_travel_purpose=leisure
+Clicked on A with text "Flights"
+Clicked on SPAN with text "Where to?"
+Hovered on DIV with text "Find deals on domestic and international flights"
+Input Changed on INPUT, changed value to "singa"
+Clicked on INPUT
+Input Changed on INPUT
+Clicked on SPAN with text "1"
+Clicked on SPAN with text "10"
+Hovered on BUTTON with text "Search"
+Hovered on INPUT
+Input Changed on INPUT, changed value to "marina bay"
+Clicked on DIV with text "Singapore, Singapore"
+Hovered on SPAN with text "Search"
+Hovered on BUTTON with text "Search"
+Hovered on BUTTON with text "Search"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.booking.com/
+Clicked on DIV with text "Sign in, save money
+
+Sign in to save 10% or more with a free Booking.com membership
+
+Sign in or regi"
+Hovered on BODY with text "Skip to main content
+CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rental"
+Clicked on NAV with text "CAD
+List your property
+Register
+Sign in"
+Page Loaded: https://www.booking.com/
+Clicked on DIV with text "Sign in, save money
+
+Sign in to save 10% or more with a free Booking.com membership
+
+Sign in or regi"
+Hovered on BODY with text "Skip to main content
+CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rental"
+Clicked on NAV with text "CAD
+List your property
+Register
+Sign in"
+Clicked on A with text "Car rentals"
+Clicked on LABEL with text "Pick-up location"
+Hovered on LABEL with text "Pick-up location"
+Hovered on DIV with text "Car rentals for any kind of trip
+
+Great deals at great prices, from the biggest car rental companies"
+Hovered on H1 with text "Car rentals for any kind of trip"
+Input Changed on INPUT, changed value to "singapore changi"
+Clicked on DIV with text "Singapore, Singapore"
+Clicked on DIV with text "Thu, Nov 16"
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on SPAN with text "1"
+Hovered on SPAN with text "10"
+Clicked on SPAN with text "10"
+Hovered on SELECT
+Hovered on DIV with text "Alamo
+Dollar
+Hertz
+Thrifty
+Enterprise
+Budget
+National
+Avis
+Routes"
+Page Loaded: https://www.booking.com/searchresults.html?ss=Singapore%2C+Singapore&ssne=Marina+Bay&ssne_untouched=Marina+Bay&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Ap-GyqoGwAIB0gIkMzc3OWQ5OWMtZTBmMy00YzY4LTlhZTYtYzViMmZmNmUyNTU12AIF4AIB&aid=304142&lang=en-us&sb=1&src_elem=sb&src=index&dest_id=-73635&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=3&search_selected=true&search_pageview_id=9d238e0f343f017a&ac_meta=GhA5ZDIzOGUwZjM0M2YwMTdhIAAoATICZW46BHNpbmdAAEoAUAA%3D&checkin=2024-03-01&checkout=2024-03-10&group_adults=1&no_rooms=1&group_children=0&sb_travel_purpose=leisure

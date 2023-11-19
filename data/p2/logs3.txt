@@ -1,0 +1,377 @@
+Clicked on INPUT
+Clicked on INPUT
+Page Loaded: https://ca.trip.com/
+Hovered on SPAN with text "Flights"
+Clicked on SPAN with text "Flights"
+Hovered on DIV with text "Toronto
+All airports"
+Clicked on DIV with text "Toronto
+All airports"
+Clicked on DIV
+Hovered on DIV
+Input Changed on INPUT, changed value to "sing"
+Clicked on INPUT
+Hovered on INPUT
+Clicked on SPAN
+Clicked on SPAN
+Hovered on SPAN
+Clicked on SPAN
+Clicked on SPAN with text "1"
+Clicked on SPAN with text "10"
+Hovered on I
+Clicked on I
+Hovered on I
+Clicked on I
+Clicked on I
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Apr
+View
+24 Feb"
+Hovered on DD with text "Direct only"
+Clicked on I
+Hovered on I
+Clicked on I
+Hovered on DIV with text "TorontoSingapore
+Edit
+1 Adult
+Economy
+1 Mar, 2024-10 Apr, 2024
+26 Feb – 6 Apr
+View
+27 Feb – 7 Apr
+Vi"
+Hovered on DIV with text "TorontoSingapore
+Edit
+1 Adult
+Economy
+1 Mar, 2024-10 Apr, 2024
+26 Feb – 6 Apr
+View
+27 Feb – 7 Apr
+Vi"
+Hovered on DL with text "Clear
+Stops
+Direct only
+1 stop
+2+ stops"
+Hovered on DD with text " Includes checked baggage"
+Hovered on DIV with text "Arrival Time
+00:00 - 24:00
+00:00
+24:00"
+Clicked on H3 with text "Duration"
+Hovered on SPAN
+Hovered on DIV with text "Stopover Duration
+< 30h 20m
+30h 20m"
+Clicked on DIV with text "Stopover Duration
+< 30h 20m
+30h 20m"
+Hovered on SPAN
+Hovered on DD with text "Airport
+Any
+Departure Airport
+YYZ
+Toronto Pearson International Airport
+Arrival Airport
+SIN
+Singapor"
+Hovered on SPAN with text "30h 24m"
+Clicked on DIV with text "30h 24m"
+Hovered on SPAN with text "30h 20m"
+Hovered on SPAN
+Hovered on SPAN with text "< 30h 20m"
+Clicked on DIV with text "Select flights individually
+Filters
+Clear All
+1 stop
+Total Duration < 30h 24m
+Recommended Filters
+ I"
+Hovered on SPAN
+Clicked on SPAN
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Apr
+View
+24 Feb"
+Hovered on DIV
+Clicked on I
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Apr
+View
+24 Feb"
+Clicked on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Apr
+View
+24 Feb"
+Hovered on DIV with text "Lowest Price
+CAD 1,814"
+Clicked on DIV with text "Lowest Price
+CAD 1,814"
+Hovered on SPAN
+Clicked on DIV with text "Total Duration
+< 29h 2m
+29h 2m"
+Hovered on DIV with text "Total Duration
+< 29h 2m
+29h 2m"
+Hovered on SPAN with text "1h in New Delhi"
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Apr
+View
+24 Feb"
+Clicked on SPAN with text "Select"
+Hovered on DIV
+Hovered on DIV with text "Included"
+Hovered on SPAN with text "07:00"
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+Select flights individuall"
+Hovered on DIV with text "1h in New Delhi"
+Hovered on DIV with text "CAD 1,891
+Return
+Select"
+Hovered on SPAN with text "Select"
+Clicked on SPAN with text "Select"
+Hovered on SPAN with text "Book"
+Clicked on SPAN with text "Book"
+Page Loaded: https://ca.trip.com/flights/passenger?pagesource=list&FlightWay=RT&class=Y&Quantity=1&ChildQty=0&BabyQty=0&dcity=yto&acity=sin&ddate=2024-03-01&rdate=2024-04-10&remarkTokenKey=c948ee6d263cf5e62d85ac1864e9a89e&criteriaToken=tripType%3ART%7CcriteriaToken%3ANEWTOKEN%7CKLUv_QBYdQwABhleQTBtnAPAIIsMjRjedaIZXCTSo6NeB-vSkFhYC8VsWzLP5hvFQR96buBPa28plcoTw1x2fSEZBK-mS2dUkv2KG0oSVABJAE4Av21Qa_SGADlp58N9VAAzEeo3bmfCDQfnH0PlnAvcapgqQII4EnEAgkFRoUgVURKnCb2woEwuJjx8GDGaJr2QKpLkmiwoUkWSQEhMk0sJECE0jKYZ9N-CUM_RWAE56SVSn8fpTGh_XmVATmojxfG-6_T2W_u29mjc9wF2WsgC54EVctIaqaz6i_639W0gR-8MBQJy0m5rq7PtzX8kFfe6rv7OA3NQdjt-ffyCND4QAXfljDkouwByDF6EqubQOoYrj4q1DB0bEuIGUSZhSJQkNZETEKYDBpQ-uD8A1OdNzpsaPubb2uMBNQPkDJYYO1hi5BDjqIFnnlEzD1me733guLqmskL3i12Bxa4tdmyxu_UOz5V79Qnu1zVmqRpXZPXl183VqpnDceU2CzH22RnfFQYAjyYrgpDQra5LnAMWlfFomE8%3D%7CcabinClass%3AYSGROUP%7Cadult%3A1%7Cchild%3A0%7Cinfant%3A0%7CsubChannel%3A1020%7Cchannel%3AEnglishSite%7Ccurrency%3ACAD%7CextensionFlag%3A16%7CExtensionOptions%3A%7Clist%3Atrue%7Cidc%3ASHARB%7CdetailSearch%3Afalse%7Cissuer%3ACT%7CSeparateJourneyType%3A0%7CsearchScene%3Aflight-list%7CairlineCodes%3A%7CnearbyCities%3A%7ClistTime%3A202311140444%7Cdate_1%3A2024-03-01%7CaCity_1%3ASIN%7CdCity_1%3AYTO%7Cdate_2%3A2024-04-10%7CaCity_2%3AYTO%7CdCity_2%3ASIN&shoppingid=AI188-YTO-DEL-20240301%2CAI382-DEL-SIN-20240302%2CAI383-SIN-DEL-20240410%2CAI187-DEL-YTO-20240411%5E%5ENEWTOKEN%7CKLUv_QBYPQwARthbQSBt3AYAnAAwAMwixSElIASgSBQACs-PoKF4D4VcR5GPP6LBqRKGcId-a5pEruRAEGLsFhDfaDUOjDpp91Gs170DUABJAEsAm3_LnOSsROq712A4XGa_3Rpvk_WFQjVJqcDrZrECIIgjEQYgGRQTCbSIkShVE-NCUlVMePgwYiTJiQEnMIJJFxI4gREICamqlAARQsNIkgEeDyNgkvP_glC_yRmB3XH5EtK7swpMctZIbbrvdLLm9bZ19mzc5nidLWSB6zyLSU4aKY36i_71NWCS8-PDcSp4lwrqNZy-fBmOGhuzGGbzdzwyB2n2w7GPW9DG9g5wGMaZg7QLIMfQQbAo_qpn1_Kgd8vQISFC3CDSYAak4ISpOPFANlgw53t6A6AeZzDO0O8tW2dPlBg7UGLkEOOIgWuuQTUPXY6tdeCXOsa6Pnd7PUG9nuv1W6979Q7Hljv1Ce7Wc0ahG1ZUM-aYxfSimMOv5VX7bvbRAQcAR5PwY0ARhISeNyKriCkqt9EwyQ%3D%3D%5E800000012SK5G05X00l2GH003H00ln88Y02wW0Nya4XL0DO05sI2GeW80000000KG0000000000010wame8200004C000Gt40002CW000000Y0000EkXqa50m80000000000%5E%5E1890.2%5E%5Emore_grade_false%5EAI188-1-1-20240301%2CAI382-1-2-20240302%2CAI383-2-1-20240410%2CAI187-2-2-20240411%5E%5E%5E%5E%5E%5E%5E%5E%5EXP_H4sIAAAAAAAA_wEgAN__3e-3XmDLm82nO6SpfhFp8bw2XHh4tonYakPX6o-ej6goaLY3IAAAAA%3D%3D%5E%5EqinDelim800000012SK5G05X00l2GH003H00ln88Y02wW0Nya4XL0DO05sI2GeW80000000KG0000000000010wame8200004C000Gt40002CW000000Y0000EkXqa50m80000000000qinDelim&groupKey=AI188-YTO-DEL-20240301%2CAI382-DEL-SIN-20240302%2CAI383-SIN-DEL-20240410%2CAI187-DEL-YTO-20240411%5E%5ENEWTOKEN%7CKLUv_QBYPQwARthbQSBt3AYAnAAwAMwixSElIASgSBQACs-PoKF4D4VcR5GPP6LBqRKGcId-a5pEruRAEGLsFhDfaDUOjDpp91Gs170DUABJAEsAm3_LnOSsROq712A4XGa_3Rpvk_WFQjVJqcDrZrECIIgjEQYgGRQTCbSIkShVE-NCUlVMePgwYiTJiQEnMIJJFxI4gREICamqlAARQsNIkgEeDyNgkvP_glC_yRmB3XH5EtK7swpMctZIbbrvdLLm9bZ19mzc5nidLWSB6zyLSU4aKY36i_71NWCS8-PDcSp4lwrqNZy-fBmOGhuzGGbzdzwyB2n2w7GPW9DG9g5wGMaZg7QLIMfQQbAo_qpn1_Kgd8vQISFC3CDSYAak4ISpOPFANlgw53t6A6AeZzDO0O8tW2dPlBg7UGLkEOOIgWuuQTUPXY6tdeCXOsa6Pnd7PUG9nuv1W6979Q7Hljv1Ce7Wc0ahG1ZUM-aYxfSimMOv5VX7bvbRAQcAR5PwY0ARhISeNyKriCkqt9EwyQ%3D%3D%5E800000012SK5G05X00l2GH003H00ln88Y02wW0Nya4XL0DO05sI2GeW80000000KG0000000000010wame8200004C000Gt40002CW000000Y0000EkXqa50m80000000000%5E%5E1890.2%5E%5Emore_grade_false%5EAI188-1-1-20240301%2CAI382-1-2-20240302%2CAI383-2-1-20240410%2CAI187-2-2-20240411%5E%5E%5E%5E%5E%5E%5E%5E%5EXP_H4sIAAAAAAAA_wEgAN__3e-3XmDLm82nO6SpfhFp8bw2XHh4tonYakPX6o-ej6goaLY3IAAAAA%3D%3D%5E%5EqinDelim800000012SK5G05X00l2GH003H00ln88Y02wW0Nya4XL0DO05sI2GeW80000000KG0000000000010wame8200004C000Gt40002CW000000Y0000EkXqa50m80000000000qinDelim&locale=en-CA&curr=CAD
+Hovered on DIV with text "DepartFri, 1 MarDuration 20h 50m
+11:55
+YYZ Toronto Pearson International AirportT1
+Transfer in New D"
+Hovered on DIV with text "Price Details
+Tickets(1 Adult)
+Baggage
+Adult
+(Passenger 1)
+Checked Baggage
+Free
+Carry-on Baggage
+Fre"
+Hovered on DIV with text "Ticket Price Sold Out
+
+As ticket prices and availability status may change at short notice, search r"
+Hovered on DIV with text "App
+Help
+CAD
+Search Bookings
+Sign in / Register"
+Page Loaded: https://ca.trip.com/
+Clicked on SPAN with text "Hotels"
+Clicked on INPUT
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "sing"
+Clicked on INPUT
+Clicked on INPUT
+Clicked on INPUT
+Clicked on INPUT
+Rapid succession of clicks detected
+Clicked on P with text "Marina Bay"
+Hovered on INPUT
+Clicked on INPUT
+Page Loaded: https://ca.trip.com/hotels/list?city=3686&cityName=Tangier&provinceId=10707&countryId=71&districtId=0&checkin=2023/11/13&checkout=2023/11/14&barCurr=CAD&lat=35.7795536&lon=-5.8035375&searchType=H&searchWord=Marina%20Bay&searchValue=31%7C3108676_31_3108676_1&searchCoordinate=BAIDU_-1_-1_0|GAODE_-1_-1_0|GOOGLE_35.7795536_-5.8035375_0|NORMAL_35.7795536_-5.8035375_0&crn=1&adult=2&children=0&searchBoxArg=t&travelPurpose=0&ctm_ref=ix_sb_dl&domestic=false
+Clicked on LABEL with text "Tangier, Tanger-Tetouan-Al Hoceima, Morocco"
+Clicked on INPUT
+Page Loaded: https://ca.trip.com/
+Hovered on DIV with text "Destination/Hotel Name
+
+Recent searches
+
+Marina Bay
+
+13 Nov-14 Nov, 1 room, 2 Guests
+
+Popular Destin"
+Input Changed on INPUT, changed value to "marina bay"
+Hovered on DIV with text "Marina Bay
+
+Singapore, Singapore"
+Clicked on DIV with text "Marina Bay
+
+Singapore, Singapore"
+Clicked on SPAN
+Clicked on SPAN
+Hovered on SPAN
+Clicked on SPAN
+Clicked on SPAN with text "1"
+Clicked on SPAN with text "10"
+Clicked on DIV with text "Rooms and Guests
+
+1 room, 2 adults, 0 children"
+Hovered on I
+Clicked on I
+Clicked on SPAN with text "Done"
+Hovered on SPAN with text "Search"
+Clicked on SPAN with text "Search"
+Hovered on DIV with text "Destination/Hotel Name
+Singapore
+Check-in
+9 nights
+Check-out
+Rooms and Guests
+
+1 room, 1 adult, 0 ch"
+Page Loaded: https://ca.trip.com/hotels/detail/?cityId=73&hotelId=890394&checkIn=2024-03-01&checkOut=2024-03-10&adult=1&children=0&subStamp=380&crn=1&ages=&travelpurpose=0&curr=CAD&rating=3&link=button&hoteluniquekey=H4sIAAAAAAAAAOOay8zFIsAowSjExMEoNYGZY9_0C4dYLH4LOi4psOW6Xj3HwTMNCI5xXHYI4JnEKMX5TSOm_9DcSgfBde4Pq0SOlTo4sXG0HmWSYJnEKMNZLQIUzatyEARrLi9z0GAESm85j1OaCVn67Bkg-AM0GqxODCjNDJR-cBIsLc3Zf-irRkx9mYPgm8Adcq3yxQ4aLE6sHMdkJJhAmoFCrwM_lDgIghlnCh00WIGab3RCzQ4CCUtWOwgCHb3OnbPcQYMNKP3xOk6XsSO7DMPTGhwwb89gnLXGbCMj2HyJFQ47GBkPMHKeYLzJtIDpziTGXUxsHF8OikmwHAIy2k8wS7CcYmK4xMRwi4nhERPDKyaGT0wMv4BSsw8AjWpiZuhiZpjEzMpxzUiCZRYzwyJmBik-M-NUS7O0NIs0w6RkMwsFIY1F00-tYjOy4GDUEogP8XR2rDIsSCotzEs1LCs2YJzEyOTseIpRytDM0tLSwMLAwsTc2FLPyCQ5KTPNpMTPt6jSilmK0c2DM4jN3MTFyNI0SouLOdjdRZABDD7YSzE7O7ooMu1hFRKx_2CvBZIzXNC54eHLUlGHJNbUPF1nx4x7fAWMXYwcAowejBGMFYyvGEF6foACAgBqAArwTwIAAA&subChannel=&masterhotelid_tracelogid=63e96ff8f1bc68&NewTaxDescForAmountshowtype0=T&barcurr=CAD&HighPrice=390&LowPrice=0&breakfast=1
+Clicked on DIV with text "Select Rooms"
+Clicked on DIV with text "Book at This Price"
+Hovered on DIV with text "Includes 2 breakfasts
+Non-refundable
+Instant Confirmation
+Prepay online
+Minimum 7 nights"
+Hovered on DIV with text "1
+Your Selection
+2
+Your Details
+3
+Final Step
+M Hotel Singapore City Centre
+Deluxe Double Room - Mini"
+Page Loaded: https://ca.trip.com/hotels/booknew?hasaidinurl=false&curr=CAD
+Hovered on DIV with text "1
+Your Selection"
+Hovered on DIV with text "Your Trip Starts Here
+Hotels
+Flights
+Trains
+Car Rentals
+Destination/Hotel Name
+Singapore, Singapore
+"
+Page Loaded: https://ca.trip.com/
+Clicked on LI with text "Car Rentals"
+Clicked on INPUT
+Hovered on DIV with text "Top destinations"
+Input Changed on INPUT, changed value to "singap"
+Clicked on DIV with text "Changi Airport (SIN)"
+Clicked on INPUT
+Clicked on H3 with text "Dec 2023"
+Clicked on H3 with text "Dec 2023"
+Clicked on SPAN
+Clicked on SPAN
+Rapid succession of clicks detected
+Clicked on SPAN
+Rapid succession of clicks detected
+Hovered on SPAN
+Clicked on SPAN with text "1"
+Clicked on INPUT
+Clicked on SPAN with text "10"
+Hovered on DIV
+Clicked on DIV
+Page Loaded: https://ca.trip.com/carhire/online/list?pcity=73&pcityName=Changi%20Airport&pcode=SIN&ptype=1&plat=1.36442&plon=103.991531&paddress=Changi%20Airport%20(SIN)&ptimezone=8&rcity=73&rcityName=Changi%20Airport&rcode=SIN&rtype=1&rlat=1.36442&rlon=103.991531&raddress=Changi%20Airport%20(SIN)&rtimezone=8&ptime=2024-03-01%2010%3A00&rtime=2024-03-10%2010%3A00&scountry=47&age=30&channelid=235728
+Hovered on DIV with text "Filters
+Clear All
+Supplier
+SPEED7
+Seats
+4-5 Seats
+Mileage Policies
+Unlimited Mileage
+Supplier Policy"
+Hovered on DIV with text "Filters
+Clear All
+Supplier
+SPEED7
+Avis
+Hertz
+SIXT
+Seats
+4-5 Seats
+6-7 Seats
+Mileage Policies
+Unlimit"
+Clicked on IMG
+Hovered on DIV with text "Instant Confirmation"
+Hovered on DIV with text "Small SUV"
+Hovered on DIV with text "Filters
+Clear All
+Supplier
+SPEED7
+Avis
+Hertz
+SIXT
+Seats
+4-5 Seats
+6-7 Seats
+Mileage Policies
+Unlimit"
+Clicked on DIV with text "Distance"
+Clicked on SPAN with text "Unlimited Mileage"
+Hovered on DIV with text "Filters
+Clear All
+Supplier
+SPEED7
+Avis
+Hertz
+SIXT
+Seats
+4-5 Seats
+6-7 Seats
+Mileage Policies
+Unlimit"
+Hovered on SPAN with text "CAD 200-300"
+Clicked on SPAN with text "CAD 100-200"
+Clicked on BUTTON with text "Book"
+Hovered on BUTTON with text "Book"
+Page Loaded: https://ca.trip.com/carhire/online/booking?pcity=73&pcityName=Changi%20Airport&pcode=SIN&ptype=1&plat=1.36442&plon=103.991531&paddress=Changi%20Airport%20%28SIN%29&ptimezone=8&rcity=73&rcityName=Changi%20Airport&rcode=SIN&rtype=1&rlat=1.36442&rlon=103.991531&raddress=Changi%20Airport%20%28SIN%29&rtimezone=8&ptime=2024%2F03%2F01%2010%3A00&rtime=2024%2F03%2F10%2010%3A00&scountry=47&age=30-60&channelid=235728&productCode=6945419_ARoAEsABTvEqD8lSlH2ACfvDIORCIZnTzu1wqWOoLpZkNEU%3D&isFromPage=list
+Hovered on IMG
+Hovered on SPAN with text "Pick-up Branch"
+Clicked on BUTTON with text "Book Now"
+Hovered on DIV with text "Help
+1Search Results
+2Driver Details
+3Payment
+4Confirmation
+Between the payment completion time and "
+User was inactive for 390 seconds
+Hovered on DIV with text "Help
+1Search Results
+2Driver Details
+3Payment
+4Confirmation
+Between the payment completion time and "
+User was inactive for 77 seconds
+Hovered on BUTTON with text "Book Now"

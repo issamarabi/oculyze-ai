@@ -1,0 +1,331 @@
+Page Loaded: https://www.booking.com/
+Clicked on INPUT
+Hovered on INPUT
+Clicked on DIV with text "Singapore"
+Input Changed on INPUT, changed value to "Singapore, Singapore"
+Hovered on SPAN with text "Check-in Date"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on SPAN with text "1"
+Clicked on SPAN with text "10"
+Clicked on SPAN with text "2 adults · 0 children · 1 room"
+Clicked on BUTTON
+Page Loaded: https://www.booking.com/
+Clicked on INPUT
+Hovered on INPUT
+Clicked on DIV with text "Singapore"
+Input Changed on INPUT, changed value to "Singapore, Singapore"
+Hovered on SPAN with text "Check-in Date"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on SPAN with text "1"
+Clicked on SPAN with text "10"
+Clicked on SPAN with text "2 adults · 0 children · 1 room"
+Clicked on BUTTON
+Clicked on A with text "Flights"
+Clicked on DIV with text "Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car Rentals
+Attractions
+Airport Taxis
+Compare and book"
+Page Loaded: https://www.booking.com/flights/index.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4ApL0tKoGwAIB0gIkOTJkMDNlNGItOWM5Yi00YjE3LWJmZjQtZGRiNTA0ZWMzNTc12AIF4AIB&sid=6de9a0601ac20e32740568f8d4026ee1&from=booking&
+Clicked on DIV with text "Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car Rentals
+Attractions
+Airport Taxis
+Compare and book"
+Clicked on DIV with text "Compare and book flights with ease
+Discover your next dream destination
+Round-trip
+One-way
+Multi-cit"
+Clicked on BUTTON with text "Toronto All airports"
+Clicked on SPAN with text "Where to?"
+Hovered on SPAN with text "Where to?"
+Input Changed on INPUT, changed value to "singapore"
+Clicked on SPAN with text "SIN Singapore All airports"
+Hovered on DIV with text "Compare and book flights with ease
+Discover your next dream destination
+Round-trip
+One-way
+Multi-cit"
+Clicked on SPAN with text "1"
+Clicked on SPAN with text "10"
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "marina bay"
+Clicked on DIV with text "Marina Bay"
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Rapid succession of clicks detected
+Clicked on BUTTON
+Clicked on SPAN with text "1"
+Clicked on DIV with text "March 2024
+Su
+	
+Mo
+	
+Tu
+	
+We
+	
+Th
+	
+Fr
+	
+Sa
+
+					
+1
+	
+2
+
+
+3
+	
+4
+	
+5
+	
+6
+	
+7
+	
+8
+	
+9
+
+
+10
+	
+11
+	
+12
+"
+Clicked on SPAN with text "10"
+Clicked on DIV with text "Find your next stay
+
+Search deals on hotels, homes, and much more..."
+Rapid succession of clicks detected
+Clicked on BUTTON with text "2 adults · 0 children · 1 room"
+Rapid succession of clicks detected
+Clicked on BUTTON
+Rapid succession of clicks detected
+Clicked on DIV with text "Find your next stay
+
+Search deals on hotels, homes, and much more..."
+Rapid succession of clicks detected
+Clicked on SPAN with text "Search"
+Hovered on BODY with text "Skip to main content
+CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rental"
+Hovered on BODY with text "Skip to main content
+CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rental"
+Clicked on BODY with text "Skip to main content
+CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rental"
+Hovered on IFRAME
+Hovered on LI with text "•
+Non-refundable"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on BODY with text "Skip to main content
+CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rental"
+Clicked on DIV with text "+CAD 425 taxes and fees"
+Clicked on DIV with text "+CAD 425 taxes and fees"
+Clicked on DIV with text "+CAD 425 taxes and fees"
+Clicked on TD with text "CAD 2,262
+Price CAD 2,262
++CAD 425 taxes and fees"
+Rapid succession of clicks detected
+Clicked on TD with text "CAD 2,262
+Price CAD 2,262
++CAD 425 taxes and fees"
+Rapid succession of clicks detected
+Clicked on TD with text "CAD 2,262
+Price CAD 2,262
++CAD 425 taxes and fees"
+Rapid succession of clicks detected
+Hovered on TD with text "CAD 2,262
+Price CAD 2,262
++CAD 425 taxes and fees"
+Clicked on TD with text "CAD 2,262
+Price CAD 2,262
++CAD 425 taxes and fees"
+Rapid succession of clicks detected
+Clicked on TD with text "CAD 2,116
+Price CAD 2,116
++CAD 398 taxes and fees"
+Clicked on TD with text "CAD 2,116
+Price CAD 2,116
++CAD 398 taxes and fees"
+Clicked on TD with text "Sleeps: 1 - 2 guests"
+Clicked on TD with text "Sleeps: 1 - 2 guests"
+Clicked on TD with text "Sleeps: 1 - 2 guests"
+Clicked on SPAN with text "CAD 2,116"
+Rapid succession of clicks detected
+Clicked on SPAN with text "CAD 2,116"
+Rapid succession of clicks detected
+Clicked on SPAN with text "CAD 2,116"
+Rapid succession of clicks detected
+Clicked on SPAN with text "CAD 2,116"
+Rapid succession of clicks detected
+Clicked on DIV with text "CAD 2,116
+Price CAD 2,116
++CAD 398 taxes and fees"
+Rapid succession of clicks detected
+Clicked on TD with text "CAD 2,116
+Price CAD 2,116
++CAD 398 taxes and fees"
+Rapid succession of clicks detected
+Clicked on SPAN with text "CAD 2,116"
+Rapid succession of clicks detected
+Clicked on SELECT
+Hovered on SELECT
+Hovered on TD with text "Continental breakfast included
+Free cancellation before February 27, 2024"
+Clicked on LI with text "•
+Non-refundable"
+Clicked on SELECT
+Clicked on OPTION with text "
+1
+ 
+   
+(CAD 2,262)
+"
+Clicked on DIV with text "I'll reserve"
+Clicked on SPAN with text "I'll reserve"
+Rapid succession of clicks detected
+Page Loaded: https://secure.booking.com/general.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Ap_1tKoGwAIB0gIkZjIxMDkxMmYtZDRhZC00NDQyLWE1ZDAtMDZiZjI1YzEzZWJj2AIF4AIB&sid=6de9a0601ac20e32740568f8d4026ee1;tmpl=preload_assets
+Page Loaded: https://secure.booking.com/book.html?nflt=price%3DCAD-min-330-1%3Bmealplan%3D1%3Bclass%3D5%3Bclass%3D4%3Bpopular_activities%3D11%3Bpopular_activities%3D253%3Bhotelfacility%3D107&hotel_id=1067235&aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Ap_1tKoGwAIB0gIkZjIxMDkxMmYtZDRhZC00NDQyLWE1ZDAtMDZiZjI1YzEzZWJj2AIF4AIB&sid=6de9a0601ac20e32740568f8d4026ee1&room1=A&error_url=%2Fhotel%2Fsg%2Fmercure-singapore-tyrwhitt.html%3Faid%3D304142%26label%3Dgen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Ap_1tKoGwAIB0gIkZjIxMDkxMmYtZDRhZC00NDQyLWE1ZDAtMDZiZjI1YzEzZWJj2AIF4AIB%26sid%3D6de9a0601ac20e32740568f8d4026ee1%26&hostname=www.booking.com&stage=1&checkin=2024-03-01&interval=9&children_extrabeds=&srpvid=&hp_visits_num=1&rt_pos_selected=1&rt_pos_selected_within_room=1&rt_selected_block_position=1&rt_num_blocks=6&rt_num_rooms=1&rt_num_blocks_per_room=%7B%22106723545%22%3A6%7D&rt_relevance_metric_id=a10ce6fa-d78f-4441-96f4-f0cfeb544976&rt_pageview_id=6c2a8d2717dd0953&rt_pos_final=1.1&rt_selected_total_price=2223&rt_cheapest_search_price=2079&from_source=hotel&basket_id=a56b039c-3b8d-4c18-ab78-5124a2ea522c&nr_rooms_106723545_199630300_1_1_0=1
+Clicked on BODY with text "Skip to main content
+CAD
+Choose your currency. Your current currency is Canadian Dollar
+Choose your "
+Page Loaded: https://account.booking.com/sign-in?op_token=EgVvYXV0aCKqBQoUdk8xS2Jsazd4WDl0VW4yY3BaTFMSCWF1dGhvcml6ZRo1aHR0cHM6Ly9zZWN1cmUuYm9va2luZy5jb20vbG9naW4uaHRtbD9vcD1vYXV0aF9yZXR1cm4qygRVclFEaGtzM1BhV3czXzFWaTM2M1RwX1BGS0tTTi1BY3VkTVQ3TGNReGJGcWJmU0xDbzNGS1JPaDJXaGRWT2xlTFZwTUFXVVkxcXlyVkJJRUdReUsyaUpMSU0zeDUwVkxHeEw0cjlBNFg0RHF4QUJlX3pvcE9ZRmpKMzVUVWFwbVRGMS1Ra3QwUnFKVWVYMVFyMk0tUDJnYWp4WG8tbzNwTFZwcFNoSmFWVmFiRXRLUWptREpGZzhicUV2YXlOM3UwVmxUNks3NkMzdEEzd3JndFg4REw0Wk1kdlUwYW0zbDltRkRTTmhqZzZVeXgyc1M4eHVaVUEwTDFxTm52VTQzMkpwSXVQY1hhV2JRd1NoMXliRk9BdVVaUGZMTEE2ZkFXdzUxWlJwNEJzcGRsUWswVUs2LU1saWdoMmR6X0RTNVdFeVNpcGg3NlMwU0NPSTlQY1BBSHpEandBVWppWmdrNHhIcGZVbEZWcEZfTFVudjktdWUxblZCbHBneFlEQ2NVS2laeElyeTRKNkVENDdrdnkzOEhpd2J3aG1Qc05OdFE1T3BfVjZvQ0YtMlN5UFdSc0w3c01TUndHMHFIZWd0OEw2UmRvNElhZjl2X0JuMTZ4Znc2Um9LdnZXMDliQ0FLc3FDUjcwVTNqVDJvemlQNmtPcnVNeUJYRGV6VUh3ZUhiTjhOU25pX2IzbER4QXFZcmx2YWdmWnVIY1pGcV90cjZMNEUwZ0FSblBtWXhTU2Y4a0V4ai16cEtWcFdUMWRmTEJQS2poTzRBQgNzc28qGAiOyBIgATCnvtX9s9ImOgBCAFj79rSqBg
+Clicked on INPUT
+Clicked on INPUT
+Clicked on INPUT
+Clicked on A with text "Car rentals"
+Clicked on LABEL with text "Pick-up location"
+Hovered on LABEL with text "Pick-up location"
+Hovered on BUTTON with text "Pick-up date
+Sun, Nov 12"
+Input Changed on INPUT, changed value to "singapore airport"
+Clicked on DIV with text "AirportChangi Airport (SIN)Singapore, Singapore"
+Hovered on DIV with text "Car rentals for any kind of trip
+
+Great deals at great prices, from the biggest car rental companies"
+Clicked on DIV with text "Sun, Nov 12"
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on SPAN with text "1"
+Hovered on SPAN with text "10"
+Hovered on SPAN with text "10"
+Clicked on SPAN with text "10"
+Hovered on DIV with text "Drop-off date"
+Page Loaded: https://cars.booking.com/package/deal/eyJkcml2ZXJzQWdlIjozMCwiZHJvcE9mZkRhdGVUaW1lIjoiMjAyNC0wMy0xMFQxMDowMDowMCIsImRyb3BPZmZMb2NhdGlvbiI6IlNJTiIsImRyb3BPZmZMb2NhdGlvblR5cGUiOiJJQVRBIiwicGlja1VwRGF0ZVRpbWUiOiIyMDI0LTAzLTAxVDEwOjAwOjAwIiwicGlja1VwTG9jYXRpb24iOiJTSU4iLCJwaWNrVXBMb2NhdGlvblR5cGUiOiJJQVRBIiwicmVudGFsRHVyYXRpb25JbkRheXMiOjksInNlYXJjaE1ldGFkYXRhIjoie1wicGlja1VwTG9jYXRpb25OYW1lXCI6XCJDaGFuZ2kgQWlycG9ydFwiLFwiZHJvcE9mZkxvY2F0aW9uTmFtZVwiOlwiQ2hhbmdpIEFpcnBvcnRcIn0iLCJzZXJ2aWNlRmVhdHVyZXMiOlsiSU5DTFVERV9QUk9EVUNUX1JFTEFUSU9OU0hJUFMiXX0=/728716246
+Clicked on DIV with text "Singapore Changi Airport
+
+Fri, Mar 1, 2024, 10:00 AM
+
+Singapore Changi Airport
+
+Sun, Mar 10, 2024, 1"
+Clicked on DIV with text "Singapore Changi Airport
+
+Fri, Mar 1, 2024, 10:00 AM
+
+Singapore Changi Airport
+
+Sun, Mar 10, 2024, 1"
+Hovered on DIV with text "Singapore Changi Airport
+
+Fri, Mar 1, 2024, 10:00 AM
+
+Singapore Changi Airport
+
+Sun, Mar 10, 2024, 1"
+Hovered on SPAN with text "Back to Search results"
+Hovered on HEADER with text "CAD
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car Rentals
+Attractions
+Airport Taxis"
+User was inactive for 16 seconds
+Clicked on DIV with text "Free cancellation up to 48 hours before pick-up
+
+Top Pick
+Mazda CX-5
+or similar SUV
+5 seats
+Automati"
+Hovered on DIV with text "Free cancellation up to 48 hours before pick-up
+
+Top Pick
+Mazda CX-5
+or similar SUV
+5 seats
+Automati"
+Clicked on SPAN with text "Continue to book"
+Hovered on DIV with text "Singapore Changi Airport
+
+Fri, Mar 1, 2024, 10:00 AM
+
+Singapore Changi Airport
+
+Sun, Mar 10, 2024, 1"
+Clicked on DIV with text "Singapore Changi Airport
+
+Fri, Mar 1, 2024, 10:00 AM
+
+Singapore Changi Airport
+
+Sun, Mar 10, 2024, 1"

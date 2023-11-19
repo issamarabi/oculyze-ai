@@ -1,0 +1,411 @@
+Clicked on INPUT
+Page Loaded: https://www.booking.com/
+Hovered on DIV with text "Sign in, save money
+
+Sign in to save 10% or more with a free Booking.com membership
+
+Sign in or regi"
+Hovered on DIV with text "Sign in, save money
+
+Sign in to save 10% or more with a free Booking.com membership
+
+Sign in or regi"
+Clicked on INPUT
+Page Loaded: https://www.booking.com/
+Hovered on DIV with text "Sign in, save money
+
+Sign in to save 10% or more with a free Booking.com membership
+
+Sign in or regi"
+Hovered on DIV with text "Sign in, save money
+
+Sign in to save 10% or more with a free Booking.com membership
+
+Sign in or regi"
+Clicked on A with text "Flights"
+Page Loaded: https://www.booking.com/flights/index.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4ArOk36oGwAIB0gIkMmY3ODNjZGQtMGZlZC00NjU4LTliMzAtMWUwZTg0YTc4Mzc12AIF4AIB&sid=3b825a241fb6fdd66a1dc60136cbb91b&from=booking&
+Clicked on SPAN with text "Toronto All airports"
+Clicked on SPAN with text "Where to?"
+Hovered on SPAN with text "Where to?"
+Clicked on SPAN with text "SIN Singapore All airports"
+Input Changed on INPUT
+Clicked on SPAN with text "1"
+Clicked on SPAN with text "10"
+Rapid succession of clicks detected
+Clicked on DIV with text "Round-trip
+One-way
+Multi-city
+Economy
+1 adult
+Direct flights only
+Toronto All airports
+Singapore All"
+Rapid succession of clicks detected
+Page Loaded: https://www.booking.com/
+Clicked on INPUT
+Hovered on INPUT
+Clicked on DIV with text "Singapore"
+Input Changed on INPUT, changed value to "Singapore, Singapore"
+Clicked on SPAN with text "1"
+Rapid succession of clicks detected
+Clicked on SPAN with text "10"
+Clicked on BODY with text "Skip to main content
+CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rental"
+Hovered on BODY with text "Skip to main content
+CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rental"
+Clicked on SPAN with text "Search"
+Hovered on DIV with text "Singapore: 276 properties found
+Sort by: Top picks for long stays
+Browse the results for Singapore
+R"
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Clicked on DIV with text "4 stars
+94"
+Clicked on INPUT
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Input Changed on INPUT, changed value to "class=4"
+Rapid scrolling detected
+Rapid scrolling detected
+Rapid scrolling detected
+Clicked on INPUT
+Input Changed on INPUT, changed value to "mealplan=1"
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Rapid scrolling detected
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Rapid scrolling detected
+Clicked on DIV with text "Show less"
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Rapid scrolling detected
+Rapid scrolling detected
+Rapid scrolling detected
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Rapid scrolling detected
+Hovered on DIV with text "Show on map
+Filter by:
+Your Budget (per night)
+CAD 210 – CAD 600+
+Popular Filters
+Free cancellation
+"
+Hovered on HR
+Hovered on DIV with text "Neighborhood
+Orchard
+15
+Guests' Favorite Area
+23
+Best areas outside center
+16
+Balestier
+4
+Singapore "
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "Singapore marina"
+Clicked on DIV with text "Singapore, Singapore"
+Hovered on DIV
+Clicked on SPAN with text "Search"
+Page Loaded: https://www.booking.com/hotel/sg/furama-riverfront.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Auil36oGwAIB0gIkMDkyODZiOWItNDg5Mi00NTFiLWE3Y2QtNmMzMGZhM2MwNjg32AIF4AIB&sid=3b825a241fb6fdd66a1dc60136cbb91b&all_sr_blocks=2512136_98084125_0_1_0;checkin=2024-03-01;checkout=2024-03-10;dest_id=1448;dest_type=district;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=2512136_98084125_0_1_0;hpos=1;matching_block_id=2512136_98084125_0_1_0;nflt=mealplan%3D1%3Bclass%3D4%3Bpopular_activities%3D11;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=price;sr_pri_blocks=2512136_98084125_0_1_0__205495;srepoch=1700254650;srpvid=57ba933115e00120;type=total;ucfs=1&#hotelTmpl
+Hovered on P with text "Located between the colorful Chinatown and Orchard Road, Furama RiverFront is a 30-minute drive from"
+Hovered on P with text "Located between the colorful Chinatown and Orchard Road, Furama RiverFront is a 30-minute drive from"
+Hovered on SPAN with text "Single-room AC for guest accommodation"
+Hovered on SPAN with text "Socket near the bed"
+Rapid scrolling detected
+Clicked on BUTTON with text "Reserve"
+Hovered on BUTTON with text "Reserve"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on OPTION with text "
+1
+ 
+   
+(CAD 1,847)
+"
+Clicked on BUTTON with text "I'll reserve"
+Page Loaded: https://secure.booking.com/general.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Auil36oGwAIB0gIkMDkyODZiOWItNDg5Mi00NTFiLWE3Y2QtNmMzMGZhM2MwNjg32AIF4AIB&sid=3b825a241fb6fdd66a1dc60136cbb91b&srpvid=57ba933115e00120&;tmpl=preload_assets
+Page Loaded: https://www.booking.com/searchresults.html?ss=Marina+Bay%2C+Singapore%2C+Singapore&ssne=Singapore&ssne_untouched=Singapore&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Auil36oGwAIB0gIkMDkyODZiOWItNDg5Mi00NTFiLWE3Y2QtNmMzMGZhM2MwNjg32AIF4AIB&aid=304142&lang=en-us&sb=1&src_elem=sb&src=searchresults&dest_id=1448&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=d10692fee0d800db&ac_meta=GhBkMTA2OTJmZWUwZDgwMGRiIAEoATICZW46EFNpbmdhcG9yZSBtYXJpbmFAAEoAUAA%3D&checkin=2024-03-01&checkout=2024-03-10&group_adults=2&no_rooms=1&group_children=0
+Clicked on INPUT
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Input Changed on INPUT, changed value to "mealplan=1"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "class=4"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "popular_activities=11"
+Rapid scrolling detected
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Clicked on DIV with text "Room Facilities
+Kitchen
+5
+Towels
+59
+Terrace
+5
+Flat-screen TV
+61
+Private pool
+1
+Show all 25"
+Clicked on DIV with text "Show less"
+Rapid scrolling detected
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Rapid scrolling detected
+Rapid scrolling detected
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Clicked on SPAN with text "Sort by: Top picks for long stays"
+Hovered on SPAN with text "Sort by: Top picks for long stays"
+Clicked on DIV with text "Price (lowest first)"
+Hovered on HEADER with text "CAD
+List your property
+Register
+Sign in
+Stays
+Flights
+Flight + Hotel
+Car rentals
+Attractions
+Airport"
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Hovered on DIV with text "Furama RiverFront"
+Hovered on SPAN with text "See availability"
+Page Loaded: https://www.booking.com/
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.booking.com/searchresults.html?ss=Marina+Bay&ssne=Marina+Bay&ssne_untouched=Marina+Bay&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Avin36oGwAIB0gIkNTljY2MyZmItMGQyZi00MzljLTk1NjMtYjU0YjU2MjNjZDdl2AIF4AIB&aid=304142&lang=en-us&sb=1&src_elem=sb&src=index&dest_id=1448&dest_type=district&checkin=2024-03-01&checkout=2024-03-10&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Page Loaded: https://www.booking.com/searchresults.html?ss=Marina+Bay&ssne=Marina+Bay&ssne_untouched=Marina+Bay&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Avin36oGwAIB0gIkNTljY2MyZmItMGQyZi00MzljLTk1NjMtYjU0YjU2MjNjZDdl2AIF4AIB&aid=304142&lang=en-us&sb=1&src_elem=sb&src=index&dest_id=1448&dest_type=district&checkin=2024-03-01&checkout=2024-03-10&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure
+Hovered on DIV with text "0 results found
+Fri, Mar 1
+—
+Sun, Mar 10
+2 adults · 0 children · 1 room
+Search
+Home
+Singapore
+Singap"
+Clicked on A with text "Car rentals"
+Clicked on LABEL with text "Pick-up location"
+Hovered on LABEL with text "Pick-up location"
+Rapid scrolling detected
+Hovered on IMG
+Input Changed on INPUT, changed value to "singapore"
+Hovered on DIV with text "City
+Singapore
+Singapore, Singapore"
+Clicked on DIV with text "Aeroporto di Singapore Changi (SIN)"
+Hovered on DIV with text "Mon, Nov 20"
+Clicked on DIV with text "Mon, Nov 20"
+Clicked on SPAN with text "1"
+Rapid succession of clicks detected
+Clicked on SPAN with text "10"
+Hovered on SELECT
+Hovered on IMG
+Hovered on DIV with text "Search"
+Page Loaded: https://cars.booking.com/package/deal/eyJkcml2ZXJzQWdlIjozMCwiZHJvcE9mZkRhdGVUaW1lIjoiMjAyNC0wMy0xMFQxMDowMDowMCIsImRyb3BPZmZMb2NhdGlvbiI6IlNJTiIsImRyb3BPZmZMb2NhdGlvblR5cGUiOiJJQVRBIiwicGlja1VwRGF0ZVRpbWUiOiIyMDI0LTAzLTAxVDEwOjAwOjAwIiwicGlja1VwTG9jYXRpb24iOiJTSU4iLCJwaWNrVXBMb2NhdGlvblR5cGUiOiJJQVRBIiwicmVudGFsRHVyYXRpb25JbkRheXMiOjksInNlYXJjaE1ldGFkYXRhIjoie1wicGlja1VwTG9jYXRpb25OYW1lXCI6XCJBZXJvcG9ydG8gZGkgU2luZ2Fwb3JlIENoYW5naVwiLFwiZHJvcE9mZkxvY2F0aW9uTmFtZVwiOlwiQWVyb3BvcnRvIGRpIFNpbmdhcG9yZSBDaGFuZ2lcIn0iLCJzZXJ2aWNlRmVhdHVyZXMiOlsiSU5DTFVERV9QUk9EVUNUX1JFTEFUSU9OU0hJUFMiXX0=/728716246
+Hovered on DIV with text "3 Large bags"
+Hovered on H2 with text "Great choice!"
+Clicked on SPAN with text "Continue to book"
+Hovered on DIV
+Hovered on DIV with text "Copyright © 2023 Booking.com Transport Limited. All rights reserved.
+
+Booking.com Transport Limited "
+Clicked on SPAN with text "Go to book
+Without Full Protection"
+Hovered on SPAN with text "Go to book
+Without Full Protection"
+Page Loaded: https://cars.booking.com/search-results?adplat=cross_product_bar&aid=304142&cor=ca&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYATG4ARfIAQ_YAQHoAQH4AQKIAgGoAgO4Avin36oGwAIB0gIkNTljY2MyZmItMGQyZi00MzljLTk1NjMtYjU0YjU2MjNjZDdl2AIF4AIB&prefcurrency=CAD&preflang=us&location=-1&dropLocation=-1&locationName=Aeroporto%20di%20Singapore%20Changi&locationIata=SIN&dropLocationName=Aeroporto%20di%20Singapore%20Changi&dropLocationIata=SIN&coordinates=1.35188%2C103.984&dropCoordinates=1.35188%2C103.984&driversAge=30&puDay=1&puMonth=3&puYear=2024&puMinute=0&puHour=10&doDay=10&doMonth=3&doYear=2024&doMinute=0&doHour=10&ftsType=A&dropFtsType=A
+Hovered on DIV with text "Checking the top companies to find the best deals"
+Hovered on SPAN with text "Recommended
+Price (lowest first)"
+Clicked on SPAN
+Clicked on INPUT
+Hovered on DIV with text "Aeroporto di Singapore Changi
+
+Fri, Mar 1, 2024, 10:00 AM
+
+Aeroporto di Singapore Changi
+
+Sun, Mar 1"
+Input Changed on INPUT, changed value to "CA$100 - CA$150"
+Hovered on DIV with text "Top Pick
+Ideal for Families
+Mazda CX-5
+or similar SUV
+5 seats
+Automatic
+3 Large bags
+Unlimited milea"
+Hovered on SPAN with text "Singapore Changi Airport"
+Hovered on DIV with text "Aeroporto di Singapore Changi
+
+Fri, Mar 1, 2024, 10:00 AM
+
+Aeroporto di Singapore Changi
+
+Sun, Mar 1"
+Clicked on SPAN
+Clicked on INPUT
+Hovered on DIV with text "Location
+Airport (in terminal)
+Price per day
+CA$0 - CA$50
+CA$50 - CA$100
+CA$100 - CA$150
+CA$150 - CA"
+Input Changed on INPUT, changed value to "Unlimited"
+Hovered on DIV with text "Top Pick
+Ideal for Families
+Mazda CX-5
+or similar SUV
+5 seats
+Automatic
+3 Large bags
+Unlimited milea"
+Hovered on DIV with text "Aeroporto di Singapore Changi
+
+Fri, Mar 1, 2024, 10:00 AM
+
+Aeroporto di Singapore Changi
+
+Sun, Mar 1"
+Clicked on INPUT
+Hovered on SPAN
+Input Changed on INPUT, changed value to "CA$100 - CA$150"
+Hovered on DIV with text "CA$100 - CA$150"
+Hovered on SPAN
+Clicked on SPAN
+Clicked on INPUT
+Input Changed on INPUT, changed value to "CA$100 - CA$150"
+Hovered on DIV with text "View deal"
+Clicked on DIV with text "View deal"
+Clicked on INPUT
+Hovered on INPUT
+Clicked on INPUT
+Input Changed on INPUT, changed value to "arabiiss"
+Hovered on INPUT
+Clicked on BUTTON with text "Logging in, please wait..."
+Hovered on DIV with text "Stay signed in?
+Do this to reduce the number of times you are asked to sign in.
+Don't show this agai"
+Hovered on DIV with text "i.arabi@mail.utoronto.ca
+Stay signed in?
+Do this to reduce the number of times you are asked to sign"
+User was inactive for 15 seconds
+Clicked on DIV with text "Do this to reduce the number of times you are asked to sign in."
+Clicked on INPUT

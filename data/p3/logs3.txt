@@ -1,0 +1,418 @@
+Page Loaded: https://ca.trip.com/flights/toronto-to-singapore/tickets-yto-sin?dcity=yto&acity=sin&ddate=2024-03-01&rdate=2024-03-10&flighttype=rt&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t
+Hovered on IFRAME
+Hovered on IFRAME
+Hovered on DD with text " Checked baggage included"
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Mar
+View
+24 Feb"
+Hovered on DT with text "Any"
+Clicked on DT with text "Any"
+Hovered on SPAN
+Clicked on SPAN
+Hovered on SPAN
+Clicked on SPAN
+Clicked on DL with text "Clear
+Duration
+Stopover Duration
+< 36h 12m
+36h 12m
+Total Duration
+< 30h 2m
+30h 2m"
+Hovered on SPAN with text "< 30h 2m"
+Hovered on SPAN with text "Self-Transfer Guarantee"
+Hovered on SPAN
+Hovered on DIV with text "Our commitment to making your trip flexible and worry-free!
+
+Flexible hotel & flight bookings
+Self-T"
+Hovered on SPAN
+Clicked on SPAN
+Clicked on DIV with text "Total Duration
+< 30h 2m
+30h 2m"
+Hovered on DIV with text "Total Duration
+< 30h 2m
+30h 2m"
+Hovered on SPAN
+Hovered on DIV with text "Stopover Duration
+< 36h 12m
+36h 12m"
+Clicked on I
+Clicked on I
+Hovered on DL with text "Clear
+Stops
+Direct only
+1 stop
+2+ stops"
+Rapid scrolling detected
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Mar
+View
+24 Feb"
+Hovered on SPAN with text "CAD 1,833"
+Hovered on SPAN with text "Select"
+Hovered on DIV with text "22h 5m"
+Hovered on SPAN with text "2h in London"
+Hovered on SPAN with text "Select
+<5 left"
+Clicked on SPAN with text "Select
+<5 left"
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+Select flights individuall"
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+Select flights individuall"
+Rapid scrolling detected
+Rapid scrolling detected
+Clicked on DT with text "Any"
+Hovered on DD with text "oneworld"
+Hovered on DL with text "Duration
+Stopover Duration
+< 31h 30m
+31h 30m
+Total Duration
+< 52h 49m
+52h 49m"
+Hovered on DIV with text "Singapore Airlines
+Codeshare flight
+09:00
+SIN T3
+46h 10m
+23h 40m in London
+19:10
+YYZ T1
+ +1"
+Hovered on SPAN
+Clicked on SPAN
+Hovered on DIV with text "Total Duration
+< 31h 13m"
+Hovered on DIV with text "Total Duration
+< 31h 13m
+31h 13m"
+Hovered on DIV with text "Total Duration
+< 31h 13m"
+Clicked on SPAN
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+Select flights individuall"
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+Select flights individuall"
+Hovered on DIV with text "9h 20m in San Francisco"
+Hovered on SPAN with text "Select"
+Clicked on SPAN with text "Select"
+Hovered on SPAN with text "Book"
+Clicked on SPAN with text "Book"
+Page Loaded: https://ca.trip.com/
+Hovered on SPAN with text "Hotels"
+Clicked on SPAN with text "Hotels"
+Hovered on DIV with text "Hotels
+Flights
+Trains
+Car Rentals
+Destination/Hotel Name
+Singapore, Singapore
+Check-in
+9 nights
+Chec"
+Hovered on DIV with text "Rooms and Guests
+
+1 room, 1 adult, 0 children"
+Clicked on EM with text "4"
+Hovered on EM with text "4"
+Hovered on SPAN with text "Search"
+Clicked on SPAN with text "Search"
+Page Loaded: https://ca.trip.com/hotels/list?city=73&cityName=Singapore&provinceId=0&countryId=3&districtId=0&checkin=2024/03/01&checkout=2024/03/10&starlist=4&barCurr=CAD&lat=1.29186232961828&lon=103.857327103615&searchType=Z&searchWord=Marina%20Bay&searchValue=8%7C376_8_376_1&searchCoordinate=BAIDU_-1_-1_0|GAODE_0_0_0|GOOGLE_1.29186232961828_103.857327103615_0|NORMAL_1.29186232961828_103.857327103615_0&crn=1&adult=1&children=0&searchBoxArg=t&travelPurpose=0&ctm_ref=ix_sb_dl&domestic=false
+Rapid scrolling detected
+Rapid scrolling detected
+Clicked on SPAN with text "Show All 25"
+Hovered on SPAN with text "Wi-Fi in Public Areas"
+Hovered on I
+Hovered on SPAN with text "Water Park"
+Clicked on SPAN with text "Show All 11"
+Hovered on SPAN with text "Apartment"
+Clicked on I
+Hovered on I
+Clicked on DIV with text "9 nights
+
+1 room, 1 adult, 0 children
+
+Search
+Show on Map
+
+Price (CAD)
+
+Price per room per night (ex"
+Hovered on DIV with text "9 nights
+
+1 room, 1 adult, 0 children
+
+Search
+Show on Map
+
+Price (CAD)
+
+Price per room per night (ex"
+Hovered on DIV with text "Destination/Hotel Name
+Check-in
+9 nights
+Check-out
+Rooms and Guests
+
+1 room, 1 adult, 0 children
+
+Se"
+Hovered on SPAN with text "Breakfast Included"
+Clicked on SPAN with text "Breakfast Included"
+Hovered on DIV with text "Popular Filters
+
+Clear
+Breakfast Included
+Free Cancellation
+1 Double Bed
+Instant Confirmation
+2 Beds"
+Hovered on DIV with text "9 nights
+
+1 room, 1 adult, 0 children
+
+Search
+Show on Map
+
+Price (CAD)
+
+Price per room per night (ex"
+Hovered on DIV with text "Property Facilities & Services
+
+Smoking Area
+Airport Shuttle Service
+Luggage Storage
+Free parking
+Fi"
+Hovered on LI with text "Luggage Storage"
+Hovered on SPAN with text "Aqueen"
+Rapid scrolling detected
+Clicked on I
+Hovered on I
+Rapid scrolling detected
+Hovered on SECTION with text "Show on Map
+
+Price (CAD)
+
+Price per room per night (excl. taxes & fees)
+
+Popular Filters
+
+Clear
+Brea"
+Hovered on DIV with text "PARKROYAL COLLECTION Marina Bay, Singapore
+4.6/5
+
+Great
+
+1,606 reviews
+
+"Great view"
+"Classy environ"
+Hovered on SPAN with text "PARKROYAL COLLECTION Marina Bay, Singapore"
+Hovered on SPAN with text "PARKROYAL COLLECTION Marina Bay, Singapore"
+Clicked on SPAN with text "PARKROYAL COLLECTION Marina Bay, Singapore"
+Rapid scrolling detected
+Hovered on UL with text "Opened: 1987
+Renovated: 2021
+Number of Rooms: 583"
+Page Loaded: https://ca.trip.com/hotels/detail/?cityId=73&hotelId=995082&checkIn=2024-03-01&checkOut=2024-03-10&adult=1&children=0&subStamp=1152&crn=1&ages=&travelpurpose=0&curr=CAD&starlist=4&link=title&hoteluniquekey=H4sIAAAAAAAAAONawsbFIsAowSjExMEoNZ2N4-6j8zuZLX4LOjKAQPFyB880EAi97xDAUwgWM-h2aGRc_Jh_9RHGdodJjPGchbZc1xcrNDkItr4O3CF3sc5ByZnj7b2HPAIiEitPbctUYNQE62tIdjCEMSxiHRUcPyaf6U1w8IQxglg5JolLsESxcTxdxy_B4cTG8egcswTLJMZETrDB8m0Ogh4Pq0TWnW3CYcODdKgNQAbQhm_T705uN05x8IQxgDbMlwHbMOmBkASHBiPQjrtbWJDsMG51ELy-uMCWixWnHWkwO9JAdli6uhf9jE528IQxgHZ0SIPt6PkjCLSDCWjHjLlgO2Q4wUG5B-iP_kNfNWKCmx00mIHSW47glGbBL82KX5oNIZ3IGbRDrvX1ymYHwbNngGBbA5L_ViP5zyEV6j8gA-g_XWeZ14--JDp4whhA__VKgv2386oA0H_sQDv-fWWmqR0cMDtmMHbds9nIuM4dmAyubXbYwch0gPH7fyhgPMG4m2UBU9c59l1MbBwb56lJsBwCMqZ_YpVgOcXEcImJ4RYTwyOgyOUGRgmWV0wMn4Dsr1tDJTh-ARkv5wPDqYmZoYuZYRIzK8ezYAmWWUB6KZ8EyyJmBik-C8uUpEQD0ySjxOQ0MwsFIY3ZE--vYjOy4GDUEogP8XR2rLIoLs7LKTetNCkxYJzEyOTseIpRytDM0tLSwMLAwsTc2FLPyCQ5KTPNpMTPt6jSilmK0c2DM4jN1M3J3Nw8SouLOdjdRRAcLAwf7KWYnR1dFNO-P0lcGPbBXgskZxi9cf-beTWiDkmsqXm6zo4Z9_gKGLsYOQQYPRgjGCsYXzGC9PwABREA0eIITtYDAAA&subChannel=&masterhotelid_tracelogid=89dba05b2acf68&NewTaxDescForAmountshowtype0=T
+Hovered on IMG
+User was inactive for 47 seconds
+Hovered on INPUT
+Hovered on DIV with text "App
+Help
+CAD
+Search Bookings
+Sign in / Register"
+Page Loaded: https://ca.trip.com/
+Clicked on I
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Destinati"
+Hovered on INPUT
+Clicked on I
+Hovered on I
+Clicked on DIV with text "Pick-up Date"
+Clicked on INPUT
+Clicked on H3 with text "Dec 2023"
+Clicked on SPAN
+Hovered on SPAN
+Clicked on SPAN
+Clicked on SPAN
+Hovered on SPAN
+Clicked on SPAN with text "1"
+Clicked on INPUT
+Clicked on SPAN with text "10"
+Hovered on DIV with text "Featured Properties
+We Price Match
+Hotel Booking Guarantee
+Hotel Stay Guarantee
+TokyoHong KongToront"
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Drop off "
+Hovered on DIV with text "Pick-up Date"
+Hovered on DIV
+Clicked on DIV
+Page Loaded: https://ca.trip.com/carhire/online/booking?pcity=73&pcityName=Changi%20Airport&pcode=SIN&ptype=1&plat=1.36442&plon=103.991531&paddress=Changi%20Airport%20%28SIN%29&ptimezone=8&rcity=73&rcityName=Changi%20Airport&rcode=SIN&rtype=1&rlat=1.36442&rlon=103.991531&raddress=Changi%20Airport%20%28SIN%29&rtimezone=8&ptime=2024%2F03%2F01%2010%3A00&rtime=2024%2F03%2F10%2010%3A00&scountry=47&age=30-60&channelid=235728&productCode=6945419_ARoAGlm1Qfb25OJSlH2ACfvDIORCIZnTzu1wqWOoLpZkNEU%3D&isFromPage=list
+Hovered on DIV with text "Insurance"
+Hovered on DIV with text "Third-party Liability Insurance
+Excess: SGD 3,000.00"
+Hovered on DIV with text "Inside the airport, Contact branch staff after arrival for pick-up"
+Page Loaded: https://ca.trip.com/
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Drop off "
+Hovered on DIV with text "Featured Properties
+We Price Match
+Hotel Booking Guarantee
+Hotel Stay Guarantee
+TokyoHong KongToront"
+Clicked on DIV with text "Pick-up Location"
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "Toronto"
+Clicked on DIV with text "Lester B. Pearson International Airport (YYZ)"
+Hovered on INPUT
+Clicked on I
+Clicked on INPUT
+Clicked on DIV with text "Singapore
+All airports"
+Clicked on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Return
+1 "
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Return
+1 "
+Clicked on INPUT
+Clicked on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Return
+1 "
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Return
+1 "
+Clicked on LI
+Clicked on INPUT
+Hovered on INPUT
+Clicked on DIV with text "Return
+1 Adult
+Economy"
+Clicked on DIV with text "Singapore
+All airports"
+Clicked on INPUT
+Clicked on LI with text "1"
+Clicked on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search"
+Hovered on SPAN with text "Search"
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search"
+Clicked on INPUT
+Hovered on INPUT
+Clicked on DIV with text "Apr 2024"
+Clicked on DIV with text "Apr 2024"
+Hovered on DIV with text "Apr 2024"
+Clicked on SPAN
+Clicked on SPAN with text "1"
+Clicked on INPUT
+Clicked on INPUT
+Hovered on INPUT
+Clicked on LI with text "10"
+Clicked on SPAN with text "Search"

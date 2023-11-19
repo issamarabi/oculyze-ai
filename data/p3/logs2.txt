@@ -1,0 +1,540 @@
+Hovered on IMG
+Hovered on IMG
+Hovered on IMG
+Hovered on IMG
+Clicked on BUTTON
+Page Loaded: https://www.expedia.ca/
+Hovered on INPUT
+Input Changed on INPUT, changed value to "sing"
+Clicked on BUTTON
+Hovered on DIV
+Hovered on DIV with text "Stays
+Flights
+Cars
+Vacation packages
+Things to do
+Cruises
+Going to
+Singapore, Singapore
+Going to
+Goi"
+Hovered on BUTTON with text "Singapore, Singapore"
+Hovered on BUTTON with text "Singapore, Singapore"
+Clicked on BUTTON with text "Nov 17 - Nov 21"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "Mar 1 - Mar 10"
+Hovered on A with text "Flights"
+Hovered on DIV with text "Skip to main content
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Beginn"
+Hovered on BUTTON with text "Search"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.expedia.ca/Singapore-Hotels-Holiday-Inn-Express-And-Suites-Singapore-Novena.h200618.Hotel-Information?chkin=2024-03-01&chkout=2024-03-10&x_pwa=1&rfrr=HSR&pwa_ts=1700253479892&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jYS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6047873&destination=Marina+Bay%2C+Singapore%2C+Singapore&destType=MARKET&neighborhoodId=553248633194079200&latLong=1.280342%2C103.861204&star=40&amenities=WIFI&amenities=GYM&mealPlan=FREE_BREAKFAST&sort=PRICE_LOW_TO_HIGH&top_dp=259&top_cur=CAD&userIntent=&selectedRoomType=321765395&selectedRatePlan=389488114&searchId=630c9093-4a2e-4a1c-ace6-d19ab6c38b63
+Hovered on BUTTON with text "Reserve Standard Room, 2 Twin Beds (High Floor)
+Reserve"
+Clicked on BUTTON with text "Reserve Standard Room, 2 Twin Beds (High Floor)
+Reserve"
+Hovered on DIV with text "Your payment options
+Pay now
+We will process your payment in your local currency
+More ways to pay: u"
+Clicked on BUTTON with text "Pay now"
+Hovered on DIV with text "The price is CA $259
+CA $259
+CA $2,765 total
+includes taxes & fees"
+Clicked on BODY with text "Skip to main content
+More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in
+Beginn"
+Page Loaded: https://www.expedia.ca/Hotel-Search?adults=2&d1=2024-03-01&d2=2024-03-10&destination=Singapore%2C%20Singapore&endDate=2024-03-10&latLong=1.29027%2C103.85201&regionId=3168&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2024-03-01&theme=&useRewards=false&userIntent=
+Hovered on DIV with text "Going to
+Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+2 travellers, 1 room"
+Clicked on BUTTON with text "See less"
+Clicked on INPUT
+Hovered on DIV with text "Compare properties"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+2 travel"
+Rapid scrolling detected
+Rapid scrolling detected
+Clicked on BUTTON with text "See less"
+Clicked on INPUT
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+2 travel"
+Input Changed on INPUT, changed value to "WIFI"
+Clicked on BUTTON with text "See more"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+2 travel"
+Hovered on BUTTON with text "See less"
+Clicked on BUTTON with text "See more"
+Clicked on BUTTON with text "See less"
+Clicked on INPUT
+Hovered on SECTION with text "static map image
+View in a map
+Compare properties
+Sort & filter
+Search by property name
+e.g. Marriot"
+Input Changed on INPUT, changed value to "GYM"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+2 travel"
+Clicked on SPAN with text "4"
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "40"
+Hovered on DIV with text "Compare properties"
+Clicked on INPUT
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+2 travel"
+Input Changed on INPUT, changed value to "FREE_BREAKFAST"
+Hovered on SELECT
+Clicked on SELECT
+Clicked on OPTION with text "Price: low to high"
+Input Changed on SELECT, changed value to "PRICE_LOW_TO_HIGH"
+Hovered on SELECT
+Clicked on SELECT
+Clicked on OPTION with text "Price: low to high"
+User was inactive for 21 seconds
+Hovered on A with text "Opens in a new tab"
+Hovered on A with text "Opens in a new tab"
+Hovered on DIV
+Hovered on SELECT
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+2 travel"
+Hovered on A with text "Opens in a new tab"
+Hovered on DIV with text "Photo gallery for Holiday Inn Express and Suites Singapore Novena, an IHG Hotel
+Exterior
+Holiday Inn"
+Hovered on A with text "Opens in a new tab"
+Hovered on A with text "Opens in a new tab"
+Clicked on A with text "Opens in a new tab"
+Hovered on IFRAME
+Hovered on IFRAME
+Hovered on IFRAME
+Hovered on IFRAME
+Hovered on IFRAME
+Page Loaded: https://www.expedia.ca/
+Clicked on A with text "Cars"
+Clicked on BUTTON
+Hovered on INPUT
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "Singapore, Singapore"
+Hovered on BUTTON
+Clicked on DIV with text "Pick-up
+Singapore, Singapore
+Pick-up
+Pick-up
+Same as pick-up
+Same as pick-up
+Same as pick-up
+Same as"
+Clicked on BUTTON
+Clicked on DIV with text "Stays
+Flights
+Cars
+Vacation packages
+Things to do
+Cruises
+Rental cars
+Airport transportation
+Pick-up"
+Hovered on DIV with text "Stays
+Flights
+Cars
+Vacation packages
+Things to do
+Cruises
+Rental cars
+Airport transportation
+Pick-up"
+Hovered on DIV with text "Pick-up
+Singapore, Singapore
+Pick-up
+Pick-up
+Same as pick-up
+Same as pick-up
+Same as pick-up
+Same as"
+Clicked on BUTTON with text "Dec. 1 - Dec. 2"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.expedia.ca/carsearch/details?selCC=%5Bsuv%5D&selOpt=%5BUNLIMITED_MILEAGE%5D&date1=01%2F03%2F2024&date2=10%2F03%2F2024&time1=1030AM&time2=1030AM&dpln=3168&locn=Singapore%2C+Singapore&piid=AQkwSF_NHd_GKkI7QCbCnsLLavjCnI7in9MF41jMKsvonXI1yHdn__CVGFxhXPCiIHnfu2QrnmtrnJXPdJCPYe4guifGKl3YrENU95ko-PEv8&dailyPriceShown=107.09&totalPriceShown=963.95&searchUrl=%2Fcarsearch%3Fdate1%3D01%252F03%252F2024%26date2%3D10%252F03%252F2024%26time1%3D1030AM%26time2%3D1030AM%26dpln%3D3168%26locn%3DSingapore%252C%2BSingapore&isOffAirport=true&avgCatPR=957.0&period=weekly
+Hovered on DIV
+Hovered on DIV with text "CA $964 total
+Price is CA $964
+Free cancellation
+Pay at pick-up
+Additional benefits with this car re"
+Hovered on DIV with text "Save
+Hybrid
+Compact SUV
+Toyota Yaris Cross or similar
+5 Passengers
+Air conditioning
+Unlimited mileag"
+Hovered on DIV with text "Save
+Hybrid
+Compact SUV
+Toyota Yaris Cross or similar
+5 Passengers
+Air conditioning
+Unlimited mileag"
+Hovered on BUTTON with text "Reserve"
+Clicked on BUTTON with text "Reserve"
+Page Loaded: https://www.expedia.ca/carsearch?locn=Singapore%2C%20Singapore&pickupIATACode=SIN&olat=1.29027&olon=103.85201&dpln=3168&loc2=&returnIATACode=&dlat=&dlon=&drid1=&d1=2024-3-1&d2=2024-3-10&date1=01/03/2024&date2=10/03/2024&time1=1030AM&time2=1030AM&
+Hovered on INPUT
+Clicked on INPUT
+Input Changed on INPUT
+Clicked on INPUT
+Hovered on DIV with text "View map
+Filter by
+Exclusive offers
+From
+Exclusive offers
+Great Deal
+CA $1,360
+Great Deal shows you "
+Input Changed on INPUT
+Hovered on INPUT
+Hovered on SPAN with text "CA $1,250 to CA $1,500"
+Hovered on DIV
+Hovered on DIV with text "Singapore, Singapore , Mar 1, 10:30 - Mar 10, 10:30
+Change Search
+Pick-up and Drop-off
+Pick-up and D"
+Clicked on SELECT
+Clicked on SELECT
+Hovered on SELECT
+Hovered on DIV
+User was inactive for 16 seconds
+Hovered on DIV
+Hovered on BUTTON with text "Mar 10"
+Clicked on H3 with text "Compact SUV"
+Hovered on H3 with text "Compact SUV"
+Hovered on DIV with text "5 km from Singapore city centre"
+Hovered on DIV with text "Singapore, Singapore , Mar 1, 10:30 - Mar 10, 10:30
+Change Search
+Pick-up and Drop-off
+Pick-up and D"
+Hovered on DIV with text "Singapore, Singapore , Mar 1, 10:30 - Mar 10, 10:30
+Change Search
+Pick-up and Drop-off
+Pick-up and D"
+Hovered on DIV
+Hovered on DIV with text "SUV
+Unlimited mileage"
+Hovered on DIV with text "Learn more about our Great Deals
+5 Cars • Total includes taxes and fees
+Sort by
+Selected filter
+SUV
+"
+Hovered on BUTTON with text "Reserve"
+Clicked on BUTTON with text "Reserve"
+Hovered on DIV with text "Our biggest travel event of the year
+You can now save 30% or more with Member Prices, only until Nov"
+Page Loaded: https://www.expedia.ca/
+Clicked on DIV with text "Expedia Travel: Search Hotels, Cheap Flights, Car Rentals, Things to Do & Vacations
+Search for trave"
+Clicked on BUTTON
+Clicked on A with text "Flights"
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT, changed value to "Toronto, ON, Canada (YYZ-Pearson Intl.)"
+Clicked on BUTTON
+Hovered on INPUT
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "Singapore, Singapore (SIN-Changi)"
+Clicked on BUTTON with text "Dec 1 - Dec 2"
+Clicked on BUTTON
+Clicked on DIV
+Clicked on DIV
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "Done"
+Hovered on DIV with text "Add a place to stay
+
+Add a car"
+Clicked on BUTTON with text "Search"
+Hovered on DIV with text "Sponsored by Philippine Airlines
+Travel to the Philippines and beyond
+Fly nonstop to Manila and conn"
+Page Loaded: https://www.expedia.ca/Flights-Search?flight-type=on&mode=search&trip=roundtrip&leg1=from:Toronto,%20ON,%20Canada%20(YYZ-Pearson%20Intl.),to:Singapore,%20Singapore%20(SIN-Changi),departure:01/03/2024TANYT&leg2=from:Singapore,%20Singapore%20(SIN-Changi),to:Toronto,%20ON,%20Canada%20(YYZ-Pearson%20Intl.),departure:10/03/2024TANYT&options=cabinclass:economy&fromDate=01/03/2024&toDate=10/03/2024&d1=2024-3-1&d2=2024-3-10&passengers=adults:1,infantinlap:N
+Hovered on DIV with text "Fly nonstop to Manila and connect to domestic and international destinations"
+Hovered on SPAN with text "Cathay Pacific (8)"
+Clicked on SPAN with text "1 stop (29)"
+Clicked on INPUT
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (29)
+CA $1,836
+2+ stops (32)
+CA $1,955
+Airlines
+Airlines
+From
+Sing"
+Input Changed on INPUT, changed value to "1"
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (29)
+CA $1,836
+2+ stops (32)
+CA $1,955
+Airlines
+Airlines
+From
+Sing"
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (29)
+CA $1,836
+2+ stops (32)
+CA $1,955
+Airlines
+Airlines
+From
+Sing"
+Hovered on SECTION with text "More travel
+Get the app
+English
+List your property
+Support
+Trips
+Sign in"
+Rapid scrolling detected
+Rapid scrolling detected
+Clicked on BUTTON with text "Show more"
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (29)
+CA $1,836
+2+ stops (32)
+CA $1,955
+Airlines
+Airlines
+From
+Sing"
+Clicked on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (29)
+CA $1,836
+2+ stops (32)
+CA $1,955
+Airlines
+Airlines
+From
+Sing"
+Clicked on BUTTON with text "Show more"
+Rapid scrolling detected
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (29)
+CA $1,836
+2+ stops (32)
+CA $1,955
+Airlines
+Airlines
+From
+Sing"
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (29)
+CA $1,836
+2+ stops (32)
+CA $1,955
+Airlines
+Airlines
+From
+Sing"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on DIV with text "Prices displayed include taxes and may change based on availability. You can review any additional f"
+Hovered on DIV with text "Prices displayed include taxes and may change based on availability. You can review any additional f"
+Hovered on SELECT
+Clicked on SELECT
+Hovered on SELECT
+Clicked on MAIN with text "Select your departure to Singapore
+Current: Choose departing flight
+Choose departing flight
+Choose r"
+Hovered on MAIN with text "Select your departure to Singapore
+Current: Choose departing flight
+Choose departing flight
+Choose r"
+Hovered on SELECT
+Clicked on SELECT
+Hovered on SELECT
+Hovered on UL with text "Turkish Airlines flight departing at 9:40 PM from CA $1,836
+9:40 PM - 5:30 PM+2
+Toronto (YYZ) - Sing"
+Rapid scrolling detected
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 7:00 PM from Toronto, a"
+Hovered on BUTTON with text "Select and show fare information for Turkish Airlines flight, departing at 9:40 PM from Toronto, arr"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on OPTION with text "Duration (Shortest)"
+Hovered on LI
+Input Changed on SELECT, changed value to "DURATION_INCREASING"
+Hovered on SELECT
+Clicked on SELECT
+Clicked on SELECT
+Rapid scrolling detected
+Hovered on A with text "Open in same window"
+Rapid scrolling detected
+Rapid scrolling detected
+Hovered on BUTTON with text "Select and show fare information for Emirates flight, departing at 1:55 PM from Toronto, arriving at"
+Hovered on MESO-DISPLAY-AD
+Hovered on A with text "We've found you a great deal!. Get more, spend less with up to CA $760 off when you book your flight"
+Hovered on BUTTON with text "Select and show fare information for EVA Airways flight, departing at 12:15 AM from Toronto, arrivin"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on OPTION with text "Price (Lowest)"
+Input Changed on SELECT, changed value to "PRICE_INCREASING"
+Hovered on DIV with text "Filter by
+Stops
+Stops
+From
+1 stop (29)
+CA $1,836
+2+ stops (32)
+CA $1,955
+Airlines
+Airlines
+From
+Sing"
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 7:00 PM from Toronto, a"
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 7:00 PM from Toronto, a"
+Clicked on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 7:00 PM from Toronto, a"
+Hovered on BUTTON with text "Select"
+Clicked on BUTTON with text "Select"
+Hovered on LI
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 11:45 PM from Singapore"
+Hovered on DIV with text "Change your search
+Roundtrip
+1 traveller
+Economy
+Flying from
+Flying from:
+Toronto, ON (YYZ-Pearson I"
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 11:45 PM from Singapore"
+Hovered on BUTTON with text "Select and show fare information for Singapore Airlines flight, departing at 11:45 PM from Singapore"
+Hovered on BUTTON with text "Select and show fare information for United flight, departing at 10:20 PM from Singapore, arriving a"
+Rapid scrolling detected
+Hovered on BUTTON with text "Select and show fare information for United flight, departing at 10:20 PM from Singapore, arriving a"
+Clicked on BUTTON with text "Select and show fare information for United flight, departing at 10:20 PM from Singapore, arriving a"
+Hovered on BUTTON with text "Select"
+Clicked on DIV with text "CA $2,608.76 roundtrip for 1 traveller
+CA $2,609
+CA $2,608.76 roundtrip for 1 traveller
+Economy Part"
+Clicked on DIV with text "10:20 PM through 3:23 PM (1 stop)
+10:20 PM - 3:23 PM (29h 3m, 1 stop)
+Arrives Mon, Mar 11
++1
+United
+"
+Hovered on UL with text "Seat
+Seat choice included
+Bags
+Personal item included
+Carry-on bag included
+2 checked bags included*"
+Hovered on DIV with text "CA $8,347.94 roundtrip for 1 traveller
+CA $8,348
+CA $8,347.94 roundtrip for 1 traveller
+Premium Econ"
+Clicked on BUTTON
+Hovered on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Hovered on SPAN with text "Personal item included"
+Hovered on SPAN with text "Personal item included"
+Hovered on BUTTON with text "Select"
+Clicked on BUTTON with text "Select"
+Hovered on A with text "No thanks"
+Hovered on A with text "Search for hotels"
+Clicked on A with text "No thanks"
+Hovered on BUTTON with text "Select and show fare information for United flight, departing at 10:20 PM from Singapore, arriving a"

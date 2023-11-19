@@ -1,0 +1,257 @@
+Page Loaded: https://www.expedia.ca/
+Clicked on SPAN with text "Flights"
+Clicked on BUTTON
+Hovered on INPUT
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "Toronto, ON, Canada (YYZ-Pearson Intl.)"
+Clicked on BUTTON
+Hovered on INPUT
+Input Changed on INPUT, changed value to "sing"
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON with text "Singapore, Singapore (SIN-Changi)"
+Hovered on BUTTON
+Hovered on DIV with text "Add a place to stay
+
+Add a car"
+Input Changed on INPUT, changed value to "sing"
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON with text "Nov 27 - Nov 28"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON with text "Done"
+Hovered on BUTTON with text "Done"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.expedia.ca/Flight-Information?journeyContinuationId=AQqBBAq5A3Y1LXNvcy03YmYwM2ZkOGY5ZjQ0OWYwODE3YjdhOTE2MjI5ZmQ5Ni0xLTUtMS1zdC12NS1zb3MtN2JmMDNmZDhmOWY0NDlmMDgxN2I3YTkxNjIyOWZkOTYtNy01LTF-Mi5TfkFRb0NDQVFTQndpQ2FCQUJHQVFvQWxnQ2NBQndBSG9EWW1aemVnTmlabk1-QVFwTENpUUkxSllCRWdJeE9CaVl6Z0VneUp3QktNQ3N4Z0l3bUxIR0FqaE1RQUJZQVdvQ1VsTUtJd2pVbGdFU0FqVTBHTWljQVNDU2Fpal90Y1lDTVBxNnhnSTRURUFCV0FGcUFsSlRFZ29JQVJBQkdBRXFBbFJMR0FFaUJBZ0JFQUVvQWlnREtBUXdBUS5BUXBWQ2ljSTFZSUJFZ0l5T0JpU2FpQ3ljU2o4aThjQ01QYVN4d0k0UzBBQVdBRnFCMFZEVDA1UFRWa0tLZ2pWZ2dFU0JEZ3hNVFVZc25FZ21NNEJLS2FYeHdJd3k1bkhBamhMUUFGWUFXb0hSVU5QVGs5TldSSUtDQUVRQVJnQktnSlZRUmdCSWdRSUFSQUJLQUlvQXlnRU1BRRHsUbgehdydQBoTCAESDwoIUFQxMEgxNU0SA0lTVBoSCAISDgoHUFQ5SDIwTRIDU0ZPIgEBKgUSAwoBMSoHCAESAwoBMRI_ChYKCjIwMjQtMDMtMDESA1lZWhoDU0lOChYKCjIwMjQtMDMtMTASA1NJThoDWVlaEgcSBUNPQUNIGgIQASACGgsIARIHGgM6AQEiABoLCAISBxoDOgEBIgAgATILCP___________wE6AA%3D%3D
+Hovered on BUTTON with text "Continue to checkout
+Check out"
+Clicked on BUTTON with text "Continue to checkout
+Check out"
+Clicked on BUTTON with text "Go to checkout"
+Page Loaded: https://www.expedia.ca/Checkout/V1/FlightCheckout?tripid=965b78df-be87-50e7-b8e0-a781c65d9ad9&c=0fbac1fb-e0d2-4ba6-b211-9d1714b5421e
+Hovered on FIELDSET with text "First name
+*
+ 
+Middle name
+ 
+Last name
+*"
+Hovered on INPUT
+Page Loaded: https://www.expedia.ca/
+Input Changed on INPUT, changed value to "marina bay"
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON with text "Nov 13 - Nov 17"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on DIV with text "March 2024
+S
+Sunday
+	M
+Monday
+	T
+Tuesday
+	W
+Wednesday
+	T
+Thursday
+	F
+Friday
+	S
+Saturday
+
+					
+1
+	
+2"
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "2 travellers, 1 room"
+Clicked on BUTTON with text "Done"
+Clicked on BUTTON with text "Search"
+Rapid scrolling detected
+Rapid scrolling detected
+Rapid scrolling detected
+Hovered on SPAN with text "Reserve"
+Clicked on SPAN with text "Reserve"
+Clicked on BUTTON with text "Pay now"
+Hovered on DIV with text "Your payment options
+Pay now
+We will process your payment in your local currency
+More ways to pay: u"
+Page Loaded: https://www.expedia.ca/Hotel-Search?destination=Marina%20Bay,%20Singapore,%20Singapore&regionId=6047873&latLong=1.2803415274578787,103.86120359526387&d1=2024-03-01&startDate=2024-03-01&d2=2024-03-10&endDate=2024-03-10&adults=1&rooms=1
+Clicked on DIV with text "Breakfast included"
+Clicked on INPUT
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Input Changed on INPUT, changed value to "FREE_BREAKFAST"
+Clicked on DIV with text "Filter by
+Your previous filters
+
+Breakfast included
+
+Popular filters
+
+Colonial District
+
+Hotel
+
+Rese"
+Hovered on INPUT
+Clicked on INPUT
+Input Changed on INPUT, changed value to "360"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on INPUT
+Clicked on INPUT
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Input Changed on INPUT, changed value to "360"
+Clicked on SPAN with text "5"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "50"
+Clicked on SPAN with text "4"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "40"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Clicked on SELECT
+Hovered on SELECT
+Clicked on OPTION with text "Price: low to high"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Input Changed on SELECT, changed value to "PRICE_LOW_TO_HIGH"
+Clicked on INPUT
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Input Changed on INPUT, changed value to "WIFI"
+Clicked on BUTTON with text "See less"
+Hovered on DIV with text "Going to
+Marina Bay, Singapore, Singapore
+Going to
+Going to
+Dates
+Mar 1 - Mar 10
+Travellers
+1 travel"
+Clicked on INPUT
+Input Changed on INPUT, changed value to "GYM"
+Hovered on SECTION with text "static map image
+View in a map
+Compare properties
+Sort & filter
+Search by property name
+e.g. Marriot"
+Hovered on A with text "Opens in a new tab"
+Hovered on A with text "Opens in a new tab"
+Clicked on A with text "Opens in a new tab"
+Page Loaded: https://www.expedia.ca/HotelCheckout?tripid=94f0a9e9-7c60-5d26-9469-567a15ec703f&c=5bbbf94e-20a0-4334-bed9-73e61977afac&swpApplied=false&searchId=bb1899c7-a65b-4eb4-a94a-d20c0ac19752
+Hovered on DIV with text "Secure booking
+Trip Summary
+Holiday Inn Express and Suites Singapore Novena, an IHG Hotel
+9/10 Wonde"
+Hovered on ARTICLE with text "Who's checking in?
+Room 1: 1 Adult 1 Queen Bed Non-smoking
+ Breakfast included  Free WiFi
+Room 1:
+Fi"
+Page Loaded: https://www.expedia.ca/
+Clicked on SPAN with text "Cars"
+Clicked on BUTTON with text "Nov. 27 - Nov. 28"
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Clicked on BUTTON
+Hovered on INPUT
+Clicked on BUTTON
+Input Changed on INPUT, changed value to "Singapore, Singapore (SIN-Changi)"
+Clicked on BUTTON
+Clicked on DIV with text "Discount codes"
+Clicked on BUTTON with text "Search"
+Page Loaded: https://www.expedia.ca/carsearch/details?selCC=%5Bsuv%5D&selPR=%5B1250-1500%5D&date1=01%2F03%2F2024&date2=10%2F03%2F2024&time1=1030AM&time2=1030AM&dpln=5130579&locn=Singapore%2C+Singapore+%28SIN-Changi%29&piid=AQkwSF_NHd_GKkI7QCbCnsLLavjCnI7in9MF41jMKsvonV1uAqAWSRRoPWPpUhdDAVuFClL2fWJDSyeKkY1BBCgAwetUACiRXhG6SwOjJAdNE&dailyPriceShown=151.65&totalPriceShown=1364.92&searchUrl=%2Fcarsearch%3Fdate1%3D01%252F03%252F2024%26date2%3D10%252F03%252F2024%26time1%3D1030AM%26time2%3D1030AM%26dpln%3D5130579%26locn%3DSingapore%252C%2BSingapore%2B%2528SIN-Changi%2529&isOffAirport=false&offerQualifiers=GreatDeal%2CGreatDeal&avgCatPR=1496.0&period=weekly
+Clicked on BUTTON with text "Reserve"
+Page Loaded: https://www.expedia.ca/MultiItemCheckout?tripid=dee3bfa3-83cf-5d1e-8c36-67651ca49dae&c=87591742-30d9-4644-96b1-9e5257777811&swpApplied=null
+Hovered on SECTION with text "Français"

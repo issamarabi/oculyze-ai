@@ -1,0 +1,474 @@
+Clicked on SPAN with text "Flights"
+Page Loaded: https://ca.trip.com/
+Clicked on DIV with text "Toronto
+All airports"
+Clicked on DIV
+Hovered on DIV
+Input Changed on INPUT
+Clicked on INPUT
+Clicked on SPAN
+Clicked on SPAN
+Hovered on SPAN
+Clicked on SPAN
+Clicked on LI with text "1"
+Clicked on LI with text "10"
+Clicked on SPAN with text "Search"
+Page Loaded: https://ca.trip.com/flights/duolunduo-to-singapore/tickets-yto-sin?dcity=yto&acity=sin&ddate=2024-03-01&rdate=2024-03-10&flighttype=rt&class=y&lowpricesource=searchform&quantity=1&searchboxarg=t
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Mar
+View
+24 Feb"
+Hovered on DIV with text "Lowest Price
+Included
+−6% CO₂ emissions"
+Hovered on DIV with text "Lowest Price
+Included
+−6% CO₂ emissions"
+Hovered on DIV with text "CAD 1,720"
+Clicked on DD with text "1 stop
+CAD 1,720"
+Clicked on I
+Hovered on DIV with text "Lowest Price
+Included
+−6% CO₂ emissions"
+Hovered on DIV with text "Shortest Duration
+CAD 1,887"
+Hovered on DIV with text "TorontoSingapore
+Edit
+1 Adult
+Economy
+1 Mar, 2024-10 Mar, 2024
+26 Feb – 6 Mar
+View
+27 Feb – 7 Mar
+Vi"
+Clicked on DT with text "Any"
+Hovered on SPAN
+Clicked on SPAN
+Hovered on DIV with text "Total Duration
+< 30h 24m
+30h 24m"
+Hovered on DIV with text "Stopover Duration
+< 33h 0m
+33h 0m"
+Hovered on DIV with text "Shortest Duration
+Included"
+Hovered on DIV with text "Included"
+Hovered on DIV with text "Included"
+Clicked on DIV with text "30h 5m"
+Clicked on DIV with text "30h 5m"
+Hovered on DIV with text "30h 5m"
+Clicked on DIV with text "30h 5m"
+Clicked on DIV with text "30h 5m
+10h 55m in New Delhi"
+Rapid succession of clicks detected
+Clicked on DIV with text "Included
+Air India
+11:55
+YYZ T1
+30h 5m
+10h 55m in New Delhi
+07:00
+SIN T2
+ +2
+CAD 1,843
+Return
+Select"
+Clicked on DIV with text "Air India
+11:55
+YYZ T1
+30h 5m
+10h 55m in New Delhi
+07:00
+SIN T2
+ +2
+CAD 1,843
+Return
+Select"
+Hovered on DIV with text "Included"
+Hovered on DIV with text "Return
+1 Adult
+Economy
+Toronto
+All airports
+Singapore
+All airports
+Search
+23 Feb – 3 Mar
+View
+24 Feb"
+Clicked on DIV with text "Sort By"
+Hovered on DIV with text "Departure (Latest)
+CAD 2,243"
+Hovered on DIV with text "Included"
+Hovered on DIV with text "Included"
+Clicked on DIV with text "Lowest Price
+CAD 1,843"
+Clicked on DIV with text "Sort By"
+Clicked on DIV
+Clicked on SPAN with text "<5 left"
+Hovered on DIV with text "Lowest Price
+Included"
+Hovered on SPAN
+Hovered on DIV with text "Lowest Price
+Included"
+Hovered on SPAN with text "09:00"
+Hovered on DIV with text "Singapore Airlines
+Codeshare flight
+09:00
+SIN T3
+46h 10m
+23h 40m in London
+19:10
+YYZ T1
+ +1"
+Hovered on DIV with text "46h 10m"
+Hovered on DIV with text "Select flights individually
+Filters
+Clear All
+1 stop
+Recommended Filters
+ Includes checked baggage
+ "
+Hovered on DIV with text "46h 10m"
+Hovered on DIV with text "Singapore Airlines
+Codeshare flight
+09:00
+SIN T3
+46h 10m
+23h 40m in London
+19:10
+YYZ T1
+ +1
+CAD 1,87"
+Clicked on SPAN with text "Select"
+Hovered on DIV with text "Economy
+Baggage
+Checked Baggage: 2 × 23 kg
+Carry-on Baggage: Included
+Fare Rules
+Change fee: from CA"
+Clicked on SPAN with text "Book"
+Page Loaded: https://ca.trip.com/
+Hovered on SPAN with text "Hotels"
+Clicked on SPAN with text "Hotels"
+Clicked on INPUT
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "marina bay"
+Hovered on P with text "Singapore, Singapore"
+Hovered on DIV with text "Marina Bay
+
+Singapore, Singapore"
+Clicked on DIV with text "Marina Bay
+
+Singapore, Singapore"
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Destinati"
+Hovered on DIV with text "Destination/Hotel Name
+Singapore, Singapore
+Check-in
+1 night
+Check-out
+Nov 2023
+Sun
+Mon
+Tue
+Wed
+Thu
+"
+Hovered on DIV with text "Destination/Hotel Name
+Singapore, Singapore"
+Hovered on DIV with text "Destination/Hotel Name
+Singapore, Singapore
+Check-in
+1 night
+Check-out
+Nov 2023
+Sun
+Mon
+Tue
+Wed
+Thu
+"
+Hovered on DIV with text "Your Trip Starts Here"
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Destinati"
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support"
+Hovered on DIV with text "Hotels
+Flights
+Trains
+Car Rentals
+Destination/Hotel Name
+Singapore, Singapore
+Check-in
+1 night
+Check"
+Clicked on SPAN
+Clicked on SPAN
+Clicked on SPAN
+Hovered on SPAN
+Clicked on LI with text "1"
+Hovered on SPAN with text "10"
+Clicked on SPAN with text "10"
+Clicked on DIV with text "Rooms and Guests
+
+1 room, 2 adults, 0 children"
+Hovered on DIV with text "Done"
+Clicked on I
+Hovered on I
+Hovered on DIV with text "Your Trip Starts Here
+Secure Payment
+Rapid Phone Support
+Hotels
+Flights
+Trains
+Car Rentals
+Destinati"
+Hovered on DIV with text "Hotels
+Flights
+Trains
+Car Rentals
+Destination/Hotel Name
+Singapore, Singapore
+Check-in
+9 nights
+Chec"
+Clicked on SPAN with text "Done"
+Clicked on SPAN with text "Search"
+Hovered on DIV with text "Hotels
+Flights
+Trains
+Car Rentals
+Destinations
+Trip.com Rewards
+List My Hotel
+App
+Help
+CAD
+Search Bo"
+Hovered on SECTION with text "M Hotel Singapore City Centre
+Health Protected
+Anson Rd, 81, 079908 Singapore, Singapore
+Metro Acces"
+Page Loaded: https://ca.trip.com/hotels/detail/?cityId=73&hotelId=890394&checkIn=2024-03-01&checkOut=2024-03-10&adult=1&children=0&subStamp=455&crn=1&ages=&travelpurpose=0&curr=CAD&starlist=4,5&link=button&hoteluniquekey=H4sIAAAAAAAAAOOax8zFIsAowSjExMEoNZGZY9_0C4dYLH4LOlaLrHN_WDrHwVO-9XXgCZbLDgE8kxilOL9pxPQfmlvpIAiUrRI5VurgxMbx5AiTBMskRhlOsJ68KgfBJQW2XNfLyxw0GIHSk87jlGZClj57Bgj-AI0GqxMDSjMDpfedhEr3H_qqEVNf5iD4JnCHXKt8sYMGC1B6_lyoNFDsdeCHEgdBMONMoYMGK1B6bydUOggkLFntIAh09Tp3znIHDTag9LnrOJ3Gjuw0DF9rcMD8PYNx1hqzjYwg4y8Kr3DYwch4gJHzBONNpgVMdyYx7mJi4-g-KCbBcgjI-HmcWYLlFBPDJSaGW0wMj5gYXjExfGJi-AWU6j8ANKqJmaGLmWESMyvHVSMJllnMDIuYGaR4U9OMjExMEg2MzBINkxWENGY3bF3FZmTBwaglEB_i6exYWZqVWpFrmmNgUGbAOImRydnxFKOUoZmlpamZoaGBpbGxoZ6pqWViTqZPvklIpLsVsxSjmwdnEJuzoaWRq1mUFhdzsLuLIAMYfLCXYnZ2dFFcty2p_qbtB3stkJzhUYUNRRmFog5JrKl5us6OGff4Chi7GDkEGD0YIxgrGF8xgvT8AIUDADOkLW9PAgAA&subChannel=&masterhotelid_tracelogid=ef2244a026a1c&NewTaxDescForAmountshowtype0=T&barcurr=CAD&HighPrice=350&LowPrice=0&breakfast=1
+Hovered on DIV with text "M Hotel Singapore City Centre
+Health Protected
+Anson Rd, 81, 079908 Singapore, Singapore
+Metro Acces"
+Hovered on DIV with text "Hotels
+Flights
+Trains
+Car Rentals
+Destinations
+Trip.com Rewards
+List My Hotel
+Help
+CAD
+Search Bookin"
+User was inactive for 42 seconds
+Clicked on DIV with text "Select Rooms"
+Hovered on DIV with text "Access Lower Price"
+Clicked on DIV with text "Book at This Price"
+Clicked on SPAN with text "4"
+Page Loaded: https://ca.trip.com/hotels/list?city=73&cityName=Singapore&provinceId=0&countryId=3&districtId=0&checkin=2024%2F03%2F01&checkout=2024%2F03%2F10&barCurr=CAD&lat=1.29186232961828&lon=103.857327103615&searchType=Z&searchWord=Marina%20Bay&searchValue=8~376_8_376_1&searchCoordinate=BAIDU_-1_-1_0~GAODE_0_0_0~GOOGLE_1.29186232961828_103.857327103615_0~NORMAL_1.29186232961828_103.857327103615_0&crn=1&adult=1&children=0&searchBoxArg=t&travelPurpose=0&ctm_ref=ix_sb_dl&domestic=false&listFilters=16~4*16*4*2%2C17~1*17*1*2%2C80~0~1*80*0*2%2C8~376*8*376~1.2918624~103.85733~1~73~*2
+Clicked on I
+Clicked on SPAN with text "Breakfast Included"
+Clicked on DIV with text "Price (CAD)
+
+Price per room per night (excl. taxes & fees)"
+Clicked on DIV with text "CAD 250"
+Hovered on DIV with text "CAD 250"
+Hovered on DIV with text "Destination/Hotel Name
+Singapore, Singapore
+Check-in
+9 nights
+Check-out
+Rooms and Guests
+
+1 room, 1 "
+Clicked on SPAN with text "Show All 11"
+Clicked on LI with text "Fitness Room"
+Hovered on LI with text "Fitness Room"
+Clicked on SPAN with text "Show All 25"
+Hovered on LI with text "Charging station"
+Hovered on DIV with text "9 nights
+
+1 room, 1 adult, 0 children
+
+Search
+Show on Map
+
+Price (CAD)
+
+Clear
+Price per room per nig"
+Hovered on SECTION with text "Show on Map
+
+Price (CAD)
+
+Clear
+Price per room per night (excl. taxes & fees)
+
+Popular Filters
+
+Clea"
+Hovered on DIV with text "9 nights
+
+1 room, 1 adult, 0 children
+
+Search
+Show on Map
+
+Price (CAD)
+
+Clear
+Price per room per nig"
+Hovered on LI with text "Wi-Fi in Public Areas"
+Hovered on DIV with text "9 nights
+
+1 room, 1 adult, 0 children
+
+Search
+Show on Map
+
+Price (CAD)
+
+Clear
+Price per room per nig"
+Hovered on SECTION with text "Show on Map
+
+Price (CAD)
+
+Clear
+Price per room per night (excl. taxes & fees)
+
+Popular Filters
+
+Clea"
+Clicked on SPAN with text "Lowest Price (Incl. Tax)"
+Hovered on UL with text "Searching...
+Selected Filters:
+Fitness Room
+Breakfast Included
+Marina Bay
+CAD 0-CAD 250
+Clear Filter"
+Hovered on DIV with text "Destination/Hotel Name
+Singapore, Singapore
+Check-in
+9 nights
+Check-out
+Rooms and Guests
+
+1 room, 1 "
+Hovered on I
+Hovered on LI with text "Wi-Fi in Public Areas"
+Hovered on I
+Hovered on DIV with text "ST Signature Tanjong Pagar
+4.1/5
+
+Very Good
+
+272 reviews
+
+"Great stay!"
+"Clean and tidy"
+
+Chinatown
+"
+Hovered on SPAN with text "3.2 km drive from Marina Bay"
+Hovered on DIV with text "No matching properties found
+
+Please adjust your search filters and try again.
+
+Clear Filters"
+Clicked on DIV with text "CAD 350"
+Hovered on DIV with text "Destination/Hotel Name
+Singapore, Singapore
+Check-in
+9 nights
+Check-out
+Rooms and Guests
+
+1 room, 1 "
+Clicked on DIV with text "Check Availability"
+Hovered on DIV with text "Check Availability"
+User was inactive for 13 seconds
+Hovered on IMG
+Hovered on P with text "The following hotels meet some of your requirements:"
+User was inactive for 14 seconds
+Hovered on UL with text "1 property found
+Selected Filters:
+Fitness Room
+Breakfast Included
+Marina Bay
+CAD 0-CAD 350
+Clear Fi"
+Hovered on P with text "The following hotels meet some of your requirements:"
+User was inactive for 12 seconds
+Hovered on DIV with text "Hotels
+Flights
+Trains
+Car Rentals
+Destinations
+Trip.com Rewards
+List My Hotel
+Help
+CAD
+Search Bookin"
+Clicked on LI with text "Car Rentals"
+Page Loaded: https://ca.trip.com/
+Clicked on INPUT
+Hovered on INPUT
+Input Changed on INPUT, changed value to "singapore"
+Hovered on DIV with text "Pick-up Location
+Paya Lebar (QPG)
+Singapore, Singapore
+Changi Airport (SIN)
+Singapore, Singapore
+Sel"
+Hovered on DIV with text "Singapore, Singapore"
+Clicked on DIV with text "Changi Airport (SIN)"
+Clicked on INPUT
+Clicked on H3 with text "Dec 2023"
+Clicked on H3 with text "Dec 2023"
+Hovered on H3 with text "Dec 2023"
+Clicked on H3 with text "Dec 2023"
+Clicked on SPAN
+Clicked on SPAN
+Hovered on SPAN
+Clicked on SPAN
+Rapid succession of clicks detected
+Clicked on SPAN with text "1"
+Clicked on INPUT
+Hovered on SPAN with text "10"
+Clicked on SPAN with text "10"
+Hovered on DIV with text "Featured Properties"
+Hovered on DIV
+Clicked on DIV
+Page Loaded: https://ca.trip.com/carhire/online/booking?pcity=73&pcityName=Changi%20Airport&pcode=SIN&ptype=1&plat=1.36442&plon=103.991531&paddress=Changi%20Airport%20%28SIN%29&ptimezone=8&rcity=73&rcityName=Changi%20Airport&rcode=SIN&rtype=1&rlat=1.36442&rlon=103.991531&raddress=Changi%20Airport%20%28SIN%29&rtimezone=8&ptime=2024%2F03%2F01%2010%3A00&rtime=2024%2F03%2F10%2010%3A00&scountry=47&age=30-60&channelid=235728&productCode=6945419_ARoAPEZnPG38kCxSlH2ACfvDIORCIZnTzu1wqWOoLpZkNEU%3D&isFromPage=list
+Hovered on IMG
+Hovered on IMG
+Hovered on DIV with text "4Confirmation"
