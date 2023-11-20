@@ -11,23 +11,31 @@ def transcribe_audio(audio_files: List[str]) -> List[str]:
     return transcriptions
 
 
-def think_aloud_minutes(transcription: str) -> dict:
-    usability_issues = issues_extraction(transcription)
-    # actionable_insights = action_extraction(usability_issues, transcription)
-    return {
-        'usability_issues': usability_issues,
-        # 'actionable_insights': actionable_insights,  
-    }
+# def think_aloud_minutes(transcription: str) -> dict:
+#     usability_issues = issues_extraction(transcription)
+#     # actionable_insights = action_extraction(usability_issues, transcription)
+#     return {
+#         'usability_issues': usability_issues,
+#         # 'actionable_insights': actionable_insights,  
+#     }
 
 
-def issues_extraction(transcription: str) -> str:
+def issues_extraction(transcription: str, website_name: str, tasks: str) -> str:
     response = openai.ChatCompletion.create(
-        model="gpt-4",
+        model="gpt-4-1106-preview",
         temperature=0,
         messages=[
             {
                 "role": "system",
-                "content": "As an AI with expertise in HCI, your task is to identify the main usability issues of a website from the following transcription from a usability test of a website. Based on the transcription provided, please identify and list the usability issues that users experienced while navigating or interacting with the website. Focus on points where users felt confused, frustrated, or encountered problems. Your goal is to provide a clear list of issues that can help designers understand areas that need improvement. For each issue, referece precisely where in the transcription it was mentioned or inferred."
+                "content": f"""
+                You are an AI with expertise in HCI and UX research and design and identification of usabilitiy issues of websites.
+                Your task is to identify the main usability issues of a website from the following 
+                transcripts of think-aloud data from a usability test of the website {website_name}, where they were directed to complete the following
+                tasks: {tasks}. Based on the transcript provided, please identify and list the usability issues that users experienced while navigating or 
+                interacting with the website. Focus on points where users felt confused, frustrated, or encountered problems. After conducting the analysis,
+                your goal is to provide a clear list of issues that can help designers understand areas that need improvement. For each issue, referece 
+                precisely where in the transcription it was mentioned or inferred.
+                """
             },
             {
                 "role": "user",
@@ -38,53 +46,60 @@ def issues_extraction(transcription: str) -> str:
     return response['choices'][0]['message']['content']
 
 
-def action_extraction(issues: str, transcription: str) -> str:
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        temperature=0,
-        messages=[
-            {
-                "role": "system",
-                "content": "As an AI with expertise in HCI, your task is to identify the main actionable insights to give designers of a website from the following transcription from a usability test of a website, as well as the previously extracted usability issues. Given the extracted usability issues and the transcription, please provide actionable insights or recommendations that the designers can implement to improve the website's usability. These should be practical steps or changes that can address the identified problems. Your goal is to help designers take effective actions to enhance the user experience."
-            },
-            {
-                "role": "user",
-                "content": f"""
-                Issues extracted: {issues}
-                transcription: {transcription}
-                """
-            }
-        ]
-    )
-    return response['choices'][0]['message']['content']
+# def action_extraction(issues: str, transcription: str) -> str:
+#     response = openai.ChatCompletion.create(
+#         model="gpt-4",
+#         temperature=0,
+#         messages=[
+#             {
+#                 "role": "system",
+#                 "content": "As an AI with expertise in HCI, your task is to identify the main actionable insights to give designers of a website from the following transcription from a usability test of a website, as well as the previously extracted usability issues. Given the extracted usability issues and the transcription, please provide actionable insights or recommendations that the designers can implement to improve the website's usability. These should be practical steps or changes that can address the identified problems. Your goal is to help designers take effective actions to enhance the user experience."
+#             },
+#             {
+#                 "role": "user",
+#                 "content": f"""
+#                 Issues extracted: {issues}
+#                 transcription: {transcription}
+#                 """
+#             }
+#         ]
+#     )
+#     return response['choices'][0]['message']['content']
 
 
-def format_transcript(transcript: Dict[str, str], idx: int=1) -> str:
+def format_arr(arr: List[str], data: str) -> str:
     """
     Converts a single transcript into a readable string format for LLM processing.
     """
-    formatted_transcript = f"Study {idx+1}:\n"
-    formatted_transcript += f"Usability Issues: {transcript['usability_issues']}\n"
-    # formatted_transcript += f"Actionable Insights: {transcript['actionable_insights']}\n\n"
-    return formatted_transcript
+    str = ""
+    for i, item in enumerate(arr):
+        str += f"{data} {i+1}: {item}\n"
+    return str
 
-def summarize_insights(minute: str) -> str:
+def summarize_insights(analyses: str, website: str, tasks: str) -> str:
     """
     transcripts: list of transcripts (combined output of multiple calls to think_aloud_minutes())
     """
 
     # Generate a summary based on all transcripts
     response = openai.ChatCompletion.create(
-        model="gpt-4",
+        model="gpt-4-1106-preview",
         temperature=0,
         messages=[
             {
                 "role": "system",
-                "content": "You are given a collection of usability studies for a website. Each study contains a list of usability issues identified from a think-aloud session and actionable insights recommended for addressing those issues. Based on this data, please provide a summarized list of key insights and common themes observed across all studies.  For each issue, referece precisely where in the transcription it was mentioned or inferred."
+                "content": f"""
+                You are a superintelligent AI with speialist expertise in HCI and UX research and design.
+                You are given a collection of analyses of usability studies for the website {website}, where participants conducted some tasks: {tasks}.
+                (one analysis per participant)
+                Each analysis contains a list of usability issues identified from a think-aloud session.
+                Your task is to summarize these analyses based on the most significant conclusions accross analyses.
+                For each issue, reference precisely where in the think-aloud transcript it was mentioned or inferred.
+                """
             },
             {
                 "role": "user",
-                "content": minute
+                "content": analyses
             },
         ],
     )
@@ -92,14 +107,19 @@ def summarize_insights(minute: str) -> str:
     return response['choices'][0]['message']['content']
 
 
-def process_log(log):
+def process_log(log, website, tasks):
     response = openai.ChatCompletion.create(
         model="gpt-4",
         temperature=0,
         messages=[
             {
                 "role": "system",
-                "content": """Analyze the following website interaction logs on a travel booking website to identify potential usability issues and user behavior patterns. Consider the user's navigation flow, interaction with various elements, points of hesitation or confusion, and any rapid or repetitive actions that might indicate frustration.
+                "content": f"""
+                You are an AI with expertise in HCI and UX research and design and identification of usabilitiy issues of websites.
+                You will be given website interaction logs from a usability study on the website {website}, where participants were asked to complete the
+                following tasks: {tasks}.
+                Analyze the following website interaction logs to identify potential usability issues and user behavior patterns.
+                Consider the user's navigation flow, interaction with various elements, points of hesitation or confusion, and any rapid or repetitive actions that might indicate frustration.
 
                             Based on these logs:
                             1. Identify patterns of user behavior.
