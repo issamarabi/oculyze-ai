@@ -98,13 +98,8 @@ def ratio_of_eye_path_to_task_length(df):
     return ratio
 
 def mean_pupil_size(df):
-    """
-    Calculate the mean pupil size.
-    This function assumes that the DataFrame has 'PupilLeft' and 'PupilRight' columns.
-    """
-    
-    # Clean the data: remove rows where pupil size is missing or zero (which may indicate blinks or recording errors)
-    clean_df = df[(df['PupilLeft'] > 0) & (df['PupilRight'] > 0)]
+    # Clean the data: remove rows where pupil size is missing or zero
+    clean_df = df[(df['PupilLeft'] > 0) & (df['PupilRight'] > 0)].copy()  # Explicit copy
     
     # Calculate the mean pupil size for each row
     clean_df['MeanPupilSize'] = clean_df[['PupilLeft', 'PupilRight']].mean(axis=1)
@@ -114,7 +109,8 @@ def mean_pupil_size(df):
     
     return overall_mean
 
-def task_analysis(input_tsv_file):
+
+def site_analysis(input_tsv_file):
     # Read the TSV file
     df = pd.read_csv(input_tsv_file, sep='\t')
     
@@ -133,31 +129,56 @@ def task_analysis(input_tsv_file):
         'mean_pupil_size': mean_pupil_size(df),
     }
     
-    # Print metrics
-    for metric_name, metric_value in metrics.items():
-        print(f'{metric_name}: {metric_value}')
-
     return metrics
 
-def website_analysis(input_tsv_files):
-    # Read the TSV files
-    dfs = [pd.read_csv(input_tsv_file, sep='\t') for input_tsv_file in input_tsv_files]
-    
-    # Calculate metrics
-    metrics = {
-        'time_to_first_fixation': [time_to_first_fixation(df) for df in dfs],
-        'fixation_duration': [fixation_duration(df) for df in dfs],
-        'number_of_fixations': [number_of_fixations(df) for df in dfs],
-        'saccade_to_fixation_ratio': [saccade_to_fixation_ratio(df) for df in dfs],
-        'number_of_saccades': [number_of_saccades(df) for df in dfs],
-        'saccade_amplitude': [saccade_amplitude(df) for df in dfs],
-        'scan_path_length': [scan_path_length(df) for df in dfs],
-        'spatial_density_of_scan_path': [spatial_density_of_scan_path(df) for df in dfs],
-        'total_fixation_time': [total_fixation_time(df) for df in dfs],
-        'ratio_of_eye_path_to_task_length': [ratio_of_eye_path_to_task_length(df) for df in dfs],
-        'mean_pupil_size': [mean_pupil_size(df) for df in dfs],
+def mean_metrics_across_studies(tsv_files):
+    # Initialize a dictionary to store the sum of each metric
+    total_metrics = {
+        'time_to_first_fixation': 0,
+        'fixation_duration': 0,
+        'number_of_fixations': 0,
+        'saccade_to_fixation_ratio': 0,
+        'number_of_saccades': 0,
+        'saccade_amplitude': 0,
+        'scan_path_length': 0,
+        'spatial_density_of_scan_path': 0,
+        'total_fixation_time': 0,
+        'ratio_of_eye_path_to_task_length': 0,
+        'mean_pupil_size': 0,
     }
-    
+    num_files = len(tsv_files)
+
+    # Process each file and accumulate the metrics
+    for file in tsv_files:
+        metrics = site_analysis(file)
+        for key in total_metrics:
+            total_metrics[key] += metrics[key]
+
+    # Calculate the mean of each metric
+    mean_metrics = {key: value / num_files for key, value in total_metrics.items()}
+
+    return mean_metrics
+
+def mean_metrics_across_websites(websites_tsv_files, website_names):
+    website_metrics = []
+
+    # Check if the length of website_names matches the number of website TSV file groups
+    if len(website_names) != len(websites_tsv_files):
+        raise ValueError("The length of website_names must match the number of website TSV file groups")
+
+    # Iterate over each website's TSV files
+    for site_files in websites_tsv_files:
+        # Calculate mean metrics for this website
+        mean_metrics = mean_metrics_across_studies(site_files)
+        website_metrics.append(mean_metrics)
+
+    # Create a DataFrame from the collected metrics
+    metrics_df = pd.DataFrame(website_metrics)
+
+    # Set website names as the index of the DataFrame
+    metrics_df.index = website_names
+
+    return metrics_df
 
 
 
