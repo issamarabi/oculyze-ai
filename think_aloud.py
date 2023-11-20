@@ -1,12 +1,14 @@
 import os
 import openai
+from openai import OpenAI
 import whisper
 from typing import List, Dict
 openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI()
 
 
 def transcribe_audio(audio_files: List[str]) -> List[str]:
-    model = whisper.load_model("base")
+    model = whisper.load_model("large")
     transcriptions = [model.transcribe(audio_file) for audio_file in audio_files]
     return transcriptions
 
@@ -21,7 +23,7 @@ def transcribe_audio(audio_files: List[str]) -> List[str]:
 
 
 def issues_extraction(transcription: str, website_name: str, tasks: str) -> str:
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-4-1106-preview",
         temperature=0,
         messages=[
@@ -43,11 +45,11 @@ def issues_extraction(transcription: str, website_name: str, tasks: str) -> str:
             }
         ]
     )
-    return response['choices'][0]['message']['content']
+    return response.choices[0].message.content
 
 
 # def action_extraction(issues: str, transcription: str) -> str:
-#     response = openai.ChatCompletion.create(
+#     response = client.chat.completions.create(
 #         model="gpt-4",
 #         temperature=0,
 #         messages=[
@@ -64,7 +66,7 @@ def issues_extraction(transcription: str, website_name: str, tasks: str) -> str:
 #             }
 #         ]
 #     )
-#     return response['choices'][0]['message']['content']
+#     return response.choices[0].message.content
 
 
 def format_arr(arr: List[str], data: str) -> str:
@@ -82,7 +84,7 @@ def summarize_insights(analyses: str, website: str, tasks: str) -> str:
     """
 
     # Generate a summary based on all transcripts
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-4-1106-preview",
         temperature=0,
         messages=[
@@ -104,12 +106,12 @@ def summarize_insights(analyses: str, website: str, tasks: str) -> str:
         ],
     )
 
-    return response['choices'][0]['message']['content']
+    return response.choices[0].message.content
 
 
 def process_log(log, website, tasks):
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
+    response = client.chat.completions.create(
+        model="gpt-4-1106-preview",
         temperature=0,
         messages=[
             {
@@ -136,13 +138,13 @@ def process_log(log, website, tasks):
         ],
     )
 
-    return response['choices'][0]['message']['content']
+    return response.choices[0].message.content
 
 
 
 
 # def abstract_summary_extraction(transcription):
-#     response = openai.ChatCompletion.create(
+#     response = client.chat.completions.create(
 #         model="gpt-4",
 #         temperature=0,
 #         messages=[
@@ -156,11 +158,11 @@ def process_log(log, website, tasks):
 #             }
 #         ]
 #     )
-#     return response['choices'][0]['message']['content']
+#     return response.choices[0].message.content
 
 
 # def key_points_extraction(transcription):
-#     response = openai.ChatCompletion.create(
+#     response = client.chat.completions.create(
 #         model="gpt-4",
 #         temperature=0,
 #         messages=[
@@ -174,11 +176,11 @@ def process_log(log, website, tasks):
 #             }
 #         ]
 #     )
-#     return response['choices'][0]['message']['content']
+#     return response.choices[0].message.content
 
 
 # def sentiment_analysis(transcription):
-#     response = openai.ChatCompletion.create(
+#     response = client.chat.completions.create(
 #         model="gpt-4",
 #         temperature=0,
 #         messages=[
@@ -192,4 +194,4 @@ def process_log(log, website, tasks):
 #             }
 #         ]
 #     )
-#     return response['choices'][0]['message']['content']
+#     return response.choices[0].message.content
